@@ -1,7 +1,7 @@
 <?php
 /**
  * Module d'importation des produits et catégories Victron Energy pour PrestaShop
- * Version 3.3.0 : Création d'une arborescence de catégories (Catégorie -> Sous-catégorie) et utilisation de la description comme nom de produit.
+ * Version 3.4.1 : Correction d'une erreur de syntaxe cURL et ajustement des traductions.
  */
 
 if (!defined('_PS_VERSION_')) {
@@ -20,7 +20,7 @@ class Ps_VictronProducts extends Module
     {
         $this->name = 'ps_victronproducts';
         $this->tab = 'migration_tools';
-        $this->version = '3.3.0';
+        $this->version = '3.4.1';
         $this->author = "Vitasolar's IT development department";
         $this->need_instance = 0;
         $this->bootstrap = true;
@@ -28,7 +28,7 @@ class Ps_VictronProducts extends Module
         parent::__construct();
 
         $this->displayName = $this->l('Importateur de produits Victron');
-        $this->description = $this->l('Importe, met à jour et affiche les produits Victron Energy avec une arborescence de catégories et des images.');
+        $this->description = $this->l('Importe, met à jour et affiche les produits Victron Energy avec une arborescence de catégories et des images. Les noms de produits sont basés sur la description de l\'API Victron.');
         $this->ps_versions_compliancy = ['min' => '1.7', 'max' => _PS_VERSION_];
         $this->defaultLanguageId = (int)Configuration::get('PS_LANG_DEFAULT');
     }
@@ -113,7 +113,7 @@ class Ps_VictronProducts extends Module
     {
         $baseUrl = 'https://eorder.victronenergy.com';
         $allData = [];
-        $nextUrl = $baseUrl . $endpoint . '?format=json';
+        $nextUrl = $baseUrl . $endpoint . '?format=json&language=fr_FR';
 
         while ($nextUrl) {
             $ch = curl_init();
@@ -201,7 +201,6 @@ class Ps_VictronProducts extends Module
             return false;
         }
         
-        // Nouvelle méthode pour créer l'arborescence des catégories
         $categoriesMap = $this->processCategoryTree($productsData);
         if ($categoriesMap === false) {
             $this->lastError = $this->l('Échec de la création de la structure des catégories.');
@@ -219,7 +218,6 @@ class Ps_VictronProducts extends Module
     private function processCategoryTree(array $productsData)
     {
         $tree = [];
-        // 1. Construire un arbre PHP représentant la structure désirée
         foreach ($productsData as $product) {
             $group = !empty($product['category']) ? trim($product['category']) : 'Catégorie non définie';
             $subGroup = !empty($product['subcategory']) ? trim($product['subcategory']) : 'Sous-catégorie non définie';
@@ -232,10 +230,8 @@ class Ps_VictronProducts extends Module
             }
         }
 
-        // 2. Créer les catégories dans PrestaShop et retourner une map des IDs
         $idMap = [];
         foreach ($tree as $groupName => $subGroups) {
-            // Créer la catégorie "Group"
             $id_group = (int)Db::getInstance()->getValue('
                 SELECT c.id_category FROM `'._DB_PREFIX_.'category` c
                 LEFT JOIN `'._DB_PREFIX_.'category_lang` cl ON (c.id_category = cl.id_category AND cl.id_lang = '.(int)$this->defaultLanguageId.')
@@ -249,14 +245,13 @@ class Ps_VictronProducts extends Module
                 $category->id_parent = $this->victronParentCategoryId;
                 $category->active = true;
                 if (!$category->add()) {
-                    continue; // Skip si la création échoue
+                    continue;
                 }
                 $id_group = $category->id;
             }
             
             $idMap[$groupName] = ['id' => $id_group, 'subgroups' => []];
 
-            // Créer les catégories "Sub-Group"
             foreach ($subGroups as $subGroupName) {
                 $id_subgroup = (int)Db::getInstance()->getValue('
                     SELECT c.id_category FROM `'._DB_PREFIX_.'category` c
@@ -290,8 +285,7 @@ class Ps_VictronProducts extends Module
         $product = new Product($productId ?: null);
         
         foreach (Language::getIDs(true) as $id_lang) {
-            // Utiliser 'description' comme nom de produit
-            $product->name[$id_lang] = $productData['description'] ?? 'Produit Victron sans nom';
+            $product->name[$id_lang] = $productData['description'] ?? $this->l('Produit Victron sans nom');
             $product->description[$id_lang] = $productData['product_data']['description'] ?? '';
             $product->description_short[$id_lang] = Tools::truncateString(strip_tags($product->description[$id_lang]), 400);
             $product->link_rewrite[$id_lang] = Tools::str2url($product->name[$id_lang]);
@@ -301,8 +295,8 @@ class Ps_VictronProducts extends Module
         $product->price = (float)($productData['price'] ?? 0);
         $product->id_manufacturer = $this->manufacturerId;
         
-        $groupName = !empty($productData['category']) ? trim($productData['category']) : 'Catégorie non définie';
-        $subGroupName = !empty($productData['subcategory']) ? trim($productData['subcategory']) : 'Sous-catégorie non définie';
+        $groupName = !empty($productData['category']) ? trim($productData['category']) : $this->l('Catégorie non définie');
+        $subGroupName = !empty($productData['subcategory']) ? trim($productData['subcategory']) : $this->l('Sous-catégorie non définie');
         
         $id_group = $categoriesMap[$groupName]['id'] ?? $this->victronParentCategoryId;
         $id_subgroup = $categoriesMap[$groupName]['subgroups'][$subGroupName] ?? $id_group;
@@ -314,7 +308,6 @@ class Ps_VictronProducts extends Module
 
         try {
             $product->save();
-            // Assigner le produit à toute l'arborescence
             $product->updateCategories(array_unique([$this->victronParentCategoryId, $id_group, $id_subgroup]));
             StockAvailable::setQuantity($product->id, 0, (int)($productData['stock_quantity'] ?? 100));
 
@@ -322,7 +315,7 @@ class Ps_VictronProducts extends Module
                 $this->importProductImage($product, $productData['product_data']['image']);
             }
         } catch (Exception $e) {
-            $this->lastError = 'Erreur produit ' . $reference . ': ' . $e->getMessage();
+            $this->lastError = $this->l('Erreur produit') . ' ' . $reference . ': ' . $e->getMessage();
         }
     }
     
