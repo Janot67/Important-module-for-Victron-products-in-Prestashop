@@ -1,0 +1,1778 @@
+[
+    {
+        "id": 353,
+        "name": "MultiPlus 500 VA - 1600 VA",
+        "price": "0.00",
+        "description": "Le nouveau style du MultiPlus est con\u00e7u pour remplacer l'ancienne gamme MultiPlus Compact. Il rassemble un convertisseur sinuso\u00efdal puissant, un chargeur sophistiqu\u00e9 \u00e0 technologie de charge adaptative et un commutateur de transfert de CA ultra rapide.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Multiplus 500-1600.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 147,
+        "name": "MultiPlus",
+        "price": "0.00",
+        "description": "Comme le sugg\u00e8re son nom, le MultiPlus est un appareil combinant un convertisseur et un chargeur dans un seul boitier. Parmi ses nombreuses fonctions, il inclut un convertisseur \u00e0 sinuso\u00efde pure, une charge adaptative, une technologie PowerAssist hybride, ainsi que des fonctions d'int\u00e9gration de syst\u00e8mes multiples.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/multiplus_nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 470,
+        "name": "MultiPlus 2000VA",
+        "price": "0.00",
+        "description": "Comme le sugg\u00e8re son nom, le MultiPlus est un appareil combinant un convertisseur et un chargeur dans un seul boitier. Parmi ses nombreuses fonctions, il inclut un convertisseur \u00e0 onde sinuso\u00efdale pure, charge adaptative, technologie PowerAssist hybride, ainsi que des fonctions d'int\u00e9gration de syst\u00e8mes multiples.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/PMP122200000_MultiPlus 12 2000VA 80 230V (front).png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 472,
+        "name": "MultiPlus-II 2x 120V",
+        "price": "0.00",
+        "description": "Le MultiPlus-II 2x 120 V est la solution parfaite dans un seul boitier pour des applications standard nord-am\u00e9ricaines en phase divis\u00e9e de 50 A 120\/240 VCA. Qu\u2019il soit aliment\u00e9 par la puissance de quai ou un g\u00e9n\u00e9rateur, le MultiPlus-II 2x 120 V peut accepter et passthrough (le convertisseur\/chargeur est allum\u00e9, mais la partie convertisseur est d\u00e9sactiv\u00e9e, de sorte que l\u2019\u00e9nergie provient de l\u2019entr\u00e9e CA) les deux lignes d\u2019une alimentation de 120\/240 V, et il peut utiliser la totalit\u00e9 des 50 A pour la recharge et les charges consommatrices CA. Lorsqu\u2019elle est raccord\u00e9e \u00e0 une alimentation monophas\u00e9e de 120 V, l\u2019entr\u00e9e L1 du MultiPlus-II 2x 120 V acceptera la puissance entrante pour la recharge et le passthrough, en combinant les sorties L1 et L2 pour une monophase de 120 V sur chaque ligne. Le MultiPlus commute en mode convertisseur lorsqu\u2019aucune source CA n\u2019est disponible. La sortie du convertisseur est \u00e9galement monophas\u00e9e \u00e0 120 V. En mode convertisseur, le MultiPlus-II 2x 120 V connecte ensemble les deux lignes de sortie L1 et L2 afin de fournir 120 VCA aux charges de chaque ligne. C\u2019est pourquoi, dans tous les cas de connexion, les deux c\u00f4t\u00e9 d\u2019un tableau de distribution seront aliment\u00e9s avec 120 V. Cependant, une puissance de 240 VCA n\u2019est disponible que si le MultiPlus est aliment\u00e9 par une source en phase divis\u00e9e de 120\/240 VCA. Cela emp\u00eache des charges lourdes telles que des chauffe-eau ou des climatiseurs de 240 V de d\u00e9charger la batterie.Le MultiPlus-II 2x 120 V dispose de toutes les fonctions pr\u00e9vues par notre gamme polyvalente de convertisseur\/chargeur, telles que les fonctions PowerControl, PowerAssist, limite de courant d'entr\u00e9e, deux sorties CA, ainsi que la possibilit\u00e9 de configuration en mode parall\u00e8le ou triphas\u00e9e pour des syst\u00e8mes VE.Bus de plus grande capacit\u00e9. Il est adapt\u00e9 aux batteries LiFePO4 et \u00e0 une grande vari\u00e9t\u00e9 d\u2019autres technologie de batterie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/PMP122305100_ MultiPlus-II 12_3000_120-50_2x120V (front)nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 389,
+        "name": "MultiPlus-II",
+        "price": "0.00",
+        "description": "Le MultiPlus-II combine les fonctions du MultiPlus et du MultiGrid.Il pr\u00e9sente toutes les fonctions du MultiPlus, avec une option de transformateur de courant externe pour mettre en \u0153uvre les fonctions de PowerControl et de PowerAssist, et afin d'optimiser l'autoconsommation avec une sonde de courant externe (32 A max.).Il dispose \u00e9galement de toutes les fonctions du MultiGrid avec un syst\u00e8me contre l'\u00eelotage et une longue liste de certifications pour de nombreux pays qui ne cesse d'augmenter.Remarque : pendant un certain temps, ce produit a \u00e9t\u00e9 appel\u00e9 MultiGrid-II. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/MultiPlus-II_nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 412,
+        "name": "MultiPlus-II GX",
+        "price": "0.00",
+        "description": "Convertisseur\/chargeur \u00e9quip\u00e9 d'un dispositif d'interconnexion au r\u00e9seau, le MultiPlus-II GX peut communiquer avec un chargeur solaire, des batteries, et d'autres appareils, afin de contr\u00f4ler les diff\u00e9rents types d'installations \u00e9lectriques : qu'elles soient raccord\u00e9es au r\u00e9seau, hors r\u00e9seau ou \u00e0 distance. Pouvant assurer un fonctionnement en parall\u00e8le si une sortie de puissance ou des taux de charge de la batterie plus \u00e9lev\u00e9s sont n\u00e9cessaires, le MultiPlus-II GX peut \u00e9galement \u00eatre configur\u00e9 pour une alimentation triphas\u00e9e. Il offre de nombreuses fonctions avanc\u00e9es \u2014 alimentation ininterrompue, possibilit\u00e9 de configurer des limites de charge et de compl\u00e9ter une disponibilit\u00e9 limit\u00e9e de la puissance provenant du r\u00e9seau \u2014 qui peuvent toutes \u00eatre contr\u00f4l\u00e9es directement depuis votre t\u00e9l\u00e9phone ou tout autre dispositif intelligent. Il est \u00e9galement possible d'effectuer une supervision \u00e0 distance.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/MultiPlus-II GX_nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 463,
+        "name": "Multi RS Solar",
+        "price": "0.00",
+        "description": "Le Multi RS Solar 48\/6000 est un convertisseur\/chargeur 48 V 6 kVA avec deux entr\u00e9es ind\u00e9pendantes pour trackers MPPT 450 V 3 kWp PV, pour un total de 6 kWp PV.Gr\u00e2ce \u00e0 la technologie \u00e0 haute fr\u00e9quence et \u00e0 une nouvelle conception, ce puissant convertisseur ne p\u00e8se que 11 kg. De plus, il pr\u00e9sente une excellente efficacit\u00e9, une consommation en veille basse et un fonctionnement tr\u00e8s silencieux.L\u2019\u00e9cran affiche les param\u00e8tres solaires, de la batterie et du convertisseur. Les m\u00eames param\u00e8tres sont accessibles \u00e0 travers l\u2019application VictronConnect depuis un smartphone ou tout autre dispositif ayant une fonction Bluetooth activ\u00e9e.\u00c0 la mi-2023, le Multi RS a \u00e9t\u00e9 r\u00e9vis\u00e9, passant d\u2019un seul tracker MPPT \u00e0 un mod\u00e8le \u00e0 deux trackers MPPT.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Multi RS Solar 400-100.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 411,
+        "name": "EasySolar-II GX",
+        "price": "0.00",
+        "description": "L'EasySolar-II GX associe un contr\u00f4leur de charge solaire MPPT, un chargeur\/convertisseur et un centre de contr\u00f4le dans un seul bo\u00eetier. Ce produit est facile \u00e0 installer et ne requiert qu'un minimum de c\u00e2blage.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Easysolar-II GX_nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 181,
+        "name": "Quattro",
+        "price": "0.00",
+        "description": "Semblable au MultiPlus, le Quattro combine \u00e9galement un ensemble convertisseur et chargeur. De plus, il peut accueillir deux entr\u00e9es CA et connecter automatiquement la source active. Parmi ses nombreuses fonctions, il inclut un convertisseur \u00e0 sinuso\u00efde pure, une charge adaptative, une technologie PowerAssist hybride, ainsi que des fonctions d'int\u00e9gration de syst\u00e8mes multiples telles qu'un fonctionnement en mode triphas\u00e9, en phase divis\u00e9e et parall\u00e8le.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Quattro_nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 462,
+        "name": "Quattro-II",
+        "price": "0.00",
+        "description": "Semblable au MultiPlus-II, le Quattro-II r\u00e9unit \u00e9galement un convertisseur et un chargeur. De plus, il peut accueillir deux entr\u00e9es CA et connecter automatiquement la source active. Parmi ses nombreuses fonctions, il inclut un convertisseur \u00e0 onde sinuso\u00efdale pure, charge adaptative, technologie PowerAssist hybride, ainsi que des fonctions d'int\u00e9gration de syst\u00e8mes multiples telles qu'un fonctionnement en mode triphas\u00e9, en phase divis\u00e9e et parall\u00e8le.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/quattro II.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 488,
+        "name": "Quattro-II 2x 120 V",
+        "price": "0.00",
+        "description": "Similaire au MultiPlus-II 2 x 120 V, le Quattro-II 2 x 120 V est une combinaison de convertisseur et de chargeur sp\u00e9cialement con\u00e7ue pour les applications biphas\u00e9es nord-am\u00e9ricaines standard de 50 A 120\/240 V CA. De plus, il peut accueillir deux entr\u00e9es CA et connecter automatiquement la source active. Qu\u2019il soit aliment\u00e9 par une alimentation \u00e0 quai ou un g\u00e9n\u00e9rateur, le Quattro-II 2 x 120 V peut accepter et faire passer les deux lignes d\u2019une alimentation 120\/240 V, avec la possibilit\u00e9 d\u2019utiliser la totalit\u00e9 des 50 A pour la charge et les consommateurs CA. Lorsqu\u2019il est connect\u00e9 \u00e0 une alimentation monophas\u00e9e de 120 V, l\u2019entr\u00e9e L1 du Quattro-II 2 x 120 V accepte le courant entrant pour la charge et le passage, tout en combinant les sorties L1 et L2 pour une alimentation monophas\u00e9e de 120 V sur chaque ligne. Le Quattro passe en mode convertisseur lorsqu\u2019aucune source CA n\u2019est disponible. La sortie du convertisseur est \u00e9galement monophas\u00e9e \u00e0 120 V. En mode convertisseur, le Quattro-II 2 x 120 V connecte en interne les deux lignes L1 et L2 afin de fournir 120 V CA aux consommateurs sur l\u2019une ou l\u2019autre des sorties. C\u2019est pourquoi, dans tous les cas de connexion, les deux c\u00f4t\u00e9 d\u2019un tableau de distribution seront aliment\u00e9s avec 120 V. Cependant, une puissance de 240 V CA n\u2019est disponible que si le Quattro est aliment\u00e9 par une source biphas\u00e9e de 120\/240 V CA. Cela \u00e9vite que des charges lourdes telles que des chauffe-eau ou des climatiseurs de 240 V ne d\u00e9chargent la batterie. Le Quattro-II 2 x 120 V poss\u00e8de toutes les caract\u00e9ristiques attendues de notre gamme polyvalente de convertisseurs\/chargeurs, telles que les fonctions PowerControl, PowerAssist, limite de courant d\u2019entr\u00e9e, deux sorties CA, ainsi que la possibilit\u00e9 de configuration parall\u00e8le ou triphas\u00e9e pour des syst\u00e8mes VE.Bus de plus grande capacit\u00e9. Il est adapt\u00e9 aux batteries LiFePO4 et \u00e0 une grande vari\u00e9t\u00e9 d\u2019autres technologie de batterie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Quattro-II 2x120V.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 243,
+        "name": "EasySolar",
+        "price": "0.00",
+        "description": "L'EasySolar associe un contr\u00f4leur de charge solaire MPPT, un chargeur\/convertisseur et une distribution CA dans un seul bo\u00eetier. Ce produit est facile \u00e0 installer, avec un minimum de c\u00e2blage.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/EasySolar (2023).png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 175,
+        "name": "EasyPlus",
+        "price": "0.00",
+        "description": "L'EasyPlus est un syst\u00e8me \u00e9lectrique multifonctionnel compos\u00e9 d'un puissant convertisseur \u00e0 onde sinuso\u00efdale, d'un chargeur de batterie sophistiqu\u00e9, d'un commutateur de transfert ultra rapide et d'une distribution CA dans un seul bo\u00eetier l\u00e9ger et compact. Le syst\u00e8me a \u00e9t\u00e9 con\u00e7u pour tous ceux qui veulent profiter du confort et de la libert\u00e9 d'un syst\u00e8me \u00e9lectrique complet sans perdre du temps avec l'installation de plusieurs \u00e9l\u00e9ments et avec des proc\u00e9dures techniques compliqu\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Easyplus_nw.png",
+        "category": "Inverter\/chargers"
+    },
+    {
+        "id": 487,
+        "name": "Chargeur de batterie CC-CC Orion XS 12\/12-50 A",
+        "price": "0.00",
+        "description": "Con\u00e7u de A \u00e0 Z, l\u2019Orion XS repense la charge adaptative CC-CC. Pour une utilisation dans des syst\u00e8mes \u00e0 double batterie charg\u00e9s avec un alternateur (intelligent). Cet appareil assure non seulement des performances de premier ordre, mais garantit \u00e9galement la s\u00e9curit\u00e9 de votre syst\u00e8me.Restez aux commandes avec des courants d\u2019entr\u00e9e et de sortie configurables, et soyez assur\u00e9 que votre Orion XS fonctionnera \u00e0 plein r\u00e9gime jusqu\u2019\u00e0 40 \u00b0C. La technologie innovante de refroidissement du cricuit imprim\u00e9 en aluminium offre un rendement exceptionnel de 98 % sans avoir besoin de ventilateurs.Faisant partie int\u00e9grante de votre syst\u00e8me Victron, l\u2019Orion XS offre des capacit\u00e9s compl\u00e8tes de surveillance et de contr\u00f4le (\u00e0 distance), vous donnant ainsi un contr\u00f4le total de votre appareil et de votre syst\u00e8me.Enti\u00e8rement configurableD\u00e9tection de l\u2019arr\u00eat du moteurAlgorithmes de charge intelligentsFonctionne avec VictronConnectSurveillance \u00e0 distance en option",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/ORI242417040_Orion-XS-1400-DC-DC-battery-charger-(top) (1).png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 341,
+        "name": "Convertisseurs ORION CC-CC Tr, isol\u00e9s",
+        "price": "0.00",
+        "description": "Connecteur d'allumage\/arr\u00eat \u00e0 distanceLe connecteur \u00e0 distance on-off rend inutile le besoin d'un interrupteur de courant \u00e9lev\u00e9 sur le c\u00e2blage d'entr\u00e9e. Le connecteur \u00e0 distance on-off peut \u00eatre actionn\u00e9 depuis un interrupteur de puissance faible ou, par exemple, depuis un interrupteur de marche\/arr\u00eat du moteur (voir le manuel).Tous les mod\u00e8les sont prot\u00e9g\u00e9s contre les courts-circuits et ils peuvent \u00eatre install\u00e9s en parall\u00e8le pour augmenter le courant de sortie Un nombre illimit\u00e9 d'unit\u00e9s peut \u00eatre connect\u00e9 en parall\u00e8le.Protection IP43: Si l'installation se fait avec des bornes \u00e0 vis, orientez vers le bas.Bornes \u00e0 vis: Aucun outil sp\u00e9cifique n'est n\u00e9cessaire \u00e0 l'installation.Fusible d'entr\u00e9e: Sur les mod\u00e8les de 12 et 24 V uniquement.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Orion-Tr DC-DC Converters Isolated.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 326,
+        "name": "Convertisseurs ORION CC-CC Tr, non-isol\u00e9s",
+        "price": "0.00",
+        "description": "Efficacit\u00e9 \u00e9lev\u00e9e: En utilisant la rectification synchrone, l'efficacit\u00e9 de charge compl\u00e8te d\u00e9passe 95 %.Protection IP43: Si l'installation se fait avec des bornes \u00e0 vis, orientez vers le bas.Bornes \u00e0 vis: Aucun outil sp\u00e9cifique n'est n\u00e9cessaire \u00e0 l'installation.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Orion-Tr DC-DC converters Non-isolated 24 12 10_nw.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 403,
+        "name": "Chargeur isol\u00e9 Orion-Tr Smart CC-CC",
+        "price": "0.00",
+        "description": "Le chargeur Orion-Tr Smart CC-CC est un chargeur professionnel de courant CC \u00e0 CC, avec une charge adaptative en trois \u00e9tapes, et une fonction Bluetooth int\u00e9gr\u00e9e. Il peut \u00eatre utilis\u00e9 au sein de syst\u00e8mes de batteries doubles incorpor\u00e9s dans des v\u00e9hicules ou des bateaux, et pour lesquels l'alternateur (intelligent) et la batterie de d\u00e9marrage servent \u00e0 recharger la batterie de service. L'unit\u00e9 peut \u00eatre supervis\u00e9e et programm\u00e9e par Bluetooth, et elle peut \u00eatre contr\u00f4l\u00e9e \u00e0 distance \u00e0 l'aide d'un interrupteur d'allumage et d'arr\u00eat \u00e0 distance. De plus, elle dispose d'un m\u00e9canisme permettant de d\u00e9tecter si le moteur est en marche ou non. Le chargeur Orion-Tr Smart peut \u00eatre utilis\u00e9 dans des syst\u00e8mes de 12, 24 ou 48 V, et il s'adapte \u00e0 la fois aux batteries au plomb et au lithium. Les mod\u00e8les sont disponibles jusqu'\u00e0 une puissance de 400 W, et un nombre illimit\u00e9 de plusieurs unit\u00e9s peut \u00eatre raccord\u00e9 en parall\u00e8le pour augmenter la puissance de sortie. Ces chargeurs peuvent \u00eatre exploit\u00e9s dans des conditions de temp\u00e9rature allant jusqu'\u00e0 55 \u00b0C, avec une sortie nominale compl\u00e8te jusqu'\u00e0 40 \u00b0C. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Orion-Tr isolated_24 12.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 427,
+        "name": "Chargeur CC-CC Orion-Tr Smart non isol\u00e9",
+        "price": "0.00",
+        "description": "Le chargeur Orion-Tr Smart CC-CC est un chargeur professionnel de courant CC \u00e0 CC, avec une charge adaptative en trois \u00e9tapes, et une fonction Bluetooth int\u00e9gr\u00e9e. Il peut \u00eatre utilis\u00e9 au sein de syst\u00e8mes de batteries doubles install\u00e9s dans des v\u00e9hicules ou des bateaux, et pour lesquels l'alternateur et la batterie de d\u00e9marrage servent \u00e0 recharger la batterie de service. L'unit\u00e9 peut \u00eatre supervis\u00e9e et programm\u00e9e par Bluetooth, et elle peut \u00eatre contr\u00f4l\u00e9e \u00e0 distance \u00e0 l'aide d'un interrupteur d'allumage et d'arr\u00eat \u00e0 distance. Le chargeur Orion-Tr Smart peut \u00eatre utilis\u00e9 dans des syst\u00e8mes de 12 ou 24 V, et il s'adapte \u00e0 la fois aux batteries au plomb et au lithium. Les mod\u00e8les sont disponibles jusqu'\u00e0 une puissance de 400 W, et un nombre illimit\u00e9 de plusieurs unit\u00e9s peut \u00eatre raccord\u00e9 en parall\u00e8le pour augmenter la puissance de sortie. Ces chargeurs peuvent \u00eatre exploit\u00e9s dans des conditions de temp\u00e9rature allant jusqu'\u00e0 55 \u00b0C, avec une sortie nominale compl\u00e8te jusqu'\u00e0 40 \u00b0C. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Orion-Tr non-isolated.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 154,
+        "name": "Convertisseurs ORION CC-CC Tr, non-isol\u00e9s, puissance \u00e9lev\u00e9e",
+        "price": "0.00",
+        "description": "Connecteur d'allumage\/arr\u00eat \u00e0 distanceLe connecteur \u00e0 distance on-off rend inutile le besoin d'un interrupteur de courant \u00e9lev\u00e9 sur le c\u00e2blage d'entr\u00e9e. Le connecteur \u00e0 distance on-off peut \u00eatre actionn\u00e9 depuis un interrupteur de puissance faible ou depuis un interrupteur de marche\/arr\u00eat du moteur (voir le manuel).Tous les mod\u00e8les \u00e9quip\u00e9s d'une sortie r\u00e9glable peuvent \u00e9galement \u00eatre utilis\u00e9s en tant que chargeur de batterie Par exemple pour charger une batterie de d\u00e9marrage de 12 V ou une batterie de service dans un syst\u00e8me de 24 V.Tous les mod\u00e8les disposant d'une sortie r\u00e9glable peuvent \u00eatre install\u00e9s en parall\u00e8le pour augmenter le courant de sortie Jusqu'\u00e0 cinq unit\u00e9s peuvent \u00eatre connect\u00e9es en parall\u00e8le. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Orion .png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 365,
+        "name": "Convertisseurs Orion CC-CC isol\u00e9s, mod\u00e8les de 360 W et sp\u00e9ciaux cr\u00e9\u00e9s \u00e0 des fins sp\u00e9cifiques",
+        "price": "0.00",
+        "description": ".",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/365_985_20200206121531.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 340,
+        "name": "Convertisseurs Orion IP67 24\/12 et 12\/24 CC-CC",
+        "price": "0.00",
+        "description": "Enti\u00e8rement encapsul\u00e9s : r\u00e9sistants \u00e0 l'eau, aux chocs et au feu.L'eau, l'huile ou la poussi\u00e8re n'endommageront pas le convertisseur Orion IP67 CC-CC. Le boitier est en aluminium coul\u00e9 et les \u00e9l\u00e9ments \u00e9lectroniques sont moul\u00e9s avec de la r\u00e9sine.Disponible en 5 mod\u00e8les:Orion IP67 24\/12-5Orion IP67 24\/12-10Orion IP67 24\/12-20Orion IP67 24\/12-100Orion IP67 12\/24-50",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/340_196_20180712165102.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 338,
+        "name": "Convertisseur CC-CC Buck-Boost de 25 A \/ 50 A \/ 100 A",
+        "price": "0.00",
+        "description": "Convertisseur CC-CC con\u00e7u pour charger une batterie de service de 12\/24 V dans des v\u00e9hicules \u00e9quip\u00e9s d'une dynamo inteligente.Le convertisseur CC-CC Buck-Boost est un convertisseur CC destin\u00e9 \u00e0 charger une batterie de service de 12\/24 V dans des v\u00e9hicules \u00e9quip\u00e9s d'une dynamo intelligente. Puisque lorsque le moteur est en marche, ces dynamos \u2014 aliment\u00e9es par l'\u00e9lectronique \u00e0 bord des moteurs Euro 5 et 6 \u2014n'\u00e9mettent pas toujours le courant de charge correct, un convertisseur CC-CC est indispensable pour charger correctement la batterie de service. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/338_568_20200512203034.png",
+        "category": "DC-DC converters & chargers"
+    },
+    {
+        "id": 317,
+        "name": "Convertisseur Phoenix Compact 1200VA \u2013 2000VA",
+        "price": "0.00",
+        "description": "Le convertisseur Phoenix Compact est un convertisseur \u00e0 sinuso\u00efde pure pr\u00e9sentant une efficacit\u00e9 \u00e9lev\u00e9e. Il est con\u00e7u pour un usage professionnel et il s'adapte aux applications les plus diverses.Les convertisseurs Phoenix Compact est disponible dans des mod\u00e8les allant de 1200VA \u00e0 2000VA en 12 ou 24V.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Inverter compact.png",
+        "category": "Inverters"
+    },
+    {
+        "id": 145,
+        "name": "Convertisseur Inverter",
+        "price": "0.00",
+        "description": "Sortie sinuso\u00efdale pure, puissance de cr\u00eate et efficacit\u00e9 \u00e9lev\u00e9es. Les technologies combin\u00e9es de haute fr\u00e9quence et de fr\u00e9quence du secteur garantissent le meilleur des deux mondes.SinusMax \u2013 Ing\u00e9nierie sup\u00e9rieureD\u00e9velopp\u00e9e pour un usage professionnel, notre gamme de convertisseurs est parfaitement adapt\u00e9e aux applications les plus diverses. Ces convertisseurs \u00e0 sinuso\u00efde pure et \u00e0 haut rendement ont \u00e9t\u00e9 con\u00e7us sans faire de concession aux performances. La technologie hybride HF offre des caract\u00e9ristiques exceptionnelles pour des dimensions compactes, un poids r\u00e9duit, et elle assure une compatibilit\u00e9 totale quel que soit la consommation aliment\u00e9e. Possibilit\u00e9 de fonctionnement en parall\u00e8le et triphas\u00e9Jusqu'\u00e0 6 convertisseurs Inverter peuvent fonctionner en parall\u00e8le pour obtenir plus de puissance en sortie. Par exemple, six unit\u00e9s de 24\/5 000 fourniront 24 kW \/ 30 kVA de puissance nominale en sortie. Il est \u00e9galement possible d'utiliser une configuration triphas\u00e9e.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Inverter 24V 5000VA.png",
+        "category": "Inverters"
+    },
+    {
+        "id": 382,
+        "name": "Convertisseur Phoenix Smart 1600 VA - 5000 VA",
+        "price": "0.00",
+        "description": "Le convertisseur Phoenix Smart est un convertisseur efficace et fiable. Fabriqu\u00e9 sur la base de notre plate-forme de convertisseurs Phoenix qui a fait ses preuves et a \u00e9t\u00e9 test\u00e9e dans la pratique, ce mod\u00e8le est contenu dans un nouveau boitier plus mince et enti\u00e8rement m\u00e9tallique. Les mod\u00e8les sont disponibles en 1600 VA, 2000 VA, 3000 VA et 5000 VA pour des syst\u00e8mes de 12, 24 ou 48 V.Il est suffisamment puissant pour alimenter la plupart des appareils qui peuvent \u00eatre branch\u00e9s dans votre voiture, votre caravane ou votre maison. Son transformateur toro\u00efdal offre une capacit\u00e9 de surtension pour les pics de puissance \u00e9lev\u00e9e, une fr\u00e9quence, une tension stable et une onde sinuso\u00efdale de haute qualit\u00e9.L'installation est beaucoup plus simple qu'avant gr\u00e2ce aux bornes qui sont \u00e0 pr\u00e9sent plus accessibles pour l'installateur, ce qui permet une finition bien plus professionnelle. Gr\u00e2ce \u00e0 sa fonctionnalit\u00e9 Bluetooth int\u00e9gr\u00e9e, la configuration de votre convertisseur de puissance est bien plus simple qu'avant. \u00c0 travers VictronConnect, configurez des alarmes, les relais d'alarme, des interruptions de tension, des tensions de sortie, des fr\u00e9quences, le mode \u00e9co et bien plus encore. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Inverter Smart.png",
+        "category": "Inverters"
+    },
+    {
+        "id": 479,
+        "name": "Sun Inverter",
+        "price": "0.00",
+        "description": "Le convertisseur Sun combine un convertisseur sinuso\u00efdal et un chargeur solaire PWM dans un seul bo\u00eetier et est facile \u00e0 installer, avec un minimum de c\u00e2blage. Le convertisseur vous permet d\u2019alimenter des \u00e9quipements domestiques, n\u00e9cessitant 230 VCA, \u00e0 l\u2019aide de batteries de \u00ab loisirs \u00bb ou \u00ab automobiles \u00bb de 12 V ou 24 V. Le chargeur solaire assure la charge des batteries par l\u2019\u00e9nergie r\u00e9colt\u00e9e sur vos panneaux solaires. L\u2019algorithme de charge est programmable. Les param\u00e8tres du convertisseur et du chargeur solaire peuvent \u00eatre lus via Bluetooth \u00e0 l\u2019aide de l\u2019application VictronConnect. De plus, le convertisseur dispose d\u2019un port VE.Direct pour raccorder un appareil GX ou un GlobalLink 520 afin de superviser le syst\u00e8me.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Sun Inverter.png",
+        "category": "Inverters"
+    },
+    {
+        "id": 348,
+        "name": "Convertisseur VE.Direct",
+        "price": "0.00",
+        "description": "Les convertisseurs vous permettent d'alimenter les \u00e9quipements de la maison \u2014 source d'alimentation de 230 V\/120 VCA requise \u2014 en utilisant des batteries de \u00ab loisir \u00bb ou \u00ab automobiles \u00bb ayant une tension de 12 V, 24 V ou 48 VCC.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Inverter VE.Direct.png",
+        "category": "Inverters"
+    },
+    {
+        "id": 466,
+        "name": "Convertisseur RS Smart",
+        "price": "0.00",
+        "description": "Le RS Smart est un convertisseur puissant de 48 VCC, 6 kVA et 230 VCA. Il pr\u00e9sente une conception moderne et une technologie de fr\u00e9quence \u00e9lev\u00e9e. Il ne p\u00e8se que 11 kg, et il offre une efficacit\u00e9 excellente, une puissance basse au repos et un fonctionnement tr\u00e8s silencieux. Le convertisseur est \u00e9quip\u00e9 d'un \u00e9cran permettant d\u2019afficher ses donn\u00e9es d\u00e9taill\u00e9es ainsi que celles de la batterie. Ces param\u00e8tres peuvent \u00e9galement \u00eatre transmis pour lecture par Bluetooth \u00e0 l'application VictronConnect. De plus, le convertisseur dispose d\u2019un port VE.Can pour raccorder un appareil GX afin de superviser le syst\u00e8me.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Inverter RS 48V-6000VA Smart (frontal).png",
+        "category": "Inverters"
+    },
+    {
+        "id": 402,
+        "name": "Convertisseur RS 48\/6000 230V Smart Solar",
+        "price": "0.00",
+        "description": "Le convertisseur RS Smart Solar associe la puissance d'un convertisseur de 48 VCC, 6 kVA-230 VCA et la haute tension d'un chargeur solaire MPPT de 4 kW et 80-450 VCC. Gr\u00e2ce \u00e0 sa conception moderne et sa technologie de fr\u00e9quence \u00e9lev\u00e9e, le convertisseur ne p\u00e8se que 11 kg, et il offre une efficacit\u00e9 excellente, une puissance au repos basse et un fonctionnement tr\u00e8s silencieux. Le convertisseur est \u00e9quip\u00e9 d'un \u00e9cran affichant les param\u00e8tres de la batterie, du convertisseur et du chargeur solaire. Ces param\u00e8tres peuvent \u00e9galement \u00eatre transmis pour lecture par Bluetooth \u00e0 l'application VictronConnect. De plus, le convertisseur dispose d\u2019un port VE.Can pour raccorder un appareil GX afin de superviser le syst\u00e8me, ainsi que d\u2019un port VE.Direct pour raccorder un GlobalLink 520. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/402_794_20200622103403.png",
+        "category": "Inverters"
+    },
+    {
+        "id": 378,
+        "name": "Chargeur Smart IP43",
+        "price": "0.00",
+        "description": "Con\u00e7us en pensant aux propri\u00e9taires de bateaux, ce chargeur \u00e0 charge adaptative \u00e0 5 \u00e9tapes peut fournir soit 30 A, soit 50 A \u00e0 chacun des trois bancs de batteries. Le mod\u00e8le Smart 1+1 fournit 3 A \u00e0 la batterie de d\u00e9marrage, le reste au banc de la \u00ab maison \u00bb. Des mod\u00e8les de 24 V sont disponibles avec une capacit\u00e9 de charge de 16\/25 A. Avec la fonction Bluetooth activ\u00e9e, vous pouvez surveiller le chargeur et d\u00e9finir des alarmes directement depuis votre t\u00e9l\u00e9phone. Caract\u00e9ristiques de charge dynamique, intelligente et adaptative \u2013 Consultez la fiche technique ci-dessous.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Smart IP43.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 455,
+        "name": "Skylla-IP65",
+        "price": "0.00",
+        "description": "Un chargeur de batterie puissant, \u00e9tanche et intelligent, ayant un algorithme de charge adaptatif \u00e0 7 \u00e9tapes, con\u00e7u pour \u00eatre utilis\u00e9 avec de nombreux types de batteries et de chimies, et ayant \u00e9galement un algorithme de charge sp\u00e9cifique pour les batteries au lithium-ion.L'appareil offre un large \u00e9ventail de tension d'entr\u00e9e universelle ce qui ajoute de la flexibilit\u00e9 \u00e0 l'installation. Il maintiendra la totalit\u00e9 de sa puissance nominale en sortie quel que soit l'endroit o\u00f9 il est install\u00e9.Son degr\u00e9 de protection nominal IP65 fait que ce chargeur est particuli\u00e8rement adapt\u00e9 pour une utilisation dans des applications marines, mobiles et industrielles, et il peut r\u00e9sister aux rigueurs d'un environnement hostile.Les deux mod\u00e8les sont disponibles en deux versions :3 sorties de puissance nominale compl\u00e8te 1 sortie de puissance nominale compl\u00e8te avec une sortie de charge de compensation de 3 A pour une batterie de d\u00e9marrage",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Skylla IP65new.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 149,
+        "name": "Chargeur Phoenix",
+        "price": "0.00",
+        "description": "Algorithme de charge adaptative \u00e0 4 \u00e9tapes : bulk \u2013 absorption - float \u2013 veille. Deux sorties de puissance nominale et une sortie de 4 A. Entr\u00e9e universelle 90-265 V, 50\/60 Hz. Le chargeur Phoenix int\u00e8gre un syst\u00e8me de gestion adaptative des batteries, contr\u00f4l\u00e9 par un microprocesseur et qui peut \u00eatre param\u00e9tr\u00e9 selon les diff\u00e9rents types de batterie. La fonction \u00ab adaptative \u00bb optimise automatiquement le processus de charge selon l'utilisation qui est faite de la batterie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Charger.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 217,
+        "name": "Skylla-i",
+        "price": "0.00",
+        "description": "Un chargeur de batterie moderne et puissant. La quantit\u00e9 correcte de charge pour une batterie au plomb : dur\u00e9e d'absorption variableMode BatterySafe : pr\u00e9vention des d\u00e9t\u00e9riorations dues \u00e0 un d\u00e9gagement gazeux excessifMode veille : moins d'entretien et de vieillissement si la batterie n'est pas utilis\u00e9ePlus petit et l\u00e9ger que les mod\u00e8les similairesConnexion NMEA 2000 CAN-busPowerControl : \u00e9tablir une puissance de quai maximaleContr\u00f4le \u00e0 distanceCompatible avec des batteries au Lithium-ion (LiFePo4)",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/217_645_20180813111114.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 150,
+        "name": "Chargeur Skylla-TG",
+        "price": "0.00",
+        "description": "Une sortie de puissance nominale et une sortie de 4 A. La tension de charge peut \u00eatre ajust\u00e9e avec pr\u00e9cision pour s'adapter \u00e0 n'importe quel syst\u00e8me de batteries. L'entr\u00e9e pour le chargeur est de 230 V \u00e0 50\/60 HZ. La tension de charge peut \u00eatre mesur\u00e9e directement sur les bornes de la batterie afin de compenser la perte de tension due \u00e0 la r\u00e9sistance des c\u00e2bles. Une sonde externe permet de mesurer la temp\u00e9rature de la batterie et d'adapter la tension de charge en cons\u00e9quence.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/150_549_20180813120234.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 193,
+        "name": "Skylla-TG GMDSS",
+        "price": "0.00",
+        "description": "Les chargeurs GMDSS (Global Maritime Distress & Safety System - Syst\u00e8me Global de S\u00e9curit\u00e9 et D\u00e9tresse Maritime) Skylla-TG 24\/30 et 24\/50 de Victron ont \u00e9t\u00e9 con\u00e7us pour fournir tout le suivi et les donn\u00e9es d'alarmes n\u00e9cessaires. Aussi bien la batterie et le syst\u00e8me GMDSS sont connect\u00e9s directement au chargeur. Les donn\u00e9es et les alarmes sont affich\u00e9es sur un tableau num\u00e9rique (tableau VE.Net GMDSS \u00e0 commander s\u00e9par\u00e9ment) Un c\u00e2ble standard UTP de 8 fils raccorde le chargeur au tableau.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/193_931_20190408150912.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 151,
+        "name": "Chargeur Centaur",
+        "price": "0.00",
+        "description": "La gamme de chargeurs de batterie Centaure dispose d'une d\u00e9termination automatique des mesures effectu\u00e9es couvrant une entr\u00e9e de 90-265 VCA 50\/60 Hz ce qui signifie qu'elle peut \u00eatre utilis\u00e9e partout dans le monde.Il est important de noter que, contrairement \u00e0 de nombreux autres produits pr\u00e9sentant une entr\u00e9 universelle d'\u00e9tat, le gamme Centaure maintiendra une puissance de sortie compl\u00e8te au sein de toute la gamme sp\u00e9cifi\u00e9e. D'autres fonctions comprennent des caract\u00e9ristiques de charge \u00e0 trois \u00e9tapes totalement automatiques qui garantissent que les batteries sont compl\u00e8tement charg\u00e9es \u00e0 tout temps et des sorties de charge \u00e0 triple isolation pour les configurations multiples des batteries pour s'adapter \u00e0 la majorit\u00e9 des installations typiques.La gamme s'\u00e9tend sur des mod\u00e8les de 12 V et 24 V allant de 16 A \u00e0 100 A. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/151_831_20180705150216.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 362,
+        "name": "Blue Smart IP22 Charger",
+        "price": "0.00",
+        "description": "Le chargeur Blue Smart IP22 Charger est le nouveau chargeur de batterie professionnel avec Bluetooth int\u00e9gr\u00e9 ! Le chargeur Blue Smart IP22 Charger peut \u00eatre utilis\u00e9 avec des appareils dans votre atelier et sur vos v\u00e9hicules moteurs tels que des voitures (classiques), des motos, des bateaux et des camping-cars.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/362_287_20200706153156.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 361,
+        "name": "Chargeur \u00e9tanche Blue Smart IP67",
+        "price": "0.00",
+        "description": "Le chargeur \u00e9tanche Blue Smart IP67 est le nouveau chargeur de batterie professionnel avec Bluetooth int\u00e9gr\u00e9 ! Le chargeur \u00e9tanche Blue Smart IP67 peut \u00eatre utilis\u00e9 avec des appareils dans votre atelier et sur vos v\u00e9hicules moteurs tels que des voitures (classiques), des motos, des bateaux et des camping-cars.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/361_732_20180730162034.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 349,
+        "name": "Chargeur Blue Smart IP65",
+        "price": "0.00",
+        "description": "Le chargeur Blue Smart IP65 est le nouveau chargeur de batterie professionnel avec Bluetooth int\u00e9gr\u00e9 ! Le chargeur Blue Smart IP65 peut \u00eatre utilis\u00e9 avec des appareils dans votre atelier et sur vos v\u00e9hicules moteurs tels que des voitures (classiques), des motos, des bateaux et des camping-cars.Nouveau : IP65 12\/5 remplac\u00e9 par un mod\u00e8le \u00e9quivalent plus petit : IP65s 12\/5",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/349_642_20180705154018.png",
+        "category": "Chargers"
+    },
+    {
+        "id": 480,
+        "name": "EV Charging Station NS",
+        "price": "0.00",
+        "description": "La EV Charging Station NS (station de charge pour v\u00e9hicule \u00e9lectrique NS) a des capacit\u00e9s triphas\u00e9es et monophas\u00e9es. Elle fournit un maximum de 22 kW CA en mode triphas\u00e9 ou 7,3 kW en mode monophas\u00e9.   L\u2019appareil est techniquement identique \u00e0 la EV Charging Station, mais avec un nouveau design moderne disponible en 3 couleurs et sans l\u2019\u00e9cran LCD int\u00e9gr\u00e9. L\u2019installation initiale, la configuration et le contr\u00f4le s\u2019effectuent \u00e0 partir de VictronConnect via Bluetooth et\/ou de l\u2019interface web int\u00e9gr\u00e9e via un point d\u2019acc\u00e8s WiFi ou un r\u00e9seau local WiFi.   Le chargeur peut \u00eatre enti\u00e8rement int\u00e9gr\u00e9 et contr\u00f4l\u00e9 \u00e0 distance via un dispositif GX et le portail VRM de Victron Energy.   Non seulement cette EV Charging Station NS s\u2019int\u00e8gre parfaitement \u00e0 un dispositif GX et au portail VRM de Victron Energy, mais si vous disposez d\u2019une installation solaire (dans l\u2019\u00e9cosyst\u00e8me Victron), elle peut \u00e9galement \u00eatre configur\u00e9e pour permettre \u00e0 l\u2019\u00e9nergie exc\u00e9dentaire du soleil de charger directement votre v\u00e9hicule. Les modes manuel et programm\u00e9 offrent encore plus de flexibilit\u00e9 pour r\u00e9pondre aux besoins du v\u00e9hicule \u00e9lectrique en fonction du syst\u00e8me. Elle comprend un anneau lumineux RVB enti\u00e8rement programmable autour du port de charge qui affiche diff\u00e9rents effets lumineux en fonction de l\u2019\u00e9tat actuel (d\u00e9connect\u00e9, en charge, charg\u00e9, etc.) afin de d\u00e9terminer rapidement l\u2019\u00e9tat du dispositif.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/EV Charging Station NS.png",
+        "category": "EV Charging"
+    },
+    {
+        "id": 474,
+        "name": "EV Charging Station",
+        "price": "0.00",
+        "description": "La EV Charging Station (station de charge pour v\u00e9hicule \u00e9lectrique) a des capacit\u00e9s triphas\u00e9es et monophas\u00e9es. Elle fournit un maximum de 22 kW CA en mode triphas\u00e9 ou 7,3 kW en mode monophas\u00e9.Elle est \u00e9quip\u00e9e d\u2019un \u00e9cran tactile LCD int\u00e9gr\u00e9 pour faciliter la surveillance et le contr\u00f4le directement \u00e0 partir de la station de charge. L\u2019installation initiale, la configuration et le contr\u00f4le s\u2019effectuent \u00e0 partir de VictronConnect via Bluetooth et\/ou de l\u2019interface web int\u00e9gr\u00e9e via un point d\u2019acc\u00e8s WiFi ou un r\u00e9seau local WiFi.La EV Charging Station peut \u00eatre enti\u00e8rement int\u00e9gr\u00e9e et contr\u00f4l\u00e9e \u00e0 distance via un dispositif GX et le portail VRM de Victron Energy.Non seulement cette EV Charging Station s\u2019int\u00e8gre parfaitement \u00e0 un dispositif GX et au portail VRM de Victron Energy, mais si vous disposez d\u2019une installation solaire (dans l\u2019\u00e9cosyst\u00e8me Victron), elle peut \u00e9galement \u00eatre configur\u00e9e pour permettre \u00e0 l\u2019\u00e9nergie exc\u00e9dentaire du soleil de charger directement votre v\u00e9hicule. Les modes manuel et programm\u00e9 offrent encore plus de flexibilit\u00e9 pour r\u00e9pondre aux besoins du v\u00e9hicule \u00e9lectrique en fonction du syst\u00e8me.Elle comprend un anneau lumineux RVB enti\u00e8rement programmable autour du port de charge qui affiche diff\u00e9rents effets lumineux en fonction de l\u2019\u00e9tat actuel (d\u00e9connect\u00e9, en charge, charg\u00e9, etc.) afin de d\u00e9terminer rapidement l\u2019\u00e9tat du dispositif.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/EV Charging Station.png",
+        "category": "EV Charging"
+    },
+    {
+        "id": 160,
+        "name": "Transformateurs",
+        "price": "0.00",
+        "description": "Indispensable dans les syst\u00e8mes \u00e9nerg\u00e9tiques marins professionnels. Il emp\u00eache la corrosion \u00e9lectrolytique et surtout c'est un appareil permettant de garantir un syst\u00e8me \u00e9lectrique s\u00fbr. Technologie d'enroulement toro\u00efdal en toute discr\u00e9tion et pour une efficacit\u00e9 \u00e9lev\u00e9e. Un simple ensemble de circuits de d\u00e9marrage garantira que le disjoncteur de quai ne se d\u00e9clenchera pas lorsqu'il est branch\u00e9. Isolateur galvanique Une solution bon march\u00e9 pour emp\u00eacher la corrosion galvanique qui se produit sur les bateaux avec les alimentations \u00e9lectriques.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/160_796_20180713112856.png",
+        "category": "Isolation transformers"
+    },
+    {
+        "id": 339,
+        "name": "Isolateur Galvanique VDI-16, VDI-32 et VDI-64",
+        "price": "0.00",
+        "description": "L'isolateur galvanique permet d'\u00e9viter la corrosion \u00e9lectrolytique. Il bloque les courants CC \u00e0 faible tension qui entrent dans votre bateau \u00e0 travers le fil de terre de l'alimentation de quai. Ces courants provoquent de la corrosion aux \u00e9l\u00e9ments m\u00e9talliques immerg\u00e9s du bateau, comme par exemple, la coque, l'h\u00e9lice, l'arbre, etc. L'isolateur galvanique est compos\u00e9 au niveau interne de deux diodes qui sont connect\u00e9es en antiparall\u00e8le. Connect\u00e9es de cette mani\u00e8re, les diodes permettent la circulation du courant dans les deux sens, mais uniquement au-dessus d'une certaine tension de seuil. La tension \u00e0 laquelle les diodes conduisent est d'environ 1,4 VCC.L'isolateur est install\u00e9 directement derri\u00e8re la connexion de 230 V de votre bateau. La tension directe provenant de l'isolateur galvanique est sup\u00e9rieure \u00e0 la diff\u00e9rence potentielle entre des m\u00e9taux. En cons\u00e9quence, cette tension ne permettra pas la conduction, et de ce fait, l'isolateur galvanique \u00e9vitera toute courant \u00e9lectrolytique. Cependant, s'il y a une tension d'erreur (sup\u00e9rieure) dans le circuit CA, les diodes permettront le passage du courant, et le dispositif de courant r\u00e9siduel coupera le circuit. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/339_583_20180713112314.png",
+        "category": "Isolation transformers"
+    },
+    {
+        "id": 225,
+        "name": "Auto-transformateurs",
+        "price": "0.00",
+        "description": "Un auto-transformateur peut \u00eatre utilis\u00e9 pour \u00e9lever ou baisser des tensions ou pour \u00e9quilibrer la sortie en phase divis\u00e9e. Alors que les fonctions de baisse et augmentation de tension sont assez simples, celle d\u2019\u00e9quilibrage de la sortie en phase divis\u00e9e peut demander un peu plus d\u2019attention.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/225_907_20180612120158.png",
+        "category": "Autotransformers"
+    },
+    {
+        "id": 492,
+        "name": "Batteries Lithium NG",
+        "price": "0.00",
+        "description": "S\u2019appuyant sur le succ\u00e8s de notre s\u00e9rie Lithium Smart, la s\u00e9rie NG (Next Generation) int\u00e8gre des am\u00e9liorations significatives. Points forts :am\u00e9liorations multiples, y compris la lecture des tensions et des temp\u00e9ratures des cellules ;taille maximale d\u2019un seul parc port\u00e9e \u00e0 385 kWh ;modules disponibles en 12, 24 et 48 V ;indice de protection IP65 ;montage sur support ou sur sangle.  Con\u00e7ue pour ceux qui recherchent un stockage d\u2019\u00e9nergie avanc\u00e9 et fiable, la s\u00e9rie Lithium NG repr\u00e9sente une avanc\u00e9e majeure dans notre gamme de produits, pr\u00eate \u00e0 relever les d\u00e9fis de demain.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lithium NG.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 222,
+        "name": "Lithium Battery Smart 12,8V & 25,6V",
+        "price": "0.00",
+        "description": "\u00c9quilibrage des cellules int\u00e9gr\u00e9 Possibilit\u00e9 de connexion en parall\u00e8le ou s\u00e9rie Application Bluetooth disponible pour surveiller la tension et la temp\u00e9rature des cellules Un des BMS-es suivants est n\u00e9cessaire : BMS VE.Bus \/ BMS VE.Bus V2 \u2013 recommand\u00e9 pour des syst\u00e8mes \u00e9quip\u00e9s de nos convertisseurs\/chargeurs. smallBMS \u2013 recommand\u00e9 pour des syst\u00e8mes de petite tailleSmart BMS 12\/200 \u2013 recommand\u00e9 pour des syst\u00e8mes automobiles et marins compos\u00e9s de charges CC et d'alternateurs.Smart BMS CL 12\/100 \u2013 recommand\u00e9 pour des syst\u00e8mes automobiles et marins compos\u00e9s de charges CC et d'alternateurs.Lynx Smart BMSPour plus de d\u00e9tails, consultez ci-dessous la section relative aux produits concern\u00e9s",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lithium battery 12,8V Smart.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 417,
+        "name": "SuperPack au lithium \u2013 12,8 V",
+        "price": "0.00",
+        "description": "Les batteries Lithium SuperPack sont tr\u00e8s faciles \u00e0 installer, et ne requi\u00e8rent aucun \u00e9l\u00e9ment suppl\u00e9mentaire. L'interrupteur interne permettra de d\u00e9connecter la batterie en cas de d\u00e9charge excessive ou de temp\u00e9rature \u00e9lev\u00e9e.Les batteries Lithium SuperPack peuvent \u00eatre branch\u00e9es en parall\u00e8le. Le raccordement en s\u00e9rie n'est pas autoris\u00e9. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/417_952_20200727122207.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 173,
+        "name": "Batteries GEL et AGM",
+        "price": "0.00",
+        "description": "VRLA AGM : dur\u00e9e de vie 7-10 ans VRLA GEL : dur\u00e9e de vie 12 ans La gamme AGM pr\u00e9sente une r\u00e9sistance interne tr\u00e8s faible ce qui fait qu'elles soient particuli\u00e8rement adapt\u00e9es aux applications requ\u00e9rant des d\u00e9charges de courant \u00e9lev\u00e9, telles que pour les convertisseurs, les propulseurs et les treuils. La gamme de batteries GEL offre une meilleure durabilit\u00e9 du cycle de d\u00e9charge ainsi qu'une dur\u00e9e de vie plus longue dans l'ensemble. L'utilisation de mat\u00e9riaux de haute puret\u00e9 et de grilles au plomb-calcium garantit que aussi bien les batteries AGM que les batteries GEL pr\u00e9sentent une autod\u00e9charge faible et qu'elles ne tomberont pas \u00e0 plat m\u00eame apr\u00e8s de longues p\u00e9riodes sans \u00eatre charg\u00e9es. Les deux gammes sont fournies avec des bornes en cuivre plates perfor\u00e9es M8, ce qui garantit le meilleur contact possible. Du coup, des bornes de batteries ne sont pas n\u00e9cessaires. Les batteries sont conformes aux sp\u00e9cifications CE et UL concernant les conteneurs ininflammables ABS, et elles sont couvertes par la garantie mondiale de deux ans de Victron.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/173_123_20170712114211.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 364,
+        "name": "AGM Super Cycle battery",
+        "price": "0.00",
+        "description": "",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/364_513_20180705110825.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 409,
+        "name": "Batterie plomb-carbone",
+        "price": "0.00",
+        "description": "Le fait de remplacer la mati\u00e8re active de la plaque n\u00e9gative par des compos\u00e9s en plomb-carbone r\u00e9duira \u00e9ventuellement la sulfatation et am\u00e9liorera l'acceptance de charge de la plaque n\u00e9gative. Les avantages des batteries plomb-carbone sont les suivants : - Moins de sulfatation en cas de fonctionnement \u00e0 un \u00e9tat de charge partiel. - Tension de charge inf\u00e9rieure et par cons\u00e9quent, efficacit\u00e9 sup\u00e9rieure et moins de corrosion de la plaque positive. - Le tout r\u00e9sultant en une endurance cyclique am\u00e9lior\u00e9e. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/409_184_20181105111008.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 206,
+        "name": "Batteries t\u00e9l\u00e9com",
+        "price": "0.00",
+        "description": "Con\u00e7ues pour les applications de t\u00e9l\u00e9communications. Excellent gain de place pour des applications marines ou automobiles La s\u00e9rie T\u00e9l\u00e9com AGM \u00e0 d\u00e9charge pouss\u00e9e a \u00e9t\u00e9 con\u00e7ue pour des syst\u00e8mes de t\u00e9l\u00e9communication. Avec des bornes accessibles sur l'avant et un besoin d'espace au sol r\u00e9duit, ces batteries sont id\u00e9ales pour les syst\u00e8mes de racks. De la m\u00eame fa\u00e7on, ces batteries peuvent aider \u00e0 r\u00e9soudre des probl\u00e8mes d\u2019espace au sol limit\u00e9 ou d\u2019acc\u00e8s \u00e0 bord de bateaux et d\u2019autres v\u00e9hicules. Technologie AGM AGM veut dire Absorbent Glass Mat (Fibre de Verre Absorb\u00e9e). Sur ces batteries, l'\u00e9lectrolyte est absorb\u00e9, par une action capillaire, par une lame en fibre de verre qui se trouve entre les plaques. Faible autod\u00e9charge En raison de l\u2019utilisation de mat\u00e9riaux de haute puret\u00e9 et de grilles en plomb-calcium, les batteries Victron VRLA peuvent \u00eatre stock\u00e9es pendant de longues p\u00e9riodes sans avoir besoin de les recharger. Le taux d'autod\u00e9charge est inf\u00e9rieur \u00e0 2 % par mois \u00e0 20 \u00baC. L'autod\u00e9charge double \u00e0 chaque augmentation de temp\u00e9rature de 10 \u00baC. Faible r\u00e9sistance interne Accepte des taux de charge et d\u00e9charge tr\u00e8s \u00e9lev\u00e9s Capacit\u00e9 \u00e9lev\u00e9e de vie utile Plus de 500 cycles \u00e0 50 % d'intensit\u00e9 de d\u00e9charge",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/206_589_20180817085744.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 215,
+        "name": "Peak Power Pack",
+        "price": "0.00",
+        "description": "Le Peak Power Pack (pack de puissance de cr\u00eate) est un produit de substitution complet des batteries au plomb dans des applications o\u00f9 des courants \u00e9lev\u00e9s se produisent sur de courtes p\u00e9riodes. Con\u00e7u avant tout pour des v\u00e9hicules tracteurs de caravanes, il est \u00e9quip\u00e9 d'un chargeur int\u00e9gr\u00e9 permettant la charge depuis le syst\u00e8me \u00e9lectrique de la voiture pendant le trajet en caravane. De cette mani\u00e8re, le pack sera enti\u00e8rement charg\u00e9 d\u00e8s l'arriv\u00e9e au camping. Si besoin, il est possible de r\u00e9aliser la charge gr\u00e2ce \u00e0 l'adaptateur fourni pour se connecter au r\u00e9seau. La charge est \u00e9galement possible depuis un panneau solaire.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/215_463_20180705111810.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 250,
+        "name": "Battery Balancer",
+        "price": "0.00",
+        "description": "L'\u00e9quilibreur de batterie Battery Balancer \u00e9galise l'\u00e9tat de charge de deux batteries de 12 V raccord\u00e9es en s\u00e9rie, ou de plusieurs files de batteries connect\u00e9es en s\u00e9rie, ces files \u00e9tant elles-m\u00eames raccord\u00e9es en parall\u00e8les. Si la tension de charge d'un syst\u00e8me de batteries de 24 V s'\u00e9l\u00e8ve \u00e0 plus de 27 V, l'\u00e9quilibreur de batterie s'allumera et comparera la tension sur les deux batteries connect\u00e9es en s\u00e9rie. L'\u00e9quilibreur extraira un courant de jusqu'\u00e0 1 A sur la batterie (ou les batteries raccord\u00e9es en parall\u00e8le) ayant la tension la plus \u00e9lev\u00e9e. La diff\u00e9rence de courant de charge qui en r\u00e9sultera garantira que toutes les batteries convergeront vers le m\u00eame \u00e9tat de charge. Le cas \u00e9ch\u00e9ant, plusieurs \u00e9quilibreurs peuvent \u00eatre install\u00e9s en parall\u00e8le. Un banc de batteries de 48 V peut \u00eatre \u00e9quilibr\u00e9 avec trois \u00e9quilibreurs de batteries.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/250_897_20180705170552.png",
+        "category": "Batteries"
+    },
+    {
+        "id": 377,
+        "name": "SmartShunt",
+        "price": "0.00",
+        "description": "Le SmartShunt est un contr\u00f4leur de batterie tout-en-un, mais sans \u00e9cran. Votre t\u00e9l\u00e9phone sert d'\u00e9cran. Le SmartShunt se connecte par Bluetooth \u00e0 l'application VictronConnect sur votre t\u00e9l\u00e9phone (ou tablette), et vous pouvez lire ais\u00e9ment tous les param\u00e8tres de batterie qui sont sous surveillance comme par exemple l'\u00e9tat de charge, l'autonomie restante, l'information historique et bien plus encore.Sinon le SmartShunt peut \u00e9galement \u00eatre connect\u00e9 et lu par un appareil GX. La connexion au SmartShunt peut se faire \u00e0 l'aide d'un c\u00e2ble VE.Direct.Le SmartShunt repr\u00e9sente une bonne alternative au contr\u00f4leur de batterie BMV, en particulier pour des syst\u00e8mes dans lesquels on souhaite superviser une batterie, mais avec moins de c\u00e2ble et de d\u00e9sordre.Le SmartShunt est \u00e9quip\u00e9 de Bluetooth, d'un port VE.Direct et d'une connexion qui peut \u00eatre utilis\u00e9e pour surveiller une deuxi\u00e8me batterie, un point m\u00e9dian ou une sonde de temp\u00e9rature.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Smartshunt IP65 NEW.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 230,
+        "name": "Lynx Shunt VE.Can",
+        "price": "0.00",
+        "description": "Le Lynx Shunt VE.Can est un shunt intelligent de 1000 A disposant de l'emplacement n\u00e9cessaire pour un fusible (non inclus). Le contr\u00f4leur de batterie int\u00e9gr\u00e9 surveille avec pr\u00e9cision l'\u00e9tat de charge de votre batterie. Utilisez un appareil GX (par ex. un Cerbo GX) pour lire l'information. Partie du syst\u00e8me de distribution modulaire Lynx.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/230_588_20180706090107.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 239,
+        "name": "S\u00e9rie BMV-700",
+        "price": "0.00",
+        "description": "Le BMV-700 est un contr\u00f4leur de batterie de haute pr\u00e9cision. La fonction essentielle d\u2019un contr\u00f4leur de batterie est de calculer la consommation amp\u00e8res-heures et le niveau de charge de la batterie. La consommation en amp\u00e8res-heures est calcul\u00e9e en int\u00e9grant le d\u00e9bit du courant entrant ou sortant de la batterie.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-700_SOC.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 369,
+        "name": "BMV-712 Smart",
+        "price": "0.00",
+        "description": "Gr\u00e2ce \u00e0 son dispositif Bluetooth int\u00e9gr\u00e9, le BMV Smart est pr\u00eat pour aborder l'\u00e8re de l'Internet des objets (IoT). Gr\u00e2ce \u00e0 la mise en place de la fonction Bluetooth dans la plupart des produits Victron Energy, la communication sans fil entre les produits permettra de simplifier l'installation du syst\u00e8me et d'am\u00e9liorer le rendement.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-712 Smart_SOC.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 429,
+        "name": "BMV-702",
+        "price": "0.00",
+        "description": "Le BMV-702 est un contr\u00f4leur de batterie de haute pr\u00e9cision. La fonction essentielle d\u2019un contr\u00f4leur de batterie est de calculer la consommation amp\u00e8res-heures et le niveau de charge de la batterie. La consommation en amp\u00e8res-heures est calcul\u00e9e en int\u00e9grant le d\u00e9bit du courant entrant ou sortant de la batterie.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-702_SOC.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 430,
+        "name": "BMV-702 (Black)",
+        "price": "0.00",
+        "description": "Le BMV-702 (Black) est un contr\u00f4leur de batterie de haute pr\u00e9cision. La fonction essentielle d\u2019un contr\u00f4leur de batterie est de calculer la consommation amp\u00e8res-heures et le niveau de charge de la batterie. La consommation en amp\u00e8res-heures est calcul\u00e9e en int\u00e9grant le d\u00e9bit du courant entrant ou sortant de la batterie.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-702 black_SOC.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 431,
+        "name": "BMV-700H",
+        "price": "0.00",
+        "description": "Le BMV-700H est un contr\u00f4leur de batterie \u00e0 haute pr\u00e9cision qui a \u00e9t\u00e9 sp\u00e9cialement con\u00e7u pour des syst\u00e8mes pr\u00e9sentant une plage de tension de batterie \u00e9lev\u00e9e allant de 60 \u00e0 385 V. Le contr\u00f4leur de batterie calcule l'\u00e9tat de charge d'une batterie, et il effectue un suivi des amp\u00e8res-heures consomm\u00e9s par la batterie en int\u00e9grant le courant entrant et sortant de la batterie. Le BMV-700H est livr\u00e9 avec une unit\u00e9 ronde, un cadran biseaut\u00e9, un anneau \u00e0 vis pour le montage, un c\u00e2ble UTP RJ12 de 10 m, un c\u00e2ble d'alimentation prot\u00e9g\u00e9 par un fusible, et un shunt de 500 A\/50 mV. En raison de la tension \u00e9lev\u00e9e qui est appliqu\u00e9e, le shunt est plac\u00e9 dans un boitier sp\u00e9cial.Pour en savoir plus sur la gamme compl\u00e8te d'accessoires du BMV, consultez ce blog.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/431_188_20200302122753.png",
+        "category": "Battery monitors"
+    },
+    {
+        "id": 493,
+        "name": "Lynx Smart BMS NG",
+        "price": "0.00",
+        "description": "Le Lynx Smart BMS NG est un syst\u00e8me de gestion de batteries avanc\u00e9 sp\u00e9cialement con\u00e7u pour les batteries Lithium NG de Victron Energy (\u00e0 ne pas confondre avec le Lynx Smart BMS, qui est destin\u00e9 aux batteries Lithium Battery Smart de Victron). Ce BMS robuste assure des performances sans faille, une s\u00e9curit\u00e9 optimale et une surveillance efficace des batteries Lithium NG, qui sont disponibles dans des tensions nominales de 12,8 V, 25,6 V et 51,2 V avec diff\u00e9rentes capacit\u00e9s. Disponible en deux tailles \u2013 500 A et 1 000 A \u2013 le Lynx Smart BMS NG constitue une solution fiable, s\u00fbre et simple d\u2019utilisation. Les syst\u00e8mes de batteries peuvent \u00eatre configur\u00e9s en s\u00e9rie, en parall\u00e8le ou en combinaison des deux, prenant en charge les syst\u00e8mes de 12 V, 24 V et 48 V. Chaque syst\u00e8me peut accueillir jusqu\u2019\u00e0 50 batteries, offrant jusqu\u2019\u00e0 192 kWh (12 V) ou 384 kWh (24 V\/48 V) de stockage d\u2019\u00e9nergie. En mettant en parall\u00e8le plusieurs unit\u00e9s Lynx Smart BMS, vous pouvez augmenter la capacit\u00e9 et assurer la redondance. Caract\u00e9ristiques principales :Contacteur int\u00e9gr\u00e9 de 500 A ou 1000 A : fournit une s\u00e9curit\u00e9 de repli et permet la commutation du syst\u00e8me principal \u00e0 distance.Surveillance de la batterie : affiche l\u2019\u00e9tat de charge et d\u2019autres donn\u00e9es vitales pour une gestion efficace du syst\u00e8me.Signal de pr\u00e9-alarme : alerte avant l\u2019arr\u00eat du syst\u00e8me en raison d\u2019une faible tension de celluleConnectivit\u00e9 Bluetooth : permet de configurer, surveiller et diagnostiquer facilement le syst\u00e8me \u00e0 partir de notre application VictronConnect.Surveillance locale et \u00e0 distance : compatible avec les dispositifs Victron GX, comme le Cerbo GX, et le portail VRM pour une surveillance en temps r\u00e9el.Int\u00e9gration de la barre omnibus M10 : se connecte de mani\u00e8re transparente \u00e0 tous les produits Lynx M10, assurant une int\u00e9gration en douceur dans le syst\u00e8me Lynx Distributor. Le Lynx Smart BMS NG est une partie int\u00e9grante du syst\u00e8me modulaire Lynx Distributor.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lynx Smart BMS 500 NG.png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 453,
+        "name": "Lynx Smart BMS",
+        "price": "0.00",
+        "description": "Le Lynx Smart BMS est un syst\u00e8me de gestion de batterie sp\u00e9cifique pour des batteries Lithium Battery Smart de Victron. De nombreux BMS sont disponibles pour nos s\u00e9ries de batteries Lithium Battery Smart, et le Lynx Smart est l\u2019option la plus compl\u00e8te et riche en fonctions. Il est disponible en deux versions : 500 A et 1 000 A (les deux avec des connexions pour barre omnibus M10).Ses fonctions principales sont :Contacteur de 500 A ou 1 000 A int\u00e9gr\u00e9, utilis\u00e9 comme m\u00e9canisme de s\u00e9curit\u00e9 et de repli, et \u00e9galement disponible en tant qu\u2019interrupteur du syst\u00e8me principal contr\u00f4lable \u00e0 distance.Contr\u00f4leur de batterie indiquant le pourcentage de l\u2019\u00e9tat de charge et davantage de donn\u00e9es.Signal de pr\u00e9alarme : donne un avertissement avant que le syst\u00e8me ne s\u2019arr\u00eate en raison, par exemple, d\u2019une cellule faible.Bluetooth pour une utilisation avec notre application VictronConnect, pour la configuration et la surveillancey compris Instant Readout (lecture instantan\u00e9e) - les donn\u00e9es cl\u00e9s du BMS en un coup d\u2019\u0153il.Surveillance locale et \u00e0 distance \u00e0 l\u2019aide d\u2019un dispositif GX Victron, par exemple le Cerbo GX ou l\u2019Ekrano GX.Le Lynx Smart BMS fait partie du syst\u00e8me de distribution modulaire Lynx.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lynx Smart BMS 1000 (M10).png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 499,
+        "name": "SmallBMS NG",
+        "price": "0.00",
+        "description": "The SmallBMS NG is an all-in-one Battery Management System (BMS) designed for Victron Lithium NG batteries (not compatible with lithium smart batteries). It monitors and protects the batteries by managing charge and load disconnects and providing pre-alarms for low battery voltage. The SmallBMS NG is a straightforward and cost-effective alternative to the VE.Bus BMS NG for applications that don\u2019t require integration with Victron inverter\/chargers. It provides essential lithium battery protection without the added complexity of VE.Bus communication and is therefore not suitable for use with VE.Bus inverter\/chargers such as MultiPlus and Quattro. With built-in Bluetooth, it connects directly to all lithium NG batteries in the system for central monitoring via VictronConnect. It also receives current and state of charge data directly from the batteries, so there\u2019s no need for a separate SmartShunt.  The lithium NG batteries can be configured in series, parallel, or a combination of both, supporting 12V, 24V, and 48V systems. A maximum of 50 batteries can be used in 12V or 24V banks, and 25 batteries in 48V banks, enabling up to 192 kWh (12V), 384 kWh (24V), and 128 kWh (48V) of storage. Multiple Lynx Smart BMS units can be paralleled to expand capacity and ensure redundancy.  Key Features:Load disconnect output: Controls the remote on\/off input of a BatteryProtect, inverter, DC-DC converter, or other loads with remote on\/off functionality to prevent deep discharge. Charge disconnect output: Controls the remote on\/off port of chargers such as the Smart IP43 Charger, a Cyrix-Li-Charge relay, a Cyrix-Li-ct Battery Combiner, or a BatteryProtect, to prevent overvoltage. Pre-alarm output: Provides early warning for low battery voltage before disconnecting loads. Can drive a relay, LED, or buzzer. Remote on\/off control: Allows external control of both load and charge disconnect outputs. LED indicators: Includes a blue LED for Bluetooth status and a red LED for warnings and errors. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Small BMS NG.png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 401,
+        "name": "smallBMS avec pr\u00e9alarme",
+        "price": "0.00",
+        "description": "Le smallBMS peut remplacer le BMS du VE.Bus V2 dans plusieurs applications. Il n'est cependant pas adapt\u00e9 pour \u00eatre utilis\u00e9 avec des convertisseurs\/chargeurs MultiPlus et Quattro avec VE.Bus avec VE.Bus : il ne dispose d'aucune interface VE.Bus. Le smallBMS est con\u00e7u pour travailler avec des batteries Victron Smart LiFePo4 disposant de connecteurs circulaires M8.Le smallBMS dispose de deux sorties comme le BMS du VE.Bus V2. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/smallBMS.png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 414,
+        "name": "Smart BMS CL 12\/100",
+        "price": "0.00",
+        "description": "Le Smart BMS CL 12\/100 est un syst\u00e8me de gestion de batterie pour les batteries intelligentes au phosphate de lithium-fer (LiFePO4) de Victron. Il a \u00e9t\u00e9 sp\u00e9cialement con\u00e7u pour s'int\u00e9grer \u00e0 des syst\u00e8mes de 12 V \u00e9quip\u00e9s d'un alternateur de 12 V. Le BMS CL 12\/100 surveille et prot\u00e8ge chaque cellule individuelle de batterie au sein de la batterie (ou du banc de batteries), et il d\u00e9connectera l'alternateur, les sources de charge ou les charges CC en cas de tension de batterie faible, de tension de batterie \u00e9lev\u00e9e ou de surchauffe. L'entr\u00e9e d\u00e9di\u00e9e \u00e0 l'alternateur permet de limiter le courant et fournit une circulation unidirectionnelle allant de l'alternateur \u00e0 la batterie, de mani\u00e8re \u00e0 ce qu'un alternateur (et une batterie de d\u00e9marrage), quelle que soit sa taille, puisse se connecter en toute s\u00e9curit\u00e9 \u00e0 une batterie ou des batteries Smart au lithium. Le BMS est \u00e9galement \u00e9quip\u00e9 d'un connecteur d'allumage\/arr\u00eat \u00e0 distance pour \u00e9teindre le BMS (et le syst\u00e8me) gr\u00e2ce \u00e0 un interrupteur \u00e0 distance et un contact de pr\u00e9alarme, ce qui permettra d'\u00e9mettre un signal d'avertissement avant que le BMS ne d\u00e9connecte les batteries du syst\u00e8me. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Smart BMS CL.png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 451,
+        "name": "Smart BMS 12\/200",
+        "price": "0.00",
+        "description": "Le Smart BMS 12\/200 est un syst\u00e8me de gestion de batterie tout-en-un pour les batteries Smart au phosphate de lithium-fer (LiFePO4) de Victron. Il a \u00e9t\u00e9 sp\u00e9cialement con\u00e7u pour s'int\u00e9grer \u00e0 des syst\u00e8mes de 12 V \u00e9quip\u00e9s d'un g\u00e9n\u00e9rateur de 12 V, comme par exemple ceux des v\u00e9hicules et des bateaux.Il combine un limiteur de courant, un coupleur de batterie et un protecteur de batterie dans une seule solution solide et compacte. Il vous permet de connecter un alternateur de 12 V (et une batterie de d\u00e9marrage), quelle que soit sa taille, des charges consommatrices et des chargeurs \u00e0 des batteries Smart au lithium.Le Smart BMS 12\/200 surveille et prot\u00e8ge chaque cellule individuelle de batterie au sein de la batterie (ou du parc de batteries), et il d\u00e9connectera l'alternateur, les sources de charge ou les charges CC en cas de surchauffe ou de tension faible ou \u00e9lev\u00e9e sur les cellules de batterie.Le point de connexion sp\u00e9cifique pour l'alternateur permet de limiter le courant et de fournir une circulation unidirectionnelle allant de l'alternateur \u00e0 la batterie, de mani\u00e8re \u00e0 ce qu'un alternateur (et une batterie de d\u00e9marrage), quelle que soit sa taille, puisse se connecter en toute s\u00e9curit\u00e9 \u00e0 une batterie au lithium Smart (ou \u00e0 un parc de batteries), et que la batterie de d\u00e9marrage soit prot\u00e9g\u00e9e contre les d\u00e9charges excessives.Le BMS est \u00e9quip\u00e9 d'une fonction Bluetooth pour la supervision et la configuration du syst\u00e8me, d\u2019un connecteur d'allumage\/arr\u00eat \u00e0 distance pour \u00e9teindre le BMS (et le syst\u00e8me) gr\u00e2ce \u00e0 un interrupteur \u00e0 distance et d\u2019un contact de pr\u00e9alarme \u00e9mettant un signal d'avertissement avant que le BMS ne d\u00e9connecte les batteries du syst\u00e8me.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Smart BMS 12-200.png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 303,
+        "name": "VE.Bus BMS \/ VE.Bus BMS V2",
+        "price": "0.00",
+        "description": "Le BMS VE.Bus et le BMS VE.Bus V2 sont des syst\u00e8mes de gestion des batteries (BMS) con\u00e7us pour s\u2019interfacer avec et prot\u00e9ger une ou plusieurs batteries Victron Lithium Battery Smart 12,8 V et 25,6 V (LiFePO4 ou LFP) dans les syst\u00e8mes dot\u00e9s de convertisseurs ou de convertisseurs\/chargeurs Victron avec communication VE.Bus. Ils permettent de surveiller et de prot\u00e9ger les batteries contre les surtensions et les sous-tensions de toute cellule individuelle, ainsi que les conditions de surchauffe ou de temp\u00e9rature trop basse.En fonction de l\u2019\u00e9tat de la ou des batteries, le BMS peut :G\u00e9n\u00e9rer un signal de pr\u00e9alarme pour avertir de l\u2019imminence d\u2019une condition de sous-tension de cellule.D\u00e9sactiver la conversion dans les convertisseurs ou les convertisseurs\/chargeurs VE.Bus via VE.Bus, et d\u00e9sactiver les autres consommateurs via la borne \u00ab Load Disconnect \u00bb (d\u00e9connexion des consommateurs) en cas de condition de sous-tension de cellule.D\u00e9sactiver la charge dans les convertisseurs ou les convertisseurs\/chargeurs VE.Bus via VE.Bus, et d\u00e9sactiver les autres chargeurs via la borne \u00ab Charge Disconnect \u00bb (d\u00e9connexion de chargeur) en cas de condition de surtension, de temp\u00e9rature trop basse ou de surchauffe d\u2019une cellule.Bornes d\u2019allumage\/arr\u00eat \u00e0 distance.Possibilit\u00e9 de d\u00e9sactiver les chargeurs solaires VE.Direct et VE.Can via un dispositif GX.Possibilit\u00e9 de contr\u00f4ler le convertisseur\/chargeur VE.Bus \u00e0 partir de plusieurs dispositifs, tels que le tableau de commande Digital Multi Control, la cl\u00e9 \u00e9lectronique VE.Bus Smart Dongle et\/ou un dispositif GX.Des bornes d\u2019entr\u00e9e et de sortie d\u2019alimentation auxiliaire qui permettent \u00e0 un dispositif GX de rester aliment\u00e9 en cas d\u2019arr\u00eat du syst\u00e8me.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/VE.Bus BMS V2.png",
+        "category": "Battery Management Systems"
+    },
+    {
+        "id": 156,
+        "name": "BatteryProtect",
+        "price": "0.00",
+        "description": "La fonction BatteryProtect prot\u00e8ge la batterie en la d\u00e9connectant des charges non essentielles avant qu'elle ne soit compl\u00e8tement d\u00e9charg\u00e9e (ce qui l'endommagerait) ou avant qu'il ne lui reste pas suffisamment de puissance pour lancer le moteur. Le BatteryProtect est un dispositif unidirectionnel. Il ne peut traiter le courant que dans un seul sens : soit le courant vers une charge, soit le courant depuis le chargeur, mais pas les deux en m\u00eame temps. De plus, le courant ne peut se d\u00e9placer que de la borne de la batterie \u00e0 la borne de la charge. En cas d'utilisation avec une charge, la batterie se raccorde \u00e0 la borne de la batterie. En cas d'utilisation avec un chargeur, le chargeur se raccorde \u00e0 la borne de la batterie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/156_209_20170712114826.png",
+        "category": "Battery Protect"
+    },
+    {
+        "id": 379,
+        "name": "Smart BatteryProtect",
+        "price": "0.00",
+        "description": "Le Smart BatteryProtect prot\u00e8ge la batterie en la d\u00e9connectant des charges non essentielles avant qu'elle ne soit compl\u00e8tement d\u00e9charg\u00e9e (ce qui l'endommagerait) ou avant qu'il ne lui reste pas suffisamment de puissance pour lancer le moteur.Lorsque vous utilisez le Bluetooth pour programmer le Smart BatteryProtect, vous pouvez configurer n'importe quel niveau d'enclenchement\/d\u00e9clenchement souhait\u00e9. Sinon, vous pouvez \u00e9galement configurer l'un des neufs niveaux pr\u00e9d\u00e9finis d'enclenchement\/d\u00e9clenchement \u00e0 l'aide de la broche de programmation (consulter le manuel d'instructions).Le cas \u00e9ch\u00e9ant, le Bluetooth peut \u00eatre d\u00e9sactiv\u00e9.  Le Smart BatteryProtect est un dispositif unidirectionnel. Il ne peut traiter le courant que dans un seul sens : soit le courant vers une charge, soit le courant depuis le chargeur, mais pas les deux en m\u00eame temps. De plus, le courant ne peut se d\u00e9placer que de la borne IN \u00e0 la borne OUT. En cas d'utilisation avec une charge, la batterie se raccorde \u00e0 la borne IN. En cas d'utilisation avec un chargeur, le chargeur se raccorde \u00e0 la borne IN.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/379_244_20181122145956.png",
+        "category": "Battery Protect"
+    },
+    {
+        "id": 158,
+        "name": "R\u00e9partiteurs de batteries Argodiode",
+        "price": "0.00",
+        "description": "Les r\u00e9partiteurs de batteries Argodiode permettent de charger simultan\u00e9ment deux batteries ou plus depuis un alternateur, sans connecter les batteries entre elles. D\u00e9charger la batterie auxiliaire, par exemple, n\u2019entra\u00eenera pas le d\u00e9chargement de la batterie de d\u00e9marrage. Faible chute de tension due \u00e0 l'utilisation de diodes Schottky hautement efficaces.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/158_410_20170712114447.png",
+        "category": "Battery isolators and combiners"
+    },
+    {
+        "id": 159,
+        "name": "R\u00e9partiteurs de batteries Argofet",
+        "price": "0.00",
+        "description": "Semblables aux r\u00e9partiteurs de batteries \u00e0 diode, les r\u00e9partiteurs Argofet permettent de charger en m\u00eame temps deux batteries ou plus \u00e0 partir d\u2019un alternateur (ou d\u2019un chargeur de batterie \u00e0 simple sortie), sans qu\u2019il ne soit n\u00e9cessaire de raccorder les batteries entre elles. Contrairement aux r\u00e9partiteurs de batteries \u00e0 diode, les r\u00e9partiteurs Argofet n\u2019ont pratiquement aucune perte de tension. Les chutes de tensions sont inf\u00e9rieures \u00e0 0,02 Volts pour des courants faibles, et en moyenne de 0,1 Volt pour des courants plus \u00e9lev\u00e9s.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/159_142_20180709121045.png",
+        "category": "Battery isolators and combiners"
+    },
+    {
+        "id": 198,
+        "name": "Coupleurs de batteries \u00e0 diode Argo",
+        "price": "0.00",
+        "description": "Les coupleurs de batteries \u00e0 diode sont utilis\u00e9s pour garantir un courant CC continu pour les \u00e9quipements ayant une importance cruciale, tels qu'un syst\u00e8me de contr\u00f4le de moteur \u00e9lectronique. Avec un coupleur de batteries \u00e0 diode, deux sources CC ou plus peuvent \u00eatre utilis\u00e9es en parall\u00e8le pour fournir la charge essentielle. En cas de d\u00e9faillance de l'une des sources, cela n'interrompra pas l'alimentation de la charge essentielle.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/198_178_20180709121159.png",
+        "category": "Battery isolators and combiners"
+    },
+    {
+        "id": 214,
+        "name": "Kit de coupleur de batteries Cyrix-ct",
+        "price": "0.00",
+        "description": "Ce kit de coupleur de batteries permet d'ajouter un deuxi\u00e8me ou un troisi\u00e8me syst\u00e8me de batterie sur votre voiture, votre bateau, votre camping-car ou ce que vous vous voulez. Ce kit utilise la technologie la plus simple et la plus perfectionn\u00e9e pour faire en sorte que toutes vos batteries restent charg\u00e9es en utilisant le syst\u00e8me \u00e9lectrique du moteur. De plus, il isole la batterie de d\u00e9marrage lors des arr\u00eats de chargement, et de cette mani\u00e8re, vous n'\u00eates jamais \u00e0 sec.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/CYR010120110R Cyrix-ct 12-24V-120A Battery Combiner Kit (box).png",
+        "category": "Battery isolators and combiners"
+    },
+    {
+        "id": 157,
+        "name": "Coupleurs de batteries Cyrix",
+        "price": "0.00",
+        "description": "Le coupleur de batteries cyrix est un relais robuste pilot\u00e9 par microprocesseur qui connecte automatiquement des batteries en parall\u00e8le d\u00e8s que l'une d'entre elles atteint une tension pr\u00e9d\u00e9finie (signifiant qu'elle est en cours de charge) et qui les d\u00e9connecte lorsque la tension chute en dessous du niveau float (signifiant qu'une ou plusieurs batteries sont en cours de d\u00e9charge). Les coupleurs de batteries cyrix sont une excellente solution de remplacement pour les s\u00e9parateurs \u00e0 diodes. Leur principale caract\u00e9ristique est qu'ils ne pr\u00e9sentent presque aucune chute de tension, \u00e9vitant ainsi d'avoir \u00e0 corriger les tensions de charge des alternateurs ou des chargeurs de batterie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/157_181_20180709121436.png",
+        "category": "Battery isolators and combiners"
+    },
+    {
+        "id": 471,
+        "name": "Battery Switch ON\/OFF 275A",
+        "price": "0.00",
+        "description": "Le commutateur de batterie Battery Switch ON\/OFF 275A est adapt\u00e9 \u00e0 des syst\u00e8mes de batterie de jusqu\u2019\u00e0 48 V. Il dispose d\u2019un bouton dont le design et l\u2019esth\u00e9tique sont uniques. Le bouton peut \u00eatre retir\u00e9 \u00e0 des fins d\u2019isolation ou de s\u00e9curit\u00e9.Le commutateur de batterie peut \u00eatre install\u00e9 soit en surface soit sur un panneau, ce qui lui conf\u00e8re une souplesse d\u2019installation.Le commutateur de batterie respecte la norme ISO8846 relative \u00e0 la Protection contre l\u2019inflammation et il est adapt\u00e9 pour \u00eatre utilis\u00e9 dans une salle des machines.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Battery switch ON-OFF 48V (top).png",
+        "category": "Battery isolators and combiners"
+    },
+    {
+        "id": 372,
+        "name": "SmartSolar MPPT 75\/10, 75\/15, 100\/15 & 100\/20",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le SmartSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le SmartSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.Le contr\u00f4leur de charge SmartSolar rechargera m\u00eame une batterie profond\u00e9ment d\u00e9charg\u00e9e. Il peut fonctionner avec une tension de batterie aussi basse que 0 V, \u00e0 condition que les cellules ne soient ni sulfat\u00e9es de mani\u00e8re permanente ni endommag\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/smartsolar MPPT 75 15.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 375,
+        "name": "SmartSolar MPPT 100\/30 & 100\/50",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le SmartSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le SmartSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.Le contr\u00f4leur de charge SmartSolar rechargera m\u00eame une batterie profond\u00e9ment d\u00e9charg\u00e9e. Il peut fonctionner avec une tension de batterie aussi basse que 0 V, \u00e0 condition que les cellules ne soient ni sulfat\u00e9es de mani\u00e8re permanente ni endommag\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/SmartSolar MPPT 100-50 (top).png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 373,
+        "name": "SmartSolar MPPT 150\/35 & 150\/45",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le SmartSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le SmartSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.Le contr\u00f4leur de charge SmartSolar rechargera m\u00eame une batterie profond\u00e9ment d\u00e9charg\u00e9e. Il peut fonctionner avec une tension de batterie aussi basse que 0 V, \u00e0 condition que les cellules ne soient ni sulfat\u00e9es de mani\u00e8re permanente ni endommag\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/SmartSolar MPPT 150-35 (top).png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 360,
+        "name": "SmartSolar MPPT 150\/60 jusqu'\u00e0 250\/70",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le SmartSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le SmartSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.Le contr\u00f4leur de charge SmartSolar rechargera m\u00eame une batterie profond\u00e9ment d\u00e9charg\u00e9e. Il peut fonctionner avec une tension de batterie aussi basse que 0 V, \u00e0 condition que les cellules ne soient ni sulfat\u00e9es de mani\u00e8re permanente ni endommag\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/MPPT 250 70 MC4.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 408,
+        "name": "SmartSolar MPPT de 150\/70 jusqu'\u00e0 250\/100 VE.Can",
+        "price": "0.00",
+        "description": "Le chargeur MPPT SmartSolar avec VE.Can utilise la technologie la plus r\u00e9cente et rapide pour convertir l'\u00e9nergie provenant d'un champ solaire en \u00e9nergie qui charge de mani\u00e8re optimale un banc de batteries.Le contr\u00f4leur de charge SmartSolar rechargera m\u00eame une batterie profond\u00e9ment d\u00e9charg\u00e9e. Il peut fonctionner avec une tension de batterie aussi basse que 0 V, \u00e0 condition que les cellules ne soient ni sulfat\u00e9es de mani\u00e8re permanente ni endommag\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/408_141_20190730082229.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 461,
+        "name": "SmartSolar MPPT RS",
+        "price": "0.00",
+        "description": "Les contr\u00f4leurs de charge SmartSolar MPPT RS sont des solutions Victron pour des syst\u00e8mes de grands parcs PV connect\u00e9s en s\u00e9rie et chargeant des parcs de batteries CC de 48 V. Ce produit est id\u00e9al pour de grands syst\u00e8mes de batteries connect\u00e9s au r\u00e9seau ou hors-r\u00e9seau.Mod\u00e8les disponibles en 5,76 kW et 11,52 kW ; les fonctionnalit\u00e9s comprennent une large plage de tension d\u2019entr\u00e9e solaire fonctionnant sur 65-450 VCC, des entr\u00e9es des traqueurs ind\u00e9pendants, une connectivit\u00e9 compl\u00e8te, des connexions PV isol\u00e9es, un \u00e9cran d'affichage, des param\u00e8tres de charge enti\u00e8rement programmables et un syst\u00e8me de refroidissement actif. La nouvelle conception du ch\u00e2ssis m\u00e9tallique et les connexions \u00e9lectriques enti\u00e8rement recouvertes am\u00e9liorent la s\u00e9curit\u00e9 et modernisent la pr\u00e9sentation en accord avec la derni\u00e8re s\u00e9rie de produits Victron.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/SmartSolar MPPT RS front.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 320,
+        "name": "BlueSolar MPPT 75\/10, 75\/15, 100\/15 et 100\/20",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le BlueSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le BlueSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/bluesolar MPPR 75 15 nw.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 249,
+        "name": "BlueSolar MPPT 100\/30 et 100\/50",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le BlueSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le BlueSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BlueSolar-charge-controller-100-50_top_New.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 244,
+        "name": "BlueSolar MPPT 150\/35 jusqu'\u00e0 250\/100",
+        "price": "0.00",
+        "description": "Un chargeur solaire r\u00e9cup\u00e8re l'\u00e9nergie provenant de vos panneaux solaires, et il la stocke dans vos batteries. Utilisant la technologie la plus r\u00e9cente et la plus rapide, le BlueSolar maximise cette \u00ab r\u00e9colte \u00bb d'\u00e9nergie, en la g\u00e9rant intelligemment de mani\u00e8re \u00e0 obtenir une pleine charge le plus rapidement possible. Le BlueSolar maintient votre batterie en \u00e9tat et prolonge sa dur\u00e9e de vie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Bluesolar MPPT 150 35_top.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 231,
+        "name": "BlueSolar PWM",
+        "price": "0.00",
+        "description": "BlueSolar 12\/24-PWM Trois mod\u00e8les : 5 A, 10 A ou 20 A \u00e0 12 V ou 24 V \u2022 Contr\u00f4leur PWM \u00e0 co\u00fbt r\u00e9duit. \u2022 Sonde de temp\u00e9rature interne \u2022 Processus de charge de batterie en trois \u00e9tapes (bulk, absorption, float) \u2022 Protection contre la surintensit\u00e9 \u2022 Protection contre les courts-circuits \u2022 Protection contre la connexion en polarit\u00e9 invers\u00e9e des panneaux solaires et\/ou de la batterie \u2022 D\u00e9connexion de la sortie en cas de charge de tension r\u00e9duite \u2022 \u00c9cran \u00e0 distance en option (seulement pour le mod\u00e8le 20 A) BlueSolar 12\/24-10 avec minuteur 10 A \u00e0 12 V ou 24 V \u2022 Contr\u00f4leur d'\u00e9clairage solaire PWM. \u2022 Deux minuteurs pour permettre un fonctionnement du cr\u00e9puscule \u00e0 l'aube, ou un fonctionnement avec un temps limit\u00e9 apr\u00e8s le cr\u00e9puscule, et un temps limit\u00e9 avant l'aube. \u2022 Afficheur \u00e0 7 segments pour visualiser les param\u00e8tres du minuteur et analyser des conditions de d\u00e9faillance. \u2022 Indicateur d'\u00e9tat de la batterie avec une alerte en cas d'exc\u00e8s de d\u00e9charge \u2022 Sonde de temp\u00e9rature interne. \u2022 Processus de charge de batterie en trois \u00e9tapes (bulk, absorption, float). \u2022 Protection contre la surintensit\u00e9. \u2022 Protection contre les courts-circuits. \u2022 Protection contre la connexion en polarit\u00e9 invers\u00e9e des panneaux solaires et\/ou de la batterie \u2022 Annulation de d\u00e9connexion en cas de charge de tension r\u00e9duite. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/231_638_20170712113135.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 419,
+        "name": "Contr\u00f4leur de charge BlueSolar PWM (DUO) LCD et USB",
+        "price": "0.00",
+        "description": "BlueSolar PWM-LCD&USB \u00c9cran \u00e0 cristaux liquides. Deux sorties USB de 5 Volts Fonction de contr\u00f4le de l\u2019\u00e9clairage, enti\u00e8rement programmable Charge de batterie en trois \u00e9tapes (Bulk, Absorption, Float), enti\u00e8rement programmableSortie de consommation avec tension basse et d\u00e9connexion manuelle (programmable)Sortie de consommation prot\u00e9g\u00e9e contre la surcharge et les courts-circuitsProtection contre la connexion en polarit\u00e9 invers\u00e9e des panneaux solaires et\/ou de la batterieBlueSolar PWM DUO-LCD&USB Toutes les fonctions susmentionn\u00e9es, plus : Possibilit\u00e9 de recharger deux batteries s\u00e9par\u00e9es Ratio du courant de charge programmable Capteur de temp\u00e9rature externe ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/419_936_20200707145142.png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 243,
+        "name": "EasySolar",
+        "price": "0.00",
+        "description": "L'EasySolar associe un contr\u00f4leur de charge solaire MPPT, un chargeur\/convertisseur et une distribution CA dans un seul bo\u00eetier. Ce produit est facile \u00e0 installer, avec un minimum de c\u00e2blage.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/EasySolar (2023).png",
+        "category": "Solar charge controllers"
+    },
+    {
+        "id": 411,
+        "name": "EasySolar-II GX",
+        "price": "0.00",
+        "description": "L'EasySolar-II GX associe un contr\u00f4leur de charge solaire MPPT, un chargeur\/convertisseur et un centre de contr\u00f4le dans un seul bo\u00eetier. Ce produit est facile \u00e0 installer et ne requiert qu'un minimum de c\u00e2blage.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Easysolar-II GX_nw.png",
+        "category": "Inverter\/charger\/MPPT"
+    },
+    {
+        "id": 463,
+        "name": "Multi RS Solar",
+        "price": "0.00",
+        "description": "Le Multi RS Solar 48\/6000 est un convertisseur\/chargeur 48 V 6 kVA avec deux entr\u00e9es ind\u00e9pendantes pour trackers MPPT 450 V 3 kWp PV, pour un total de 6 kWp PV.Gr\u00e2ce \u00e0 la technologie \u00e0 haute fr\u00e9quence et \u00e0 une nouvelle conception, ce puissant convertisseur ne p\u00e8se que 11 kg. De plus, il pr\u00e9sente une excellente efficacit\u00e9, une consommation en veille basse et un fonctionnement tr\u00e8s silencieux.L\u2019\u00e9cran affiche les param\u00e8tres solaires, de la batterie et du convertisseur. Les m\u00eames param\u00e8tres sont accessibles \u00e0 travers l\u2019application VictronConnect depuis un smartphone ou tout autre dispositif ayant une fonction Bluetooth activ\u00e9e.\u00c0 la mi-2023, le Multi RS a \u00e9t\u00e9 r\u00e9vis\u00e9, passant d\u2019un seul tracker MPPT \u00e0 un mod\u00e8le \u00e0 deux trackers MPPT.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Multi RS Solar 400-100.png",
+        "category": "Inverter\/charger\/MPPT"
+    },
+    {
+        "id": 402,
+        "name": "Convertisseur RS 48\/6000 230V Smart Solar",
+        "price": "0.00",
+        "description": "Le convertisseur RS Smart Solar associe la puissance d'un convertisseur de 48 VCC, 6 kVA-230 VCA et la haute tension d'un chargeur solaire MPPT de 4 kW et 80-450 VCC. Gr\u00e2ce \u00e0 sa conception moderne et sa technologie de fr\u00e9quence \u00e9lev\u00e9e, le convertisseur ne p\u00e8se que 11 kg, et il offre une efficacit\u00e9 excellente, une puissance au repos basse et un fonctionnement tr\u00e8s silencieux. Le convertisseur est \u00e9quip\u00e9 d'un \u00e9cran affichant les param\u00e8tres de la batterie, du convertisseur et du chargeur solaire. Ces param\u00e8tres peuvent \u00e9galement \u00eatre transmis pour lecture par Bluetooth \u00e0 l'application VictronConnect. De plus, le convertisseur dispose d\u2019un port VE.Can pour raccorder un appareil GX afin de superviser le syst\u00e8me, ainsi que d\u2019un port VE.Direct pour raccorder un GlobalLink 520. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/402_794_20200622103403.png",
+        "category": "Inverter\/charger\/MPPT"
+    },
+    {
+        "id": 243,
+        "name": "EasySolar",
+        "price": "0.00",
+        "description": "L'EasySolar associe un contr\u00f4leur de charge solaire MPPT, un chargeur\/convertisseur et une distribution CA dans un seul bo\u00eetier. Ce produit est facile \u00e0 installer, avec un minimum de c\u00e2blage.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/EasySolar (2023).png",
+        "category": "Inverter\/charger\/MPPT"
+    },
+    {
+        "id": 205,
+        "name": "Panneaux solaires BlueSolar",
+        "price": "0.00",
+        "description": "Un coefficient de temp\u00e9rature de tension faible am\u00e9liore un fonctionnement \u00e0 temp\u00e9rature \u00e9lev\u00e9e.Performance de faible luminosit\u00e9 exceptionnelle et sensibilit\u00e9 \u00e9lev\u00e9e pour illuminer le spectre solaire complet.Garantie limit\u00e9e de 25 ans sur la production et la performance de puissance.Garantie limit\u00e9e de 5 ans sur les mat\u00e9riaux et la qualit\u00e9 d'ex\u00e9cution.La bo\u00eete de connexion est multifonctionnelle, \u00e9tanche et scell\u00e9e, ce qui permet un niveau de s\u00e9curit\u00e9 \u00e9lev\u00e9.Les diodes de d\u00e9rivation \u00e0 haute performance minimisent les chutes de puissances en cas de manque de rayonnement.Syst\u00e8me avanc\u00e9 d'encapsulation EAV (\u00c9thyl\u00e8ne-Ac\u00e9tate de Vinyle) avec une feuille isolante arri\u00e8re \u00e0 trois couches respectant les exigences de s\u00e9curit\u00e9 les plus rigoureuses pour un fonctionnement sous tension \u00e9lev\u00e9e.Un cadre anodis\u00e9 robuste permet de monter facilement les modules sur un toit avec une vari\u00e9t\u00e9 de syst\u00e8mes de montage standard.Verre tremp\u00e9 de la plus haute qualit\u00e9 offrant une transmission \u00e9lev\u00e9e et fournissant une r\u00e9sistance \u00e0 l'impact et une duret\u00e9 am\u00e9lior\u00e9es.Syst\u00e8me de connexion rapide pr\u00e9-c\u00e2bl\u00e9 avec des connecteurs PV-ST01. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/205_918_20180709091855.png",
+        "category": "Solar panels"
+    },
+    {
+        "id": 433,
+        "name": "Application VictronConnect",
+        "price": "0.00",
+        "description": "Utilisez l'application VictronConnect pour configurer, superviser, mettre \u00e0 jour et effectuer un diagnostic de votre produit Victron. Disponible sur les appareils fonctionnant sous Android, iOS, Windows, et macOS X. Elle peut se connecter aux produits Victron par Bluetooth, USB et WiFi\/LAN\/Internet. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/433_703_20191011120050.gif",
+        "category": "VictronConnect app"
+    },
+    {
+        "id": 477,
+        "name": "VRM - Supervision \u00e0 distance",
+        "price": "0.00",
+        "description": "Superviser , g\u00e9rez et optimisez vos syst\u00e8mes Victron Energy \u00e0 distance et d\u00e9tectez rapidement les probl\u00e8mes potentiels en d\u00e9finissant des alertes et des alarmes. Avec la solution de supervision \u00e0 distance la plus moderne de la plan\u00e8te, vous gardez toujours le contr\u00f4le depuis n'importe o\u00f9 dans le monde.Le VRM est gratuit et fonctionne avec un appareil GX tel que le Cerbo GX avec une connexion Internet ou le GlobalLink 520 pour les syst\u00e8mes de plus petite taille. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/VRM - remote monitoring - 2.png",
+        "category": "VRM Portal"
+    },
+    {
+        "id": 484,
+        "name": "Ekrano GX",
+        "price": "0.00",
+        "description": "L\u2019Ekrano GX repr\u00e9sente la nouvelle g\u00e9n\u00e9ration de la gamme de produits GX. Avec son \u00e9ventail complet de connexions et d\u2019interfaces ainsi qu\u2019un \u00e9cran tactile int\u00e9gr\u00e9 de 7 pouces, il est le dispositif GX le plus puissant \u00e0 ce jour et vous permet de toujours garder un contr\u00f4le parfait sur votre syst\u00e8me, o\u00f9 que vous soyez, et d\u2019en maximiser les performances. Acc\u00e9dez simplement \u00e0 votre syst\u00e8me via notre portail Victron Remote Management (VRM), ou acc\u00e9dez-y directement en utilisant l\u2019\u00e9cran tactile int\u00e9gr\u00e9, un \u00e9cran multifonctions (MFD) ou notre application VictronConnect gr\u00e2ce \u00e0 son point d'acc\u00e8s Wi-Fi.L\u2019Ekrano GX est \u00e9galement le successeur du Color Control GX.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Ekrano GX.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 423,
+        "name": "Cerbo GX",
+        "price": "0.00",
+        "description": "Ce tout nouveau centre de communications vous permet de toujours parfaitement contr\u00f4ler votre syst\u00e8me o\u00f9 que vous soyez, et ainsi de maximiser son rendement. Il suffit de vous connecter \u00e0 notre portail de gestion \u00e0 distance Victron Remote Management (VRM), ou d'acc\u00e9der directement en utilisant le GX Touch ind\u00e9pendant, un MFD ou notre application VictronConnect gr\u00e2ce \u00e0 son point d'acc\u00e8s WiFi. Cette option derni\u00e8rement int\u00e9gr\u00e9e \u00e0 la gamme GX associe le meilleur de la connectivit\u00e9 en red\u00e9finissant des solutions d'\u00e9nergie intelligentes, n'importe o\u00f9.  Regardez la derni\u00e8re vid\u00e9o qui vous explique comment installer le nouveau Cerbo GX et GX Touch 50.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Cerbo GX nw.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 450,
+        "name": "GlobalLink 520",
+        "price": "0.00",
+        "description": "Nous pensons que pour la maintenance et l\u2019exploitation de vos solutions \u00e9nerg\u00e9tiques hors r\u00e9seau, il est important de comprendre ce qu\u2019il se passe dans votre installation. Puisque hors r\u00e9seau ne doit pas signifier hors ligne, nous avons cr\u00e9\u00e9 le GlobalLink 520. Cet appareil offrira une connectivit\u00e9 LTE-M 4G \u00e0 tous les appareils compatibles VE.Direct sans abonnement ni redevance mensuelle pendant les cinq premi\u00e8res ann\u00e9es. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Globallink 520NW.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 366,
+        "name": "Venus GX",
+        "price": "0.00",
+        "description": "Le tableau de commande Venus GX est le centre de communication de votre installation. Venus vous permet de communiquer avec tous les \u00e9l\u00e9ments composant votre syst\u00e8me, et il vous garantit qu'ils travaillent en harmonie. Vous pouvez superviser les donn\u00e9es en direct, modifier des param\u00e8tres depuis votre smartphone (ou tout autre appareil compatible) via notre portail gratuit de gestion \u00e0 distance : Victron Remote Management (VRM).OBSOL\u00c8TE: Pour les nouvelles installations, nous recommandons le Cerbo Gx \u00e0 prix \u00e9gal mais beaucoup plus puissant.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/366_614_20190808110502.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 467,
+        "name": "GX Tank 140",
+        "price": "0.00",
+        "description": "Le GX Tank 140 obtient des mesures de jusqu\u2019\u00e0 quatre sondes de d\u00e9tection du niveau de r\u00e9servoir. Il s\u2019agit d\u2019un accessoire pour notre gamme de produits de supervision des syst\u00e8mes GX, parmi lesquels le Cerbo GX est le mod\u00e8le le plus habituellement utilis\u00e9.Les niveaux de r\u00e9servoir peuvent \u00eatre mesur\u00e9s localement dans le syst\u00e8me \u2013 voir la capture d\u2019\u00e9cran \u2013 ou bien \u00e0 distance depuis notre portail VRM Portal.Le GX Tank 140 est compatible avec des sondes de courant (de 4 \u00e0 20 mA) ainsi qu\u2019avec des sondes de tension (de 0 \u00e0 10 V). La connexion \u00e0 l\u2019appareil GX se fait via USB, qui est \u00e9galement la source d\u2019alimentation du GX Tank : aucun autre c\u00e2ble d\u2019alimentation n\u2019est n\u00e9cessaire.Pour le syst\u00e8me de d\u00e9tection du r\u00e9servoir, il faut utiliser un c\u00e2blage le plus simple possible : deux des quatre entr\u00e9es fournissent une alimentation de 24 V pour alimenter la sonde. Les deux autres canaux ne requi\u00e8rent pas d\u2019alimentation \u00e9lectrique gr\u00e2ce \u00e0 l\u2019\u00e9nergie issue de la borne et des sorties \u00e9quip\u00e9es de fusibles.Des limites sup\u00e9rieures et inf\u00e9rieures peuvent \u00eatre configur\u00e9es pour permettre l\u2019utilisation de sondes ne fournissant qu\u2019une partie de l\u2019\u00e9chelle des valeurs permises, par exemple de 0 \u00e0 5 V.Pour obtenir une lecture stable, les mesures sont att\u00e9nu\u00e9es par la moyenne. L'att\u00e9nuation peut \u00eatre configur\u00e9e entre 1 et 60 secondes.Des sondes d\u00e9fectueuses et des probl\u00e8mes de c\u00e2blage sont d\u00e9tect\u00e9s : une alarme se d\u00e9clenchera lorsque les valeurs se trouveront en dehors de limites fix\u00e9es.Pour les applications marines, l\u2019appareil GX peut transmettre ces valeurs de niveau de r\u00e9servoir \u00e0 travers le r\u00e9seau NMEA 2000 afin qu\u2019elles soient recueillies par d\u2019autres \u00e9crans tels qu\u2019un MFD.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BPP920140100_GX Tank 140 (top no cable).png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 452,
+        "name": "GX LTE 4G",
+        "price": "0.00",
+        "description": "Le GX-LTE 4G est un modem cellulaire con\u00e7u pour notre gamme de produits de supervision GX. Il fournit une connexion Internet mobile au syst\u00e8me et une connexion au Portail VRM. Il fonctionne sur des r\u00e9seaux 2G, 3G et 4G.Plusieurs mod\u00e8les sont disponibles. Veuillez consulter le manuel pour savoir lequel s\u2019adapte le mieux \u00e0 la bande du r\u00e9seau cellulaire dans votre r\u00e9gion.Le GX LTE est \u00e9quip\u00e9 d\u2019un r\u00e9cepteur GPS int\u00e9gr\u00e9. Lorsque l\u2019antenne GPS en option est install\u00e9e, le syst\u00e8me peut \u00eatre suivi et g\u00e9olocalis\u00e9 sur le portail VRM. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/452_679_20200625105343.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 399,
+        "name": "GX GSM",
+        "price": "0.00",
+        "description": "Le GX-GSM est un modem-GPS con\u00e7u pour notre gamme de produits de surveillance GX. Le GX-GSM est un modem cellulaire fournissant au syst\u00e8me install\u00e9 un acc\u00e8s Internet mobile et une connexion au portail VRM. Il fonctionne sur les r\u00e9seaux 2G et 3G. Il inclut un r\u00e9cepteur GPS. Lorsque l'antenne GPS en option est install\u00e9e, le syst\u00e8me peut \u00eatre trac\u00e9 et g\u00e9olocalis\u00e9 sur le portail VRM. Remarque : de nombreux op\u00e9rateurs de t\u00e9l\u00e9communications sont en passe de suspendre leur r\u00e9seau 3G. Pensez au produit de remplacement : le GX LTE 4G. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/399_664_20200625113705.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 386,
+        "name": "VE.Bus Smart dongle",
+        "price": "0.00",
+        "description": "Le VE.Bus Smart dongle est un produit deux-en-un :Il s'agit avant tout d'un accessoire Bluetooth pour notre gamme de convertisseurs\/chargeurs : Multis, MultiPlus, MultiPlus-II, MultiGrid, MultiGrid-II, Quattro, et notre s\u00e9rie de convertisseurs Phoenix \u00e9quip\u00e9s d'un port VE.Bus. Une fois install\u00e9, utilisez l'application VictronConnect pour superviser le fonctionnement et \u00e9galement faire marcher le syst\u00e8me : modifier la limite de courant d'entr\u00e9e ou bien commuter entre les modes OFF (\u00e9teint), ON (allum\u00e9) et Charger-only (chargeur uniquement).Ensuite, elle peut servir de dispositif de sonde de temp\u00e9rature et de tension pour le convertisseur\/chargeur. Elle marche avec tous les mod\u00e8les.Pour la supervision du syst\u00e8me, ce dispositif est une alternative formidable pour des utilisations avec des caravanes, des bateaux de petite taille et des camping-cars pour lesquels les Color Control GX ou Venus GX sont un cran au-dessus. Il ajoute \u00e9galement la fonction Instant Readout (Lecture Instantan\u00e9e) au produit VE.Bus et affiche les donn\u00e9es cl\u00e9s du convertisseur\/chargeur sur la page de liste des appareils de VictronConnect sans n\u00e9cessiter de connexion au produit. Cela inclut des notifications visuelles des avertissements, alarmes et erreurs, permettant d\u2019\u00e9tablir un diagnostic en un coup d\u2019\u0153il.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/386_805_20180709090157.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 277,
+        "name": "VE.Direct Bluetooth Smart dongle",
+        "price": "0.00",
+        "description": "\u00c0 l\u2019aide du dongle intelligent VE.Direct vers Bluetooth, vous pouvez afficher les informations relative au BMV ou au MPPT sur des appareils Android et iOS en utilisant l\u2019application VictronConnect. Visualisez sans fil des informations telles que l\u2019\u00e9tat de la batterie et la puissance des panneaux solaires, et bien d\u2019autres donn\u00e9es utiles. Le dongle est capable de lire les donn\u00e9es de tous les produits dot\u00e9s d\u2019un port VE.Direct, tels que les contr\u00f4leurs de batterie de la s\u00e9rie BMV-70x, les convertisseurs Phoenix avec port VE.Direct et les contr\u00f4leurs de charge solaire MPPT.  Ceci inclut \u00e9galement la lecture instantan\u00e9e (Instant Readout) : lorsque le dongle intelligent VE.Direct est connect\u00e9 \u00e0 un MPPT BlueSolar, un BMV-70x ou un convertisseur Phoenix VE.Direct, VictronConnect affiche les donn\u00e9es les plus importantes de ces produits sur la page Liste des appareils sans n\u00e9cessiter de connexion coupl\u00e9e. Cela inclut des notifications visuelles d\u2019avertissements, d\u2019alarmes et d\u2019erreurs, permettant d\u2019effectuer des diagnostics en un coup d\u2019\u0153il.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/277_168_20170712113226.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 226,
+        "name": "Color Control GX",
+        "price": "0.00",
+        "description": "Le tableau de commande Color Control GX est le centre de communication de votre installation. En un clin d'\u0153il, il vous offre toute l'information en direct et il vous permet de superviser tous les produits qui lui sont raccord\u00e9s. Contr\u00f4le complet du syst\u00e8me \u2014 presque partout dans le monde \u2014 en acc\u00e9dant \u00e0 votre Color Control GX \u00e0 travers le portail gratuit de gestion \u00e0 distance : Victron Remote Management (VRM). ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/226_494_20180706094818.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 374,
+        "name": "Module VE.Direct-LoRaWan",
+        "price": "0.00",
+        "description": "Gr\u00e2ce au module VE.Direct-LoRaWAN, vous pouvez connecter votre BMV, MPPT ou convertisseur Phoenix au portail de gestion \u00e0 distance VRM\u2013Victron Remote Management de Victron. Consultez toute l'information que vous souhaitez \u2013 comme par exemple l'\u00e9tat de la batterie ou l'\u00e9nergie solaire \u2013 o\u00f9 que vous soyez, depuis votre ordinateur de bureau ou votre t\u00e9l\u00e9phone portable.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/374_608_20180706095736.png",
+        "category": "Communication centres"
+    },
+    {
+        "id": 484,
+        "name": "Ekrano GX",
+        "price": "0.00",
+        "description": "L\u2019Ekrano GX repr\u00e9sente la nouvelle g\u00e9n\u00e9ration de la gamme de produits GX. Avec son \u00e9ventail complet de connexions et d\u2019interfaces ainsi qu\u2019un \u00e9cran tactile int\u00e9gr\u00e9 de 7 pouces, il est le dispositif GX le plus puissant \u00e0 ce jour et vous permet de toujours garder un contr\u00f4le parfait sur votre syst\u00e8me, o\u00f9 que vous soyez, et d\u2019en maximiser les performances. Acc\u00e9dez simplement \u00e0 votre syst\u00e8me via notre portail Victron Remote Management (VRM), ou acc\u00e9dez-y directement en utilisant l\u2019\u00e9cran tactile int\u00e9gr\u00e9, un \u00e9cran multifonctions (MFD) ou notre application VictronConnect gr\u00e2ce \u00e0 son point d'acc\u00e8s Wi-Fi.L\u2019Ekrano GX est \u00e9galement le successeur du Color Control GX.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Ekrano GX.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 435,
+        "name": "GX Touch 50 et GX Touch 70",
+        "price": "0.00",
+        "description": "Les accessoires GX Touch 50 et GX Touch 70 sont des \u00e9crans pour votre Cerbo GX. Ces \u00e9crans tactiles de 5 et 7 pouces vous permettent d'avoir une vue d'ensemble instantan\u00e9e de votre syst\u00e8me et de r\u00e9gler les param\u00e8tres en un clin d'\u0153il. Branch\u00e9s au Cerbo GX simplement avec un c\u00e2ble, leur conception extra-fine et \u00e9tanche, permettant de l\u2019installer sur l\u2019appareil, et sa facilit\u00e9 d'installation leur donnent une grande souplesse si vous souhaitez cr\u00e9er un tableau de bord propre et net. Regardez la nouvelle vid\u00e9o qui explique tout ce que vous devez savoir sur l\u2019installation du nouveau Cerbo GX & GX Touch 50.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/GX Touch 50 front.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 369,
+        "name": "BMV-712 Smart",
+        "price": "0.00",
+        "description": "Gr\u00e2ce \u00e0 son dispositif Bluetooth int\u00e9gr\u00e9, le BMV Smart est pr\u00eat pour aborder l'\u00e8re de l'Internet des objets (IoT). Gr\u00e2ce \u00e0 la mise en place de la fonction Bluetooth dans la plupart des produits Victron Energy, la communication sans fil entre les produits permettra de simplifier l'installation du syst\u00e8me et d'am\u00e9liorer le rendement.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-712 Smart_SOC.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 429,
+        "name": "BMV-702",
+        "price": "0.00",
+        "description": "Le BMV-702 est un contr\u00f4leur de batterie de haute pr\u00e9cision. La fonction essentielle d\u2019un contr\u00f4leur de batterie est de calculer la consommation amp\u00e8res-heures et le niveau de charge de la batterie. La consommation en amp\u00e8res-heures est calcul\u00e9e en int\u00e9grant le d\u00e9bit du courant entrant ou sortant de la batterie.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-702_SOC.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 430,
+        "name": "BMV-702 (Black)",
+        "price": "0.00",
+        "description": "Le BMV-702 (Black) est un contr\u00f4leur de batterie de haute pr\u00e9cision. La fonction essentielle d\u2019un contr\u00f4leur de batterie est de calculer la consommation amp\u00e8res-heures et le niveau de charge de la batterie. La consommation en amp\u00e8res-heures est calcul\u00e9e en int\u00e9grant le d\u00e9bit du courant entrant ou sortant de la batterie.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-702 black_SOC.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 239,
+        "name": "S\u00e9rie BMV-700",
+        "price": "0.00",
+        "description": "Le BMV-700 est un contr\u00f4leur de batterie de haute pr\u00e9cision. La fonction essentielle d\u2019un contr\u00f4leur de batterie est de calculer la consommation amp\u00e8res-heures et le niveau de charge de la batterie. La consommation en amp\u00e8res-heures est calcul\u00e9e en int\u00e9grant le d\u00e9bit du courant entrant ou sortant de la batterie.Pour davantage de renseignements sur la gamme compl\u00e8te des BMV et leurs accessoires, consultez ce blog. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMV-700_SOC.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 431,
+        "name": "BMV-700H",
+        "price": "0.00",
+        "description": "Le BMV-700H est un contr\u00f4leur de batterie \u00e0 haute pr\u00e9cision qui a \u00e9t\u00e9 sp\u00e9cialement con\u00e7u pour des syst\u00e8mes pr\u00e9sentant une plage de tension de batterie \u00e9lev\u00e9e allant de 60 \u00e0 385 V. Le contr\u00f4leur de batterie calcule l'\u00e9tat de charge d'une batterie, et il effectue un suivi des amp\u00e8res-heures consomm\u00e9s par la batterie en int\u00e9grant le courant entrant et sortant de la batterie. Le BMV-700H est livr\u00e9 avec une unit\u00e9 ronde, un cadran biseaut\u00e9, un anneau \u00e0 vis pour le montage, un c\u00e2ble UTP RJ12 de 10 m, un c\u00e2ble d'alimentation prot\u00e9g\u00e9 par un fusible, et un shunt de 500 A\/50 mV. En raison de la tension \u00e9lev\u00e9e qui est appliqu\u00e9e, le shunt est plac\u00e9 dans un boitier sp\u00e9cial.Pour en savoir plus sur la gamme compl\u00e8te d'accessoires du BMV, consultez ce blog.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/431_188_20200302122753.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 327,
+        "name": "MPPT Control",
+        "price": "0.00",
+        "description": "Le MPPT Control vous permet de configurer et de v\u00e9rifier l'\u00e9tat de tous les contr\u00f4leurs de charge BlueSolar MPPT disposant d'un port de communications VE.Direct. Le MPPT Control est mont\u00e9 sur un ch\u00e2ssis qui nous est bien familier : celui de la s\u00e9rie BMV-700. Il permet de conserver l'aspect coh\u00e9rent et professionnel de vos panneaux et de votre \u00e9quipement de surveillance des syst\u00e8mes. Consultez le manuel d'utilisateur et d'installation ainsi que le post de blog du MPPT Control pour davantage de renseignements.Pour installer facilement le MPPT Control au mur, au lieu de l'encastrer dans un panneau, utilisez nos bo\u00eetiers de montage mural. Consultez le carrousel de produits associ\u00e9s ci-dessous.Fonctions :1. Consultation en direct des informations relatives \u00e0 l'\u00e9tat du syst\u00e8me, dont la puissance solaire en watts, la tension de batterie, le courant de charge et bien plus encore.2. Consultation de l'historique A. Valeurs relev\u00e9es en continu B. Valeurs des 30 derniers jours3. Configuration du MPPT",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/327_220_20180706094148.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 356,
+        "name": "\u00c9cran SmartSolar Control",
+        "price": "0.00",
+        "description": "L'\u00e9cran SmartSolar Control est un \u00e9cran LCD enfichable con\u00e7u pour \u00eatre utilis\u00e9 avec des contr\u00f4leurs de charge SmartSolar. Retirez simplement le joint en caoutchouc qui prot\u00e8ge la prise sur l'avant du contr\u00f4leur et ins\u00e9rez l'\u00e9cran.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/356_243_20180608090959.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 279,
+        "name": "Tableau de commande Digital Multi Control 200\/200 A",
+        "price": "0.00",
+        "description": "Ce tableau de commande est pr\u00e9vu aussi bien pour les Multis que pour les Quattros. Il permet de configurer les limites de courants PowerControl et PowerAssist pour deux sources de courant CA : un courant de g\u00e9n\u00e9rateur et de quai par exemple. Plage de configuration : jusqu'\u00e0 200 A. La luminosit\u00e9 des LED est automatiquement r\u00e9duite pendant la nuit.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/279_665_20180706100046.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 274,
+        "name": "Digital Multi Control 200\/200A GX",
+        "price": "0.00",
+        "description": "Le tableau de contr\u00f4le num\u00e9rique Digital Multi Control est utilis\u00e9 pour consulter et ajuster les courants d'entr\u00e9e CA, et pour allumer et \u00e9teindre \u00e0 distance les Multi ou les Quattro. Il est con\u00e7u pour s'int\u00e9grer \u00e9l\u00e9gamment au tableau de contr\u00f4le de votre syst\u00e8me install\u00e9 sur votre bateau, dans votre v\u00e9hicule ou votre maison. Le tableau de contr\u00f4le num\u00e9rique Multi (DMC) est con\u00e7u pour travailler avec tous les Multi\/Quattro. Ceci comprend les configurations autonome, parall\u00e8le et biphas\u00e9e ou triphas\u00e9e. Brancher le DMC \u00e0 votre syst\u00e8me est simple : dans la plupart des cas, il suffit de raccorder le DMC avec un c\u00e2ble RJ45 sans qu\u2019aucune autre manipulation ne soit n\u00e9cessaire. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/274_205_20180706100526.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 413,
+        "name": "CANvu GX",
+        "price": "0.00",
+        "description": "Le CANvu GX est un membre de la famille des produits GX de Victron.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/CanvuGX old.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 343,
+        "name": "Skylla Control",
+        "price": "0.00",
+        "description": "Le syst\u00e8me de contr\u00f4le Skylla vous permet de modifier le courant de charge et de v\u00e9rifier l'\u00e9tat du syst\u00e8me.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/343_734_20180706111556.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 276,
+        "name": "Skylla-i Control GX",
+        "price": "0.00",
+        "description": "Le syst\u00e8me de contr\u00f4le Skylla-i vous permet de modifier le courant de charge et de v\u00e9rifier l'\u00e9tat du syst\u00e8me.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/276_147_20180706111219.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 220,
+        "name": "Battery Alarm GX",
+        "price": "0.00",
+        "description": "Battery Alarm GX est un petit tableau de commande \u00e0 co\u00fbt r\u00e9duit qui contr\u00f4le votre banc de batteries. Il pr\u00e9sente \u00e0 la fois des alarmes sonores et visuelles, ainsi qu'un contact sec avec des contacts normalement ouverts et normalement ferm\u00e9s. Les seuils et les hyst\u00e9r\u00e9sis de l'alarme sont programmables \u00e0 l'aide des commutateurs DIP. Voir le Manuel pour de plus amples informations.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/220_875_20180709111023.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 281,
+        "name": "Tableau de contr\u00f4le du chargeur (Charger Control)",
+        "price": "0.00",
+        "description": "Le tableau de contr\u00f4le du chargeur (Charger Control) offre un contr\u00f4le et le suivi \u00e0 distance du processus de charge gr\u00e2ces aux indications des voyants LED (diodes \u00e9lectroluminescentes) relatives au statut du chargeur. De plus, ce tableau de contr\u00f4le \u00e0 distance propose aussi une fonction de mise \u00e0 l\u2019\u00e9chelle du courant de sortie qui peut \u00eatre utilis\u00e9e pour limiter le courant de sortie et donc la puissance pr\u00e9lev\u00e9e depuis l'alimentation de CA. Ceci est particuli\u00e8rement utile quand le chargeur fonctionne \u00e0 partir d\u2019une puissance de quai limit\u00e9e ou de petits groupes \u00e9lectrog\u00e8nes. Ce tableau peut aussi \u00eatre utilis\u00e9 pour changer les param\u00e8tres de chargement de la batterie. La luminosit\u00e9 des LED est automatiquement r\u00e9duite pendant la nuit. Raccordement au chargeur avec un c\u00e2ble UTP standard.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Charger control.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 384,
+        "name": "Inverter control VE.Direct",
+        "price": "0.00",
+        "description": "Ce tableau de commande s\u2019adresse \u00e0 tous les convertisseurs VE.Direct.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/384_140_20180709112728.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 275,
+        "name": "Tableau de commande Convertisseur (Inverter Control)",
+        "price": "0.00",
+        "description": "Ce tableau de commande est pr\u00e9vu pour les convertisseurs \u00e9quip\u00e9s d\u2019un contr\u00f4le \u00e0 distance UTP et d\u2019un support de contr\u00f4le. Ce tableau peut \u00e9galement \u00eatre utilis\u00e9 avec un chargeur - convertisseur MultiPlus, lorsqu\u2019un commutateur de transfert automatique est requis, mais pas la fonction chargeur. La luminosit\u00e9 des LED est automatiquement r\u00e9duite pendant la nuit. Seulement pour les mod\u00e8les : 12\/1200, 12\/1600, 12\/2000, 12\/3000, 12\/5000, 24\/1200, 24\/1600, 24\/2000, 24\/3000, 24\/5000, 48\/3000 et 48\/5 000.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Inverter Control.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 436,
+        "name": "Tableau de commande GMDSS VE.Net",
+        "price": "0.00",
+        "description": ".",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/436_876_20191126132227.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 280,
+        "name": "Interrupteur de chargeur",
+        "price": "0.00",
+        "description": "Un interrupteur \u00e0 distance pour le chargeur Skylla-TG.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/280_323_20180709104412.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 256,
+        "name": "Tableau de commande \u00e0 distance pour BlueSolar PWM-",
+        "price": "0.00",
+        "description": "Tableau de commande \u00e0 distance pour BlueSolar PWM-Pro.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/256_644_20180709122249.png",
+        "category": "Display & panels"
+    },
+    {
+        "id": 377,
+        "name": "SmartShunt",
+        "price": "0.00",
+        "description": "Le SmartShunt est un contr\u00f4leur de batterie tout-en-un, mais sans \u00e9cran. Votre t\u00e9l\u00e9phone sert d'\u00e9cran. Le SmartShunt se connecte par Bluetooth \u00e0 l'application VictronConnect sur votre t\u00e9l\u00e9phone (ou tablette), et vous pouvez lire ais\u00e9ment tous les param\u00e8tres de batterie qui sont sous surveillance comme par exemple l'\u00e9tat de charge, l'autonomie restante, l'information historique et bien plus encore.Sinon le SmartShunt peut \u00e9galement \u00eatre connect\u00e9 et lu par un appareil GX. La connexion au SmartShunt peut se faire \u00e0 l'aide d'un c\u00e2ble VE.Direct.Le SmartShunt repr\u00e9sente une bonne alternative au contr\u00f4leur de batterie BMV, en particulier pour des syst\u00e8mes dans lesquels on souhaite superviser une batterie, mais avec moins de c\u00e2ble et de d\u00e9sordre.Le SmartShunt est \u00e9quip\u00e9 de Bluetooth, d'un port VE.Direct et d'une connexion qui peut \u00eatre utilis\u00e9e pour surveiller une deuxi\u00e8me batterie, un point m\u00e9dian ou une sonde de temp\u00e9rature.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Smartshunt IP65 NEW.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 230,
+        "name": "Lynx Shunt VE.Can",
+        "price": "0.00",
+        "description": "Le Lynx Shunt VE.Can est un shunt intelligent de 1000 A disposant de l'emplacement n\u00e9cessaire pour un fusible (non inclus). Le contr\u00f4leur de batterie int\u00e9gr\u00e9 surveille avec pr\u00e9cision l'\u00e9tat de charge de votre batterie. Utilisez un appareil GX (par ex. un Cerbo GX) pour lire l'information. Partie du syst\u00e8me de distribution modulaire Lynx.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/230_588_20180706090107.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 376,
+        "name": "Smart Battery Sense",
+        "price": "0.00",
+        "description": "La Smart Battery Sense est une sonde de temp\u00e9rature et de tension, sans fil, pour \u00e9quiper des batteries de chargeurs solaires MPPT Victron.Gr\u00e2ce \u00e0 l'installation d'une sonde de tension et de temp\u00e9rature, les batteries se chargeront mieux, ce qui am\u00e9liorera leur efficacit\u00e9 de charge et prolongera leur dur\u00e9e de vie.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/376_721_20200922101649.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 342,
+        "name": "Compteurs d\u2019\u00e9nergie VM-3P75CT, ET112, ET340, EM24 Ethernet et EM540",
+        "price": "0.00",
+        "description": "Les compteurs d\u2019\u00e9nergie sont g\u00e9n\u00e9ralement utilis\u00e9s dans un syst\u00e8me de stockage d\u2019\u00e9nergie, pour mesurer la puissance et l\u2019\u00e9nergie de toute l\u2019application au niveau du bo\u00eetier de distribution.et minimiser l\u2019importation ou l\u2019exportation d\u2019\u00e9nergie sur le r\u00e9seau. Ils peuvent \u00e9galement \u00eatre utilis\u00e9s pour mesurer la sortie d\u2019u nconvertisseur PV ou de consommateurs CA et afficher les donn\u00e9es sur des dispositifs GX tels que le Cerbo GX ou l\u2019Ekrano GX et le portail VRM.Plusieurs mod\u00e8les sont disponibles aupr\u00e8s de Victron:Compteur d\u2019\u00e9nergie Victron VM-3P75CT (Ethernet et VE.Can - pour triphas\u00e9 et biphas\u00e9, utilise les TC fournis, max. 80 A par phase)ET112 (RS485 - pour monophas\u00e9 max. 100 A)ET340 (RS485 - pour triphas\u00e9 max. 65 A)EM24 Ethernet (Ethernet \u2013 pour triphas\u00e9 max. 65 A)EM540 (RS485 - pour triphas\u00e9 max. 65 A)Pour plus d\u2019informations, veuillez consulter le PDF Guide de s\u00e9lection - Compteurs d\u2019\u00e9nergie ci-dessous.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Energy Meter nw.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 298,
+        "name": "Sonde de courant CA \u2013 monophase - 40 A max.",
+        "price": "0.00",
+        "description": "La sonde de courant CA est une simple sonde de courant externe utilis\u00e9e pour mesurer les valeurs de courant CA, de puissance (VA) et pour calculer l'\u00e9nergie d'un convertisseur PV connect\u00e9 \u00e0 l'entr\u00e9e ou \u00e0 la sortie CA d'un Multi ou d'un Quattro. Ces valeurs peuvent \u00eatre affich\u00e9es et envoy\u00e9es au site Web-VRM par le Color Control. Les deux c\u00e2bles de mesure peuvent \u00eatre connect\u00e9s \u00e0 l'entr\u00e9e AUX et\/ou \u00e0 celle de la sonde de TEMP d'un Multi ou d'un Quattro.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/298_892_20180607075840.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 397,
+        "name": "Transformateur de courant pour MultiPlus-II",
+        "price": "0.00",
+        "description": "Transformateur de courant 100 A:50 mA pour MultiPlus-II\/MultiGrid-II pour mettre en \u0153uvre PowerControl et PowerAssist et optimiser l\u2019autoconsommation avec une d\u00e9tection de courant externe. Voir la fiche technique du MultiPlus-II pour plus de d\u00e9tails.Notez qu\u2019il existe deux types :CTR11xxxx a un connecteur jack.CTR12xxxx a une extr\u00e9mit\u00e9 filaire.Les deux types sont disponibles avec des longueurs de c\u00e2ble de 1, 5 et 20 m\u00e8tres.. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Current transformer_Wire_End1.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 257,
+        "name": "Sonde de temp\u00e9rature pour BlueSolar PWM-Pro",
+        "price": "0.00",
+        "description": "Sonde de temp\u00e9rature pour BlueSolar PWM-Pro",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/257_708_20170712114053.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 313,
+        "name": "Sonde de temp\u00e9rature pour BMV-712 Smart et BMV-702",
+        "price": "0.00",
+        "description": "A temperature sensor suitable for the battery monitor BMV-702 and BMV-712.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/313_329_20170712114111.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 458,
+        "name": "Capteur de temp\u00e9rature de type C",
+        "price": "0.00",
+        "description": "Capteur de temp\u00e9rature de batterie de rechange pour le convertisseur RS Smart Solar.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/458_137_20200904121335.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 416,
+        "name": "Sonde de temp\u00e9rature Quattro, MultiPlus et Appareil GX",
+        "price": "0.00",
+        "description": "Sonde de temp\u00e9rature pour Quattro, MultiPlus et Appareil GX.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/416_603_20190117155925.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 445,
+        "name": "CAN-bus Temp. Sensor",
+        "price": "0.00",
+        "description": "La sonde de temp\u00e9rature Bus-CAN est une sonde de temp\u00e9rature pour batterie destin\u00e9e \u00e0 la gamme de convertisseurs CC\/CC survolteurs-d\u00e9volteurs \u2014 Buck-Boost. Il s'agit d'un accessoire essentiel lorsque ces convertisseurs CC\/CC Buck-Boost sont connect\u00e9s \u00e0 une batterie au lithium LFP (phosphate de lithium-fer). Il est important de contr\u00f4ler la temp\u00e9rature \u00e0 l'aide d'une sonde lorsque les batteries au lithium LFP sont recharg\u00e9es dans des conditions de temp\u00e9ratures basses. Le courant de charge vers une batterie au lithium doit \u00eatre r\u00e9duit lorsque la temp\u00e9rature de la batterie chute en dessous de 5 degr\u00e9s, et il doit \u00eatre interrompu lorsque cette temp\u00e9rature passe en dessous de z\u00e9ro. La sonde de temp\u00e9rature Bus-CAN se charge de ce contr\u00f4le. Elle mesure la temp\u00e9rature de la batterie au lithium, et elle envoie cette donn\u00e9e au convertisseur CC\/CC Buck-Boost. Le convertisseur CC\/CC Buck-Boost r\u00e9duira ou interrompra la recharge lorsque la temp\u00e9rature chutera trop bas. En outre, la sonde de temp. Bus-CAN peut \u00e9galement \u00eatre branch\u00e9e \u00e0 une borne de sonde de temp\u00e9rature sur un Multi ou un Quattro, afin que ce Multi ou ce Quattro r\u00e9duise ou interrompe la recharge lorsque la temp\u00e9rature de la batterie chute trop bas.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/445_538_20200331123758.png",
+        "category": "Meters & Sensors"
+    },
+    {
+        "id": 437,
+        "name": "Int\u00e9gration d\u2019appareils GX aux \u00e9crans MFD de navigation \u2013 Navico",
+        "price": "0.00",
+        "description": "Navico est la marque globale derri\u00e8re les \u00e9crans MFD de B&G, Simrad et Lowrance. L\u2019int\u00e9gration d\u2019appareils GX dans des \u00e9crans multifonctions (MFD) de navigation vous permet de connecter un \u00e9cran multifonctions au c\u0153ur m\u00eame de votre syst\u00e8me d\u2019alimentation comme c\u2019est le cas par exemple avec des appareils compatibles GX, tels que le Cerbo GX. ou le MultiPlus-II GX. Une fois l\u2019appareil connect\u00e9, vous pouvez facilement superviser et contr\u00f4ler le syst\u00e8me d\u2019alimentation de votre bateau, directement depuis votre tableau de bord vitr\u00e9 (Glass Bridge). D\u00e9couvrez ce que vous pouvez faire d\u2019autre avec nos solutions d\u2019alimentation pour vos applications marines.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/screenshot Navico.png",
+        "category": "Marine MFD Integrations"
+    },
+    {
+        "id": 438,
+        "name": "Int\u00e9gration d\u2019appareils GX aux \u00e9crans MFD de navigation \u2013 Raymarine",
+        "price": "0.00",
+        "description": "L\u2019int\u00e9gration d\u2019appareils GX dans des \u00e9crans multifonctions (MFD) de navigation vous permet de connecter un \u00e9cran multifonctions au c\u0153ur m\u00eame de votre syst\u00e8me d\u2019alimentation comme c\u2019est le cas par exemple avec des appareils compatibles GX, tels que le Cerbo GX. ou le MultiPlus-II GX. Une fois l\u2019appareil connect\u00e9, vous pouvez facilement superviser et contr\u00f4ler le syst\u00e8me d\u2019alimentation de votre bateau, directement depuis votre tableau de bord vitr\u00e9 (Glass Bridge). D\u00e9couvrez ce que vous pouvez faire d\u2019autre avec nos solutions d\u2019alimentation pour vos applications marines.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Raymarine_website 2025.png",
+        "category": "Marine MFD Integrations"
+    },
+    {
+        "id": 439,
+        "name": "Int\u00e9gration d\u2019appareils GX aux \u00e9crans MFD de navigation  \u2013 Garmin",
+        "price": "0.00",
+        "description": "L\u2019int\u00e9gration d\u2019appareils GX dans des \u00e9crans multifonctions (MFD) de navigation vous permet de connecter un \u00e9cran multifonctions au c\u0153ur m\u00eame de votre syst\u00e8me d\u2019alimentation comme c\u2019est le cas par exemple avec des appareils compatibles GX, tels que le Cerbo GX. ou le MultiPlus-II GX. Une fois l\u2019appareil connect\u00e9, vous pouvez facilement superviser et contr\u00f4ler le syst\u00e8me d\u2019alimentation de votre bateau, directement depuis votre tableau de bord vitr\u00e9 (Glass Bridge). D\u00e9couvrez ce que vous pouvez faire d\u2019autre avec nos solutions d\u2019alimentation pour vos applications marines.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Garmin_website.png",
+        "category": "Marine MFD Integrations"
+    },
+    {
+        "id": 456,
+        "name": "Int\u00e9gration d\u2019appareils GX aux \u00e9crans MFD de navigation \u2013 Furuno",
+        "price": "0.00",
+        "description": "L\u2019int\u00e9gration d\u2019appareils GX dans des \u00e9crans multifonctions (MFD) de navigation vous permet de connecter un \u00e9cran multifonctions au c\u0153ur m\u00eame de votre syst\u00e8me d\u2019alimentation comme c\u2019est le cas par exemple avec des appareils compatibles GX tels que le Cerbo GX. ou le MultiPlus-II GX. Une fois l\u2019appareil connect\u00e9, vous pouvez facilement superviser et contr\u00f4ler le syst\u00e8me d\u2019alimentation de votre bateau, directement depuis votre tableau de bord vitr\u00e9 (Glass Bridge). D\u00e9couvrez ce que vous pouvez faire d\u2019autre avec nos solutions d\u2019alimentation pour vos applications marines.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Furuno_website.png",
+        "category": "Marine MFD Integrations"
+    },
+    {
+        "id": 468,
+        "name": "SolidSwitch 104",
+        "price": "0.00",
+        "description": "Le SolidSwitch 104 commutera des charges consommatrices CC de jusqu\u2019\u00e0 70 V\/4 A, et peut \u00eatre contr\u00f4l\u00e9 par un signal num\u00e9rique de faible puissance. La charge CC peut \u00eatre r\u00e9sistive, capacitive ou inductive (telle que la bobine d\u2019un contacteur de puissance \u00e9lev\u00e9e).Le SolidSwitch n\u2019est pas prot\u00e9g\u00e9e contre la polarit\u00e9 invers\u00e9e ni contre les courts-circuits.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/BMS800200104_SolidSwitch 104 (top).png",
+        "category": "Accessories"
+    },
+    {
+        "id": 485,
+        "name": "Capot de protection pour GX Touch",
+        "price": "0.00",
+        "description": "Le capot de protection des GX Touch 50 et 70 permet d\u2019\u00e9viter les dommages caus\u00e9s par les rayons UV lors d\u2019une exposition prolong\u00e9e au soleil.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Protection cover GX Touch 50 and 70.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 465,
+        "name": "Montage mural pour GX Touch",
+        "price": "0.00",
+        "description": "L'accessoire de montage mural du GX Touch permet de monter facilement le GX Touch sur un mur solide. Pas besoin de percer ni de couper : les trois vis qui fixent l'accessoire de montage au mur sont suffisantes. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/GX Touch 50 Wall Mount_mounted (on)nw.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 441,
+        "name": "DIN35 adapter small",
+        "price": "0.00",
+        "description": "Adaptateur pour profil DIN pour facilement monter un appareil sur un profil DIN. Adapt\u00e9 au Cerbo GX.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/441_587_20200117072540.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 457,
+        "name": "Adaptateur GX Touch 50 pour s\u2019ajuster \u00e0 la forme du CCGX",
+        "price": "0.00",
+        "description": "Cet adaptateur est con\u00e7u pour remplacer facilement l\u2019\u00e9cran CCGX par les GX Touch plus r\u00e9cents. L\u2019emballage contient le support m\u00e9tallique, le cadran en plastique et quatre vis de montage.  Deux m\u00e9thodes de montage sont possibles : \u00ab Installation avec \u00e9cran \u00bb - montage le plus s\u00fbr pour l\u2019\u00e9cran GX Touch \u00ab Installation sans \u00e9cran \u00bb \u2013 L\u2019\u00e9cran GX Touch est facile \u00e0 retirer, et l\u2019adaptateur peut \u00eatre install\u00e9 avant de terminer la mise en place des branchements  Consultez le Guide de d\u00e9marrage rapide pour davantage de d\u00e9tails. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/457_373_20200825135250.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 250,
+        "name": "Battery Balancer",
+        "price": "0.00",
+        "description": "L'\u00e9quilibreur de batterie Battery Balancer \u00e9galise l'\u00e9tat de charge de deux batteries de 12 V raccord\u00e9es en s\u00e9rie, ou de plusieurs files de batteries connect\u00e9es en s\u00e9rie, ces files \u00e9tant elles-m\u00eames raccord\u00e9es en parall\u00e8les. Si la tension de charge d'un syst\u00e8me de batteries de 24 V s'\u00e9l\u00e8ve \u00e0 plus de 27 V, l'\u00e9quilibreur de batterie s'allumera et comparera la tension sur les deux batteries connect\u00e9es en s\u00e9rie. L'\u00e9quilibreur extraira un courant de jusqu'\u00e0 1 A sur la batterie (ou les batteries raccord\u00e9es en parall\u00e8le) ayant la tension la plus \u00e9lev\u00e9e. La diff\u00e9rence de courant de charge qui en r\u00e9sultera garantira que toutes les batteries convergeront vers le m\u00eame \u00e9tat de charge. Le cas \u00e9ch\u00e9ant, plusieurs \u00e9quilibreurs peuvent \u00eatre install\u00e9s en parall\u00e8le. Un banc de batteries de 48 V peut \u00eatre \u00e9quilibr\u00e9 avec trois \u00e9quilibreurs de batteries.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/250_897_20180705170552.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 481,
+        "name": "Outdoor LTE-M puck antenna",
+        "price": "0.00",
+        "description": "Outdoor LTE-M puck antenna. Length: 3 meters.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Outdoor LTE-M puck antenna.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 482,
+        "name": "Outdoor LTE-M wall-mount antenna",
+        "price": "0.00",
+        "description": "Outdoor LTE-M wall-mount antenna. Length: 5 meters.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Outdoor LTE-M wall-mount antenna.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 483,
+        "name": "GX WiFi module long range (Netgear AC1200)",
+        "price": "0.00",
+        "description": "GX WiFi module long range (Netgear AC1200).",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/GX WiFi module long range (Netgear AC1200).png",
+        "category": "Accessories"
+    },
+    {
+        "id": 387,
+        "name": "Bo\u00eetier de c\u00e2blage pour MPPT \u2013 Tr",
+        "price": "0.00",
+        "description": "Le boitier Wirebox du MPPT offre un niveau de s\u00e9curit\u00e9 suppl\u00e9mentaire, et il est particuli\u00e8rement utile si votre chargeur solaire MPPT est install\u00e9 dans une zone accessible \u00e0 tous. Il dissimule toutes les bornes CC ce qui permet d'\u00e9viter tout contact accidentel ou d\u00fb \u00e0 la curiosit\u00e9 avec les vis de bornes. Plusieurs tailles sont disponibles :MPPT WireBox-S 75-10\/15MPPT WireBox-S 100-15MPPT WireBox-S 100-20MPPT Wirebox-M 100-30\/50 & 150-35\/45MPPT WireBox-L Tr 150-60\/70 & 250-60\/70MPPT WireBox-XL Tr 150-85\/100 & 250-85\/100MPPT WireBox-XL Tr 150-85\/100 & 250-85\/100 VE.Can",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/387_880_20180220094307.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 388,
+        "name": "Bo\u00eetier de c\u00e2blage pour MPPT \u2013 MC4",
+        "price": "0.00",
+        "description": "Le boitier Wirebox du MPPT offre un niveau de s\u00e9curit\u00e9 suppl\u00e9mentaire, et il est particuli\u00e8rement utile si votre chargeur solaire MPPT est install\u00e9 dans une zone accessible \u00e0 tous. Il dissimule toutes les bornes CC ce qui permet d'\u00e9viter tout contact accidentel ou d\u00fb \u00e0 la curiosit\u00e9 avec les vis de bornes. Plusieurs tailles sont disponibles :Boitier WireBox-L MC4 pour MPPT 150-45\/60\/70 & 250-60\/70Boitier WireBox-L MC4 pour MPPT 150\/70 & 250\/70 VE.CanBoitier WireBox-XL MC4 pour MPPT 150-85\/100 et 250-85\/100Boitier WireBox-XL MC4 pour MPPT 150-85\/100 et 250-85\/100 VE.Can",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/388_486_20180222090642.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 415,
+        "name": "Rallonge et kit de c\u00e2blage CANvu GX IO",
+        "price": "0.00",
+        "description": "Rallonge et kit de c\u00e2blage CANvu GX IO",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/415_765_20190102104930.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 345,
+        "name": "Convertisseurs Zigbee-vers-USB et Zigbee-vers-RS485",
+        "price": "0.00",
+        "description": "Ces deux convertisseurs Zigbee permettent de connecter sans fil un compteur d'\u00e9nergie \u00e0 un appareil GX. Convertisseur Zigbee-vers-USB, DRF2658C, DTKConvertisseur Zigbee-vers-RS485, DRF2659C, DTK",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/345_330_20200706150044.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 446,
+        "name": "MagCode Power Port",
+        "price": "0.00",
+        "description": "MagCode Power Port.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/446_176_20200309134953.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 426,
+        "name": "MagCode Power Clip",
+        "price": "0.00",
+        "description": "with 30A ATO fuse",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/426_758_20190624093945.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 271,
+        "name": "Connecteur \u00e0 \u0153illet M6\/M8",
+        "price": "0.00",
+        "description": "Le connecteur \u00e0 \u0153illet M6\/M8 avec fusible est un accessoire du Chargeur Blue Smart IP65 avec connecteur CC.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/271_574_20170712115034.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 269,
+        "name": "Cosses de connexion",
+        "price": "0.00",
+        "description": "Les cosses de connexion avec fusible sont un accessoire du Chargeur Blue Smart IP65 avec connecteur CC.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/269_504_20170712115001.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 270,
+        "name": "C\u00e2ble rallonge de 2 m\u00e8tres",
+        "price": "0.00",
+        "description": "Le c\u00e2ble de rallonge de 2 m\u00e8tres est un accessoire du Chargeur Blue Smart IP65 avec connecteur CC.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/270_211_20170712115012.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 268,
+        "name": "Prise allume-cigare de 12 V",
+        "price": "0.00",
+        "description": "La prise allume-cigare de 12 V avec fusible est un accessoire du Chargeur BlueSmart IP65 avec connecteur CC. Gr\u00e2ce \u00e0 cette prise, vous pouvez recharger la batterie de votre v\u00e9hicule sur l'allume-cigare.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/268_369_20180712163912.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 396,
+        "name": "Panneau indicateur de batterie",
+        "price": "0.00",
+        "description": "Le Panneau indicateur de batterie indique l'\u00e9tat de la batterie. Il s'agit d'un accessoire pour le chargeur Blue Smart IP65.Convient aux batteries au plomb de 12 V (\u00e0 \u00e9lectrolyte liquide, g\u00e9lifi\u00e9, AGM).",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/396_540_20180706110241.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 398,
+        "name": "\u0152illet M8 d'indicateur de batterie",
+        "price": "0.00",
+        "description": "L'\u0153illet M8 d'indicateur de batterie est un accessoire destin\u00e9 aux chargeurs Blue Smart IP65.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/398_600_20180706110056.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 407,
+        "name": "Coque de protection en caoutchouc pour Chargeur IP65",
+        "price": "0.00",
+        "description": "Le chargeur IP65 est d\u00e9j\u00e0 prot\u00e9g\u00e9 contre la poussi\u00e8re, les \u00e9claboussures d'eau : \u00e0 pr\u00e9sent, vous pouvez \u00e9galement le prot\u00e9ger contre les chocs accidentels. Cette coque de protection en caoutchouc lui permet de r\u00e9sister aux coups et aux chocs propres \u00e0 son utilisation en atelier. Cette protection prolongera la dur\u00e9e de vie de votre chargeur. Il dispose d'une poign\u00e9e facilitant son transport ou permettant de l'accrocher \u00e0 un crochet lorsque l'appareil n'est pas utilis\u00e9.Deux tailles sont disponibles :  Chargeur Blue Smart IP65 12\/10, 12\/15 et 24\/8 Chargeur Blue Smart IP65 12\/25 et 24\/13",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/407_146_20180906170318.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 406,
+        "name": "Montage mural pour le chargeur Blue Smart IP65",
+        "price": "0.00",
+        "description": "Cette possibilit\u00e9 de monter l'appareil au mur sera particuli\u00e8rement utile si vous souhaitez avoir votre chargeur intelligent toujours sous la main : au-dessus de votre \u00e9tabli dans l'atelier par exemple. \u00c0 pr\u00e9sent, le chargeur peut \u00eatre utilis\u00e9 sans avoir \u00e0 le d\u00e9placer !",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/406_735_20180906165912.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 418,
+        "name": "Mallette de transport pour chargeurs Blue Smart IP65 et accessoires",
+        "price": "0.00",
+        "description": "\u00c9l\u00e9gante et professionnelle : cette nouvelle mallette de transport, avec fermeture \u00e0 clip, permet de ranger en toute s\u00e9curit\u00e9 votre chargeur Blue Smart IP65 et ses accessoires, et de les transporter facilement.Les compartiments permettent de loger le chargeur, ses c\u00e2bles d'entr\u00e9e et de sortie, et en option, les cosses\/\u0153illets de batterie.(Chargeur et accessoires non inclus) ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/418_214_20190123111700.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 290,
+        "name": "Relais de tension et fr\u00e9quence Ziehl UFR1001E",
+        "price": "0.00",
+        "description": "Le relais UFR1001E surveille la tension et la fr\u00e9quence dans des usines pour la production de leur propre \u00e9lectricit\u00e9. Il est conforme aux exigences des directive-bdew VDE-AR-N 4105, G59\/3, G83\/2 et \u00d6VE\/\u00d6NORM E 8001-4-712:2009 concernant les g\u00e9n\u00e9rateurs raccord\u00e9s au r\u00e9seau public. Pour davantage de renseignements, veuillez consulter la fiche technique et les certificats ci-dessous qui sont disponibles en t\u00e9l\u00e9chargement. Ou consultez le site www.ziehl.de et recherchez le relais UFR1001E dans la section Supervision de secteurs.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/290_943_20170712113149.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 473,
+        "name": "Anti-Islanding Box 63A mono et triphas\u00e9",
+        "price": "0.00",
+        "description": "Le boitier anti-\u00eelotage de 63 A mono et triphas\u00e9 combine un dispositif anti-\u00eelotage \u2014 le Ziehl UFR1001E \u2014 deux contacteurs en ligne et un disjoncteur principal. Il est con\u00e7u aussi bien pour des syst\u00e8mes monophas\u00e9s que triphas\u00e9s Il pr\u00e9sente une intensit\u00e9 nominale de 63 A par phase et toutes les pi\u00e8ces sont correctement mises en place dans un boitier de protection IP65. Le boitier anti-\u00eelotage peut \u00eatre int\u00e9gr\u00e9 \u00e0 un syst\u00e8me de convertisseur\/chargeur (ESS) alimentant le r\u00e9seau pour r\u00e9pondre aux r\u00e9glementations locales relatives \u00e0 l'\u00eelotage. Le Ziehl UFR1001E est \u00e9galement disponible s\u00e9par\u00e9ment : voir sa page de produit.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/RCD000300200-Anti-Islanding Box 63A (front).png",
+        "category": "Accessories"
+    },
+    {
+        "id": 299,
+        "name": "Interface VE.Direct-USB",
+        "price": "0.00",
+        "description": "L'interface VE.Direct-USB permet de raccorder des produits disposant d'une connexion VE.Direct \u00e0 des appareils \u00e9quip\u00e9s d'un port USB, comme par exemple, un ordinateur. Gr\u00e2ce \u00e0 ce c\u00e2ble, il est \u00e9galement possible de raccorder plus de deux produits VE.Direct \u00e0 un seul CCGX.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/299_225_20200421081909.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 288,
+        "name": "Interface VE.Direct-\u00e0-RS232",
+        "price": "0.00",
+        "description": "Connectez les produits avec une connexion VE.Direct et une connexion RS232 avec l'interface VE.Direct vers RS232 de Victron.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/288_633_20180709095255.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 293,
+        "name": "Convertisseur RS232-\u00e0-USB",
+        "price": "0.00",
+        "description": "",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/293_799_20180709095454.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 292,
+        "name": "Interface MK3-USB",
+        "price": "0.00",
+        "description": "Utilisez le MK3-USB pour connecter les produits suivants \u00e0 un ordinateur afin de les configurer : Multi, MultiGrid, MultiPlus, MultiPlus-II, Quattro, VE.Bus BMS V2, convertisseurs (uniquement les mod\u00e8les avec un port de communication VE.Bus), ECOmulti, EasySolar, EasyPlus.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/292_999_20190228120524.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 330,
+        "name": "Bo\u00eetier pour fixer au mur le BMV ou le MPPT Control",
+        "price": "0.00",
+        "description": "Bo\u00eetier pour fixer au mur le BMV ou le MPPT Control",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/330_992_20180605164644.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 329,
+        "name": "Bo\u00eetier pour fixer au mur le BMV et le Color Control GX",
+        "price": "0.00",
+        "description": "Bo\u00eetier pour fixer au mur le BMV et le Color Control GX",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/329_488_20180605165005.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 331,
+        "name": "Bo\u00eetier pour fixer au mur le Color Control GX",
+        "price": "0.00",
+        "description": "Bo\u00eetier pour fixer au mur le Color Control GX",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/331_589_20180605165312.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 332,
+        "name": "Bo\u00eetier pour fixer au mur les tableaux de commande GX de 65 x 120 mm de dimensions.",
+        "price": "0.00",
+        "description": "Bo\u00eetier pour fixer au mur les tableaux de commande GX de 65 x 120 mm de dimensions.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/332_928_20180605172613.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 336,
+        "name": "Adaptateur pour \u00e9metteur de jauge r\u00e9sistif VE.Can",
+        "price": "0.00",
+        "description": "Cet adaptateur pour \u00e9metteur de jauge r\u00e9sistif VE.Can permet \u00e0 un \u00e9metteur de jauge r\u00e9sistif standard de se connecter \u00e0 un Color Control GX. Il est compatible avec les deux types d'\u00e9metteurs de jauge r\u00e9pondant \u00e0 la norme europ\u00e9enne 0-180 Ohm et \u00e0 l'am\u00e9ricaine 240-30 Ohm. De plus, il pr\u00e9sente une pr\u00e9cision de \u00b11 %. Il est facilement programmable pour des \u00e9metteurs r\u00e9sistifs de r\u00e9servoirs contenant du carburant, de l'eau fraiche, des eaux r\u00e9siduelles, des eaux de puits, de l'huile et des eaux noires (eaux us\u00e9es). Il est compatible avec jusqu'\u00e0 16 r\u00e9servoirs de chaque type. L'unit\u00e9 pr\u00e9sente une configuration simple avec deux petits interrupteurs rotatifs et elle obtient son \u00e9nergie du r\u00e9seau VE.Can.Si vous utilisez un Skylla-i ou un MPPT avec un bus CAN dans le syst\u00e8me, l'alimentation du bus CAN se fera \u00e0 travers l'un ou l'autre. Si le Bus CAN n'est pas aliment\u00e9 par un Skylla-I ou un MPPT, vous aurez besoin du nouveau c\u00e2ble VE.Can pour l'alimentation. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/336_576_20180607161914.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 305,
+        "name": "Terminateur VE.Can RJ45",
+        "price": "0.00",
+        "description": "S'il est command\u00e9 s\u00e9par\u00e9ment, le terminateur VE.Can RJ45 est livr\u00e9 dans un sac avec deux unit\u00e9s. Les terminaux sont \u00e9galement inclus avec certains produits, comme par exemple le CANUSB.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/305_549_20170712113859.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 291,
+        "name": "Interface CANUSB",
+        "price": "0.00",
+        "description": "L'interface CANUSB est utilis\u00e9e pour raccorder un produit VE.Can \u00e0 un ordinateur.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/291_326_20170712113917.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 346,
+        "name": "Shunt",
+        "price": "0.00",
+        "description": "",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/346_629_20180706114205.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 313,
+        "name": "Sonde de temp\u00e9rature pour BMV-712 Smart et BMV-702",
+        "price": "0.00",
+        "description": "A temperature sensor suitable for the battery monitor BMV-702 and BMV-712.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/313_329_20170712114111.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 404,
+        "name": "Interface RS485 vers USB",
+        "price": "0.00",
+        "description": "Interface RS485 vers USB, disponible en 1,8 m et 5 m.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/404_821_20180806155956.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 307,
+        "name": "Interface VE.Bus \u00e0 NMEA2000",
+        "price": "0.00",
+        "description": "Ce c\u00e2ble de d\u00e9rivation NMEA2000 raccorde un produit VE.Bus, par exemple un Multi ou un Quattro, \u00e0 un r\u00e9seau NMEA2000. Il transmet l'information de suivi, les courants et les tensions CA, les tensions et les courants CC, et l'\u00e9tat correspondant. D'autres dispositifs NMEA2000 peuvent \u00e9galement envoyer des commandes au produit VE.Bus pour l'allumer ou l'\u00e9teindre, ou changer la limite de courant d'entr\u00e9e. OBSOL\u00c8TE : ce c\u00e2ble d'interface est obsol\u00e8te. Utilisez un dispositif GX  \u00e0 la place : il offre une meilleure et plus grande fonctionnalit\u00e9. Davantage de d\u00e9tails dans ce chapitre NMEA2000. Et n'oubliez pas de lire \u00e9galement Le guide d'int\u00e9gration MFD marin.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/307_927_20170712113554.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 350,
+        "name": "C\u00e2ble d'alimentation VE.Can",
+        "price": "0.00",
+        "description": "Si le Bus CAN n'est pas aliment\u00e9 par un Skylla-I ou un MPPT, vous aurez besoin du nouveau c\u00e2ble VE.Can pour l'alimentation.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/350_783_20170712115144.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 405,
+        "name": "C\u00e2ble avec connecteur circulaire M8 m\u00e2le\/femelle \u00e0 3 p\u00f4les",
+        "price": "0.00",
+        "description": "Ce c\u00e2ble peut \u00eatre utilis\u00e9 pour prolonger les c\u00e2bles de communication du BMS. Il est compatible avec les batteries Lithium Smart en combinaison avec un Smart BMS, ainsi qu\u2019avec les batteries Lithium NG en combinaison avec un BMS NG. Il est exp\u00e9di\u00e9 dans un sac de deux pi\u00e8ces, et il est disponible dans des longueurs de 1, 2, 3 et 5 m.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/405_273_20180816122901.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 314,
+        "name": "C\u00e2ble d'allumage-arr\u00eat \u00e0 distance",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour connecter un Skylla-i \u00e0 un BMS de VE.Bus. Le BMS du VE.Bus d\u00e9sactivera alors le chargeur Skylla-i lorsque les batteries seront enti\u00e8rement charg\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/314_993_20170712113950.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 454,
+        "name": "Orion-Tr  DC-DC Charger Isolated remote cable",
+        "price": "0.00",
+        "description": "In the Orion-Tr Isolated DC-DC Chargers the remote on\/off circuit is referenced to the primary battery (e.g. starter battery). The Orion-Tr DC-DC Charger Isolated remote cable is intended for applications where the remote on\/off signal is referenced to the secondary battery (e.g. lithium battery with BMS).",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/454_298_20200710125730.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 312,
+        "name": "C\u00e2ble micro-C m\u00e2le VE.Can-NMEA 2000",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour raccorder un produit Victron disposant d'un port VE.Can au r\u00e9seau NMEA 2000. Pour davantage d'information, consultez le guide d'int\u00e9gration NMEA 2000 et MFD.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/VE.Can to NMEA2000 micro-C male_ASS030520200_new.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 296,
+        "name": "Inverting remote on-off cable",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour raccorder le Convertisseur Phoenix (discontinu) 12\/180, 24\/180, 12\/350 ou 24\/350 \u00e0 un BMS du VE.Bus BMS ou \u00e0 un chargeur BlueSolar MPPT qui dispose d'une sortie de charge :\u2022 BMS du VE.Bus : le convertisseur s'\u00e9teindra lorsque les batteries seront vides \u2022 Chargeur BlueSolar MPPT : raccorder un convertisseur directement sur la sortie de charge d'un chargeur BlueSolar MPPT n'est pas possible ; le convertisseur doit \u00eatre connect\u00e9 \u00e0 la batterie. Utilisez alors ce c\u00e2ble pour allumer et \u00e9teindre le convertisseur avec la sortie de charge. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/296_859_20170712114127.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 444,
+        "name": "C\u00e2ble pour Smart BMS CL 12100 vers MultiPlus",
+        "price": "0.00",
+        "description": "Ce c\u00e2ble raccorde un BMS non-VE.Bus (Smart BMS CL 12-100 ou smallBMS) et un MultiPlus (MultiPlus, MultiPlus Compact ou MultiPlus-II). Le c\u00e2ble \u00e9teindra le MultiPlus d\u00e8s que le BMS aura d\u00e9tect\u00e9 une tension faible, une tension \u00e9lev\u00e9e ou une alarme li\u00e9e \u00e0 la temp\u00e9rature sur le banc de batteries intelligentes au lithium-Fer-Phosphate (LiFePO4) de chez Victron. D\u00e8s que la condition d'alarme aura \u00e9t\u00e9 supprim\u00e9e, le BMS rallumera le MultiPlus. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/444_633_20200224121252.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 284,
+        "name": "C\u00e2ble VE.Direct non inverseur d'allumage\/arr\u00eat \u00e0 distance",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour contr\u00f4ler \u00e0 distance les mod\u00e8les de contr\u00f4leur de charge BlueSolar et SmartSolar MPPT. Notez qu'il n'ait pas n\u00e9cessaire d'utiliser ce c\u00e2ble avec les mod\u00e8les plus grands de SmartSolar, car ils disposent d'une borne int\u00e9gr\u00e9e d'allumage\/arr\u00eat \u00e0 distance. Le chargeur sera activ\u00e9 lorsque le signal \u00e0 travers le c\u00e2ble sera \u00e9lev\u00e9. Le chargeur est d\u00e9sactiv\u00e9 lorsque le signal de la source est \u00e0 un niveau bas ou est laiss\u00e9 flottant. Notez que lorsque ce c\u00e2ble est utilis\u00e9, il n'est pas possible d'utiliser le port VE.Direct \u00e0 d'autres fins. Telles que pour connecter un appareil GX, ou par exemple une cl\u00e9 \u00e9lectronique VE.Direct Bluetooth Smart sur un chargeur BlueSolar. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/284_989_20180709103910.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 295,
+        "name": "C\u00e2ble d'interface BlueSolar PWM-Pro -USB",
+        "price": "0.00",
+        "description": "Avec ce c\u00e2ble d'interface BlueSolar PWM-Pro-USB, vous pouvez raccorder le BlueSolar PWM-Pro \u00e0 votre ordinateur.Consultez le manuel pour de plus amples renseignements. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/295_331_20170712115119.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 294,
+        "name": "C\u00e2ble de sortie num\u00e9rique VE.Direct TX",
+        "price": "0.00",
+        "description": "Le c\u00e2ble de sortie num\u00e9rique VE.Direct TX peut \u00eatre utilis\u00e9 avec des chargeurs BlueSolar et SmartSolar MPPT. Il est compatible avec les applications suivantes :",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/294_504_20170712113326.png",
+        "category": "Accessories"
+    },
+    {
+        "id": 405,
+        "name": "C\u00e2ble avec connecteur circulaire M8 m\u00e2le\/femelle \u00e0 3 p\u00f4les",
+        "price": "0.00",
+        "description": "Ce c\u00e2ble peut \u00eatre utilis\u00e9 pour prolonger les c\u00e2bles de communication du BMS. Il est compatible avec les batteries Lithium Smart en combinaison avec un Smart BMS, ainsi qu\u2019avec les batteries Lithium NG en combinaison avec un BMS NG. Il est exp\u00e9di\u00e9 dans un sac de deux pi\u00e8ces, et il est disponible dans des longueurs de 1, 2, 3 et 5 m.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/405_273_20180816122901.png",
+        "category": "Cables"
+    },
+    {
+        "id": 444,
+        "name": "C\u00e2ble pour Smart BMS CL 12100 vers MultiPlus",
+        "price": "0.00",
+        "description": "Ce c\u00e2ble raccorde un BMS non-VE.Bus (Smart BMS CL 12-100 ou smallBMS) et un MultiPlus (MultiPlus, MultiPlus Compact ou MultiPlus-II). Le c\u00e2ble \u00e9teindra le MultiPlus d\u00e8s que le BMS aura d\u00e9tect\u00e9 une tension faible, une tension \u00e9lev\u00e9e ou une alarme li\u00e9e \u00e0 la temp\u00e9rature sur le banc de batteries intelligentes au lithium-Fer-Phosphate (LiFePO4) de chez Victron. D\u00e8s que la condition d'alarme aura \u00e9t\u00e9 supprim\u00e9e, le BMS rallumera le MultiPlus. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/444_633_20200224121252.png",
+        "category": "Cables"
+    },
+    {
+        "id": 464,
+        "name": "RJ12 UTP Cable",
+        "price": "0.00",
+        "description": "A cable to connect the BMV shunt to the BMV head unit. A RJ12 cable ships standard with a BMV battery monitor, but if this cable is too long or too short it can be replaced by one of these cables, lengths available from 0.3 up to 30 meters.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/RJ-12.png",
+        "category": "Cables"
+    },
+    {
+        "id": 301,
+        "name": "C\u00e2ble UTP RJ45",
+        "price": "0.00",
+        "description": "C\u00e2ble permettant de raccorder un tableau de convertisseur Phoenix, une interface VE MK3-USB, et des connexions VE.Bus entre plusieurs appareils VE.Bus et GX. 5M ASS030065000 10M ASS030065010 15M ASS030065020",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/RJ45.png",
+        "category": "Cables"
+    },
+    {
+        "id": 442,
+        "name": "S\u00e9parateur RJ45",
+        "price": "0.00",
+        "description": "Ce s\u00e9parateur est utilis\u00e9 pour connecter la gamme MultiPlus 500 VA - 1600 VA dans des configurations parall\u00e8les et triphas\u00e9es, ou dans d\u2019autres installations o\u00f9 plusieurs ports VE.Bus sont n\u00e9cessaires.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/442_142_20200204132736.png",
+        "category": "Cables"
+    },
+    {
+        "id": 383,
+        "name": "C\u00e2ble VE.Can to Bus-CAN du BMS",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour raccorder une batterie compatible avec un Bus CAN , ne provenant pas de chez Victron, \u00e0 un syst\u00e8me Victron. Il y en a de deux types \u2013 A et B. Voir le manuel pour savoir avec plus de d\u00e9tails quel c\u00e2ble doit \u00eatre utilis\u00e9 en fonction de la marque des batteries.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/383_519_20171214173349.png",
+        "category": "Cables"
+    },
+    {
+        "id": 177,
+        "name": "Prises et rallonges de quai",
+        "price": "0.00",
+        "description": "\u2022 Rallonges compl\u00e8tes avec fiche et prise moul\u00e9es Etanches IP56, voyant LED de pr\u00e9sence de tension. \u2022 Capuchons de protection \u2022 Socles \u00e9tanches inox \u2022 Adaptateurs Disponible en : 15M 16A 25M 16A 15M 25A 25M 25A",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/177_519_20170712114940.png",
+        "category": "Cables"
+    },
+    {
+        "id": 311,
+        "name": "C\u00e2ble de contr\u00f4le d'alternateur VE.Bus-BMS 12-200",
+        "price": "0.00",
+        "description": "C\u00e2ble de contr\u00f4le d'alternateur VE.Bus-BMS 12-200",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/311_896_20170712115055.png",
+        "category": "Cables"
+    },
+    {
+        "id": 351,
+        "name": "Rallonge USB avec une extr\u00e9mit\u00e9 \u00e0 angle droit",
+        "price": "0.00",
+        "description": "Certaines des prises USB sur nos c\u00e2bles sont trop longues pour rentrer dans le bo\u00eetier de montage mural d'un Color Control GX. Utilisez plut\u00f4t ce c\u00e2ble de rallonge USB. Il est disponible avec une longueur de 0,3 m.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/351_974_20170712115108.png",
+        "category": "Cables"
+    },
+    {
+        "id": 295,
+        "name": "C\u00e2ble d'interface BlueSolar PWM-Pro -USB",
+        "price": "0.00",
+        "description": "Avec ce c\u00e2ble d'interface BlueSolar PWM-Pro-USB, vous pouvez raccorder le BlueSolar PWM-Pro \u00e0 votre ordinateur.Consultez le manuel pour de plus amples renseignements. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/295_331_20170712115119.png",
+        "category": "Cables"
+    },
+    {
+        "id": 294,
+        "name": "C\u00e2ble de sortie num\u00e9rique VE.Direct TX",
+        "price": "0.00",
+        "description": "Le c\u00e2ble de sortie num\u00e9rique VE.Direct TX peut \u00eatre utilis\u00e9 avec des chargeurs BlueSolar et SmartSolar MPPT. Il est compatible avec les applications suivantes :",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/294_504_20170712113326.png",
+        "category": "Cables"
+    },
+    {
+        "id": 350,
+        "name": "C\u00e2ble d'alimentation VE.Can",
+        "price": "0.00",
+        "description": "Si le Bus CAN n'est pas aliment\u00e9 par un Skylla-I ou un MPPT, vous aurez besoin du nouveau c\u00e2ble VE.Can pour l'alimentation.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/350_783_20170712115144.png",
+        "category": "Cables"
+    },
+    {
+        "id": 284,
+        "name": "C\u00e2ble VE.Direct non inverseur d'allumage\/arr\u00eat \u00e0 distance",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour contr\u00f4ler \u00e0 distance les mod\u00e8les de contr\u00f4leur de charge BlueSolar et SmartSolar MPPT. Notez qu'il n'ait pas n\u00e9cessaire d'utiliser ce c\u00e2ble avec les mod\u00e8les plus grands de SmartSolar, car ils disposent d'une borne int\u00e9gr\u00e9e d'allumage\/arr\u00eat \u00e0 distance. Le chargeur sera activ\u00e9 lorsque le signal \u00e0 travers le c\u00e2ble sera \u00e9lev\u00e9. Le chargeur est d\u00e9sactiv\u00e9 lorsque le signal de la source est \u00e0 un niveau bas ou est laiss\u00e9 flottant. Notez que lorsque ce c\u00e2ble est utilis\u00e9, il n'est pas possible d'utiliser le port VE.Direct \u00e0 d'autres fins. Telles que pour connecter un appareil GX, ou par exemple une cl\u00e9 \u00e9lectronique VE.Direct Bluetooth Smart sur un chargeur BlueSolar. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/284_989_20180709103910.png",
+        "category": "Cables"
+    },
+    {
+        "id": 314,
+        "name": "C\u00e2ble d'allumage-arr\u00eat \u00e0 distance",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour connecter un Skylla-i \u00e0 un BMS de VE.Bus. Le BMS du VE.Bus d\u00e9sactivera alors le chargeur Skylla-i lorsque les batteries seront enti\u00e8rement charg\u00e9es.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/314_993_20170712113950.png",
+        "category": "Cables"
+    },
+    {
+        "id": 357,
+        "name": "C\u00e2ble VE.Direct",
+        "price": "0.00",
+        "description": "Le c\u00e2ble VE.Direct est disponible en plusieurs longueurs. Il existe un mod\u00e8le \u00e0 angle droit de 90 degr\u00e9s. Veuillez v\u00e9rifier nos tarifs pour tous les mod\u00e8les disponibles.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/357_295_20170712115218.png",
+        "category": "Cables"
+    },
+    {
+        "id": 296,
+        "name": "Inverting remote on-off cable",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour raccorder le Convertisseur Phoenix (discontinu) 12\/180, 24\/180, 12\/350 ou 24\/350 \u00e0 un BMS du VE.Bus BMS ou \u00e0 un chargeur BlueSolar MPPT qui dispose d'une sortie de charge :\u2022 BMS du VE.Bus : le convertisseur s'\u00e9teindra lorsque les batteries seront vides \u2022 Chargeur BlueSolar MPPT : raccorder un convertisseur directement sur la sortie de charge d'un chargeur BlueSolar MPPT n'est pas possible ; le convertisseur doit \u00eatre connect\u00e9 \u00e0 la batterie. Utilisez alors ce c\u00e2ble pour allumer et \u00e9teindre le convertisseur avec la sortie de charge. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/296_859_20170712114127.png",
+        "category": "Cables"
+    },
+    {
+        "id": 282,
+        "name": "C\u00e2ble non inverseur d'allumage\/arr\u00eat \u00e0 distance",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour connecter les produits suivants \u00e0 un BMS de VE.Bus :- tous les mod\u00e8les Skylla-TG- mod\u00e8les de protection de batterie BP40i, BP60i et BP200i (tous des fins de s\u00e9rie).Le c\u00e2ble traduit la logique du pilote d'arr\u00eat\/allumage \u00e0 distance provenant du BMS du VE.Bus (g\u00e9n\u00e9ralement \u00e9lev\u00e9e, et circuit ouvert en cas d'alarme) \u00e0 la logique requise par les produits susmentionn\u00e9s : r\u00e9duction active du niveau pour \u00e9teindre. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/282_135_20170712115239.png",
+        "category": "Cables"
+    },
+    {
+        "id": 312,
+        "name": "C\u00e2ble micro-C m\u00e2le VE.Can-NMEA 2000",
+        "price": "0.00",
+        "description": "Utilisez ce c\u00e2ble pour raccorder un produit Victron disposant d'un port VE.Can au r\u00e9seau NMEA 2000. Pour davantage d'information, consultez le guide d'int\u00e9gration NMEA 2000 et MFD.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/VE.Can to NMEA2000 micro-C male_ASS030520200_new.png",
+        "category": "Cables"
+    },
+    {
+        "id": 454,
+        "name": "Orion-Tr  DC-DC Charger Isolated remote cable",
+        "price": "0.00",
+        "description": "In the Orion-Tr Isolated DC-DC Chargers the remote on\/off circuit is referenced to the primary battery (e.g. starter battery). The Orion-Tr DC-DC Charger Isolated remote cable is intended for applications where the remote on\/off signal is referenced to the secondary battery (e.g. lithium battery with BMS).",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/454_298_20200710125730.png",
+        "category": "Cables"
+    },
+    {
+        "id": 493,
+        "name": "Lynx Smart BMS NG",
+        "price": "0.00",
+        "description": "Le Lynx Smart BMS NG est un syst\u00e8me de gestion de batteries avanc\u00e9 sp\u00e9cialement con\u00e7u pour les batteries Lithium NG de Victron Energy (\u00e0 ne pas confondre avec le Lynx Smart BMS, qui est destin\u00e9 aux batteries Lithium Battery Smart de Victron). Ce BMS robuste assure des performances sans faille, une s\u00e9curit\u00e9 optimale et une surveillance efficace des batteries Lithium NG, qui sont disponibles dans des tensions nominales de 12,8 V, 25,6 V et 51,2 V avec diff\u00e9rentes capacit\u00e9s. Disponible en deux tailles \u2013 500 A et 1 000 A \u2013 le Lynx Smart BMS NG constitue une solution fiable, s\u00fbre et simple d\u2019utilisation. Les syst\u00e8mes de batteries peuvent \u00eatre configur\u00e9s en s\u00e9rie, en parall\u00e8le ou en combinaison des deux, prenant en charge les syst\u00e8mes de 12 V, 24 V et 48 V. Chaque syst\u00e8me peut accueillir jusqu\u2019\u00e0 50 batteries, offrant jusqu\u2019\u00e0 192 kWh (12 V) ou 384 kWh (24 V\/48 V) de stockage d\u2019\u00e9nergie. En mettant en parall\u00e8le plusieurs unit\u00e9s Lynx Smart BMS, vous pouvez augmenter la capacit\u00e9 et assurer la redondance. Caract\u00e9ristiques principales :Contacteur int\u00e9gr\u00e9 de 500 A ou 1000 A : fournit une s\u00e9curit\u00e9 de repli et permet la commutation du syst\u00e8me principal \u00e0 distance.Surveillance de la batterie : affiche l\u2019\u00e9tat de charge et d\u2019autres donn\u00e9es vitales pour une gestion efficace du syst\u00e8me.Signal de pr\u00e9-alarme : alerte avant l\u2019arr\u00eat du syst\u00e8me en raison d\u2019une faible tension de celluleConnectivit\u00e9 Bluetooth : permet de configurer, surveiller et diagnostiquer facilement le syst\u00e8me \u00e0 partir de notre application VictronConnect.Surveillance locale et \u00e0 distance : compatible avec les dispositifs Victron GX, comme le Cerbo GX, et le portail VRM pour une surveillance en temps r\u00e9el.Int\u00e9gration de la barre omnibus M10 : se connecte de mani\u00e8re transparente \u00e0 tous les produits Lynx M10, assurant une int\u00e9gration en douceur dans le syst\u00e8me Lynx Distributor. Le Lynx Smart BMS NG est une partie int\u00e9grante du syst\u00e8me modulaire Lynx Distributor.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lynx Smart BMS 500 NG.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 453,
+        "name": "Lynx Smart BMS",
+        "price": "0.00",
+        "description": "Le Lynx Smart BMS est un syst\u00e8me de gestion de batterie sp\u00e9cifique pour des batteries Lithium Battery Smart de Victron. De nombreux BMS sont disponibles pour nos s\u00e9ries de batteries Lithium Battery Smart, et le Lynx Smart est l\u2019option la plus compl\u00e8te et riche en fonctions. Il est disponible en deux versions : 500 A et 1 000 A (les deux avec des connexions pour barre omnibus M10).Ses fonctions principales sont :Contacteur de 500 A ou 1 000 A int\u00e9gr\u00e9, utilis\u00e9 comme m\u00e9canisme de s\u00e9curit\u00e9 et de repli, et \u00e9galement disponible en tant qu\u2019interrupteur du syst\u00e8me principal contr\u00f4lable \u00e0 distance.Contr\u00f4leur de batterie indiquant le pourcentage de l\u2019\u00e9tat de charge et davantage de donn\u00e9es.Signal de pr\u00e9alarme : donne un avertissement avant que le syst\u00e8me ne s\u2019arr\u00eate en raison, par exemple, d\u2019une cellule faible.Bluetooth pour une utilisation avec notre application VictronConnect, pour la configuration et la surveillancey compris Instant Readout (lecture instantan\u00e9e) - les donn\u00e9es cl\u00e9s du BMS en un coup d\u2019\u0153il.Surveillance locale et \u00e0 distance \u00e0 l\u2019aide d\u2019un dispositif GX Victron, par exemple le Cerbo GX ou l\u2019Ekrano GX.Le Lynx Smart BMS fait partie du syst\u00e8me de distribution modulaire Lynx.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lynx Smart BMS 1000 (M10).png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 490,
+        "name": "Lynx Class-T Power In",
+        "price": "0.00",
+        "description": "Le Lynx Class-T Power In relie et fusionne jusqu'\u00e0 deux cha\u00eenes de batteries au lithium. Il comporte un jeu de barres positif et n\u00e9gatif, des connexions pour deux fusibles de classe T ainsi qu'une connexion pour la mise \u00e0 la terre du syst\u00e8me CC. Les fusibles de classe T, disponibles en 225 A, 250 A, 350 A et 400 A, doivent \u00eatre achet\u00e9s s\u00e9par\u00e9ment. Pour les installations utilisant trois cha\u00eenes de batteries au lithium ou plus, utilisez plusieurs modules Lynx Class-T. En tant que composant central du syst\u00e8me de distribution Lynx, le Lynx Class-T s'int\u00e8gre parfaitement \u00e0 tous les autres produits M10 Lynx.  ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lynx_Class-T_Power_In.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 230,
+        "name": "Lynx Shunt VE.Can",
+        "price": "0.00",
+        "description": "Le Lynx Shunt VE.Can est un shunt intelligent de 1000 A disposant de l'emplacement n\u00e9cessaire pour un fusible (non inclus). Le contr\u00f4leur de batterie int\u00e9gr\u00e9 surveille avec pr\u00e9cision l'\u00e9tat de charge de votre batterie. Utilisez un appareil GX (par ex. un Cerbo GX) pour lire l'information. Partie du syst\u00e8me de distribution modulaire Lynx.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/230_588_20180706090107.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 228,
+        "name": "Lynx Distributor",
+        "price": "0.00",
+        "description": "Une barre omnibus CC modulaire avec des emplacements pour quatre fusibles CC. Elle contr\u00f4le l\u2019\u00e9tat de chaque fusible, et elle indique son \u00e9tat avec une LED sur la face avant. Le Lynx Distributor fait partie du syst\u00e8me de distribution modulaire Lynx, disponible en mod\u00e8les M8 et M10.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Lynx distributor.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 221,
+        "name": "Lynx Power In",
+        "price": "0.00",
+        "description": "Barre omnibus CC modulaire utilis\u00e9e pour connecter les batteries au syst\u00e8me de distribution CC Lynx, disponible en mod\u00e8les M8 et M10.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/lynx.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 471,
+        "name": "Battery Switch ON\/OFF 275A",
+        "price": "0.00",
+        "description": "Le commutateur de batterie Battery Switch ON\/OFF 275A est adapt\u00e9 \u00e0 des syst\u00e8mes de batterie de jusqu\u2019\u00e0 48 V. Il dispose d\u2019un bouton dont le design et l\u2019esth\u00e9tique sont uniques. Le bouton peut \u00eatre retir\u00e9 \u00e0 des fins d\u2019isolation ou de s\u00e9curit\u00e9.Le commutateur de batterie peut \u00eatre install\u00e9 soit en surface soit sur un panneau, ce qui lui conf\u00e8re une souplesse d\u2019installation.Le commutateur de batterie respecte la norme ISO8846 relative \u00e0 la Protection contre l\u2019inflammation et il est adapt\u00e9 pour \u00eatre utilis\u00e9 dans une salle des machines.",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/Battery switch ON-OFF 48V (top).png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 459,
+        "name": "Busbars",
+        "price": "0.00",
+        "description": "Les barres omnibus sont utilis\u00e9es pour la distribution de courant \u00e0 haute intensit\u00e9 et fournissent en m\u00eame temps des connexions pour les batteries et\/ou les \u00e9quipements CC. Nous proposons plusieurs mod\u00e8les de barres omnibus avec des intensit\u00e9s nominales et un nombre de bornes de raccordements diff\u00e9rents. Chaque barre omnibus est \u00e9quip\u00e9e d\u2019un couvercle de protection amovible. Mod\u00e8les disponibles : 150 A \/ 70 V - 4 raccordements haute intensit\u00e9 150 A \/ 70 V - 6 connexions haute intensit\u00e9 250 A \/ 70 V - 4 raccordements haute intensit\u00e9250 A \/ 70 V - 6 raccordements haute intensit\u00e9600 A \/ 70 V - 4 raccordements haute intensit\u00e9 et 8 raccordements basse intensit\u00e9 600 A \/ 70 V - 8 raccordements haute intensit\u00e9 et 8 raccordements basse intensit\u00e9  Consultez la fiche technique pour plus d\u2019informations et pour les dimensions des barres omnibus. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/459_902_20200907155057.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 328,
+        "name": "Fusibles et porte-fusibles",
+        "price": "0.00",
+        "description": "Outre une large gamme de fusibles ANL, MIDI et MEGA, nous vous proposons trois diff\u00e9rents types de porte-fusibles : Porte-fusibles simples pour chaque type de fusibles indiqu\u00e9 ci-dessus. Un bo\u00eetier \u00e0 fusibles \u00e0 six voies, pour les fusibles MEGA uniquement. Un bo\u00eetier \u00e0 fusibles modulaire, pour les fusibles MEGA uniquement. Avec une barre de bus (en option) pour raccorder efficacement plusieurs fusibles.  Pour une liste compl\u00e8te des pi\u00e8ces disponibles, reportez-vous \u00e0 la liste des prix. Pour de plus amples informations techniques, consultez les fiches techniques respectives. Outre les boitiers \u00e0 fusibles indiqu\u00e9s ci-dessus, nous disposons \u00e9galement du Lynx Power In et du Lynx Distributor, qui fait partie du syst\u00e8me de distribution Lynx 1000 Amp. Consultez le chapitre a href=\"https:\/\/www.victronenergy.com\/dc-distribution-systems\">\u00ab Distribution CC \u00bb de notre site internet. ",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/328_562_20200424091343.png",
+        "category": "DC Distribution systems & Fuses"
+    },
+    {
+        "id": 475,
+        "name": "VE Transfer Switch",
+        "price": "0.00",
+        "description": "Le commutateur de transfert VE commute automatiquement entre diff\u00e9rentes sources d\u2019\u00e9nergie : ou entre un g\u00e9n\u00e9rateur et une prise de quai, ou entre un convertisseur et un g\u00e9n\u00e9rateur, ou bien entre un convertisseur et une prise de quai.Le commutateur de transfert VE dispose de deux entr\u00e9es et d\u2019une sortie : il transfert automatiquement la puissance CA disponible \u00e0 la sortie.Le commutateur de transfert VE est disponible en deux mod\u00e8les :5 kVA, monophas\u00e9, 200-250 VCA10 kVA, monophas\u00e9, 200-250 VCA",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/VE Transfer Switch 10kVA-230V (COS230103100) (top).png",
+        "category": "Transfer switches"
+    },
+    {
+        "id": 153,
+        "name": "Filax 2",
+        "price": "0.00",
+        "description": "Filax : le commutateur de transfert ultra rapide Filax a \u00e9t\u00e9 con\u00e7u pour commuter des charges sensibles telles que des ordinateurs ou des \u00e9quipements de loisirs modernes d'une source CA vers une autre. La source prioritaire est en g\u00e9n\u00e9ral le r\u00e9seau, un g\u00e9n\u00e9rateur ou l'alimentation du quai. La source alternative est g\u00e9n\u00e9ralement un convertisseur. Avec un temps de commutation inf\u00e9rieur \u00e0 20 millisecondes, des charges sensibles continueront de fonctionner sans interruption. Le Filax n'est pas pr\u00e9vu pour alimenter des appareils \u00e9lectrom\u00e9nagers de grande puissance tels que des machines \u00e0 laver ou des moteurs \u00e9lectriques.Le Filax 2 est disponible en deux mod\u00e8les :230 V\/50 Hz-240 V\/60 Hz110 V\/50 Hz-120 V\/60 Hz",
+        "image_url": "https:\/\/www.victronenergy.com\/upload\/products\/filax2.png",
+        "category": "Transfer switches"
+    }
+]
