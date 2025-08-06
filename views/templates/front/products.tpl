@@ -26,6 +26,8 @@
     .product-content {
         padding: 15px;
         flex-grow: 1;
+        display: flex;
+        flex-direction: column;
     }
     .product-name {
         font-size: 1.1em;
@@ -40,6 +42,20 @@
         font-size: 1.2em;
         font-weight: bold;
         text-align: right;
+        margin-top: auto;
+    }
+    .product-description-short {
+        margin-top: 10px;
+        font-size: 0.9em;
+        color: #555;
+    }
+    .product-features {
+        margin-top: 10px;
+        font-size: 0.9em;
+    }
+    .product-features ul {
+        padding-left: 20px;
+        margin-bottom: 0;
     }
 </style>
 
@@ -50,13 +66,38 @@
         {foreach from=$products item=product}
             <div class="product-card">
                 <a href="{$product.link}">
-                    <img src="{$product.image_url}" alt="{$product.name|escape:'html':'UTF-8'}" class="product-image">
+                    {if !empty($product.image_url)}
+                        <img src="{$product.image_url}" alt="{$product.name|escape:'html':'UTF-8'}" class="product-image">
+                    {else}
+                        {* Vous pouvez mettre une image par défaut ici si vous le souhaitez *}
+                        <img src="" alt="{$product.name|escape:'html':'UTF-8'}" class="product-image">
+                    {/if}
                 </a>
                 <div class="product-content">
                     <h2 class="product-name">
                         <a href="{$product.link}">{$product.name|escape:'html':'UTF-8'}</a>
                     </h2>
                     <p class="product-sku">{l s='SKU:' mod='ps_victronproducts'} {$product.reference|escape:'html':'UTF-8'}</p>
+                    
+                    {if !empty($product.description_short)}
+                        <div class="product-description-short">
+                            {$product.description_short|strip_tags:'UTF-8'|truncate:120:'...'}
+                        </div>
+                    {/if}
+
+                    {if !empty($product.features)}
+                        <div class="product-features">
+                            <strong>{l s='Caractéristiques' mod='ps_victronproducts'}:</strong>
+                            <ul>
+                                {foreach from=$product.features item=feature}
+                                    {if isset($feature.name) && isset($feature.value)}
+                                        <li><strong>{$feature.name|escape:'html':'UTF-8'}:</strong> {$feature.value|escape:'html':'UTF-8'}</li>
+                                    {/if}
+                                {/foreach}
+                            </ul>
+                        </div>
+                    {/if}
+                    
                     <div class="product-price">{$product.price|escape:'html':'UTF-8'} &euro;</div>
                 </div>
             </div>

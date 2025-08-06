@@ -1,7 +1,7 @@
 <?php
 /**
  * Module d'importation des produits et catégories Victron Energy pour PrestaShop
- * Version 3.4.1 : Correction d'une erreur de syntaxe cURL et ajustement des traductions.
+ * Version 3.6.8 : Correction des erreurs PHP lors de l'affichage des produits sans image ou avec des caractéristiques incomplètes.
  */
 
 if (!defined('_PS_VERSION_')) {
@@ -20,7 +20,7 @@ class Ps_VictronProducts extends Module
     {
         $this->name = 'ps_victronproducts';
         $this->tab = 'migration_tools';
-        $this->version = '3.4.1';
+        $this->version = '3.6.8';
         $this->author = "Vitasolar's IT development department";
         $this->need_instance = 0;
         $this->bootstrap = true;
@@ -108,7 +108,7 @@ class Ps_VictronProducts extends Module
         $helper->fields_value['VICTRON_API_KEY'] = Configuration::get('VICTRON_API_KEY');
         return $helper->generateForm([$fields_form]);
     }
-    
+
     private function fetchApiData($endpoint, $apiKey)
     {
         $baseUrl = 'https://eorder.victronenergy.com';
@@ -129,16 +129,16 @@ class Ps_VictronProducts extends Module
             ];
             curl_setopt_array($ch, $options);
             $response = curl_exec($ch);
-            
+
             if ($response === false) {
                 $this->lastError = "Erreur cURL : " . curl_error($ch);
                 curl_close($ch);
                 return false;
             }
-            
+
             $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
             curl_close($ch);
-            
+
             if ($httpCode !== 200) {
                 $this->lastError = "Erreur HTTP : $httpCode.";
                 return false;
@@ -194,14 +194,15 @@ class Ps_VictronProducts extends Module
             $this->lastError = $this->l('La clé API n\'est pas configurée.');
             return false;
         }
-        
+
         $productsData = $this->fetchApiData('/api/v1/products-extended/', $apiKey);
-        
-        if ($productsData === false) {
+        $apiCategories = $this->fetchApiData('/api/v1/categories/', $apiKey);
+
+        if ($productsData === false || $apiCategories === false) {
             return false;
         }
-        
-        $categoriesMap = $this->processCategoryTree($productsData);
+
+        $categoriesMap = $this->processCategoryTree($productsData, $apiCategories);
         if ($categoriesMap === false) {
             $this->lastError = $this->l('Échec de la création de la structure des catégories.');
             return false;
@@ -210,13 +211,28 @@ class Ps_VictronProducts extends Module
         foreach ($productsData as $productData) {
             $this->importProduct($productData, $categoriesMap);
         }
-        
+
         Configuration::updateValue('VICTRON_LAST_SYNC', time());
         return true;
     }
 
-    private function processCategoryTree(array $productsData)
+    private function processCategoryTree(array $productsData, array $apiCategories)
     {
+        $categoryImageMap = [];
+        foreach ($apiCategories as $categoryData) {
+            if (!empty($categoryData['name']) && !empty($categoryData['image'])) {
+                $categoryImageMap[trim($categoryData['name'])] = $categoryData['image'];
+            }
+        }
+
+        $fallbackImageMap = [];
+        foreach ($productsData as $product) {
+            $group = !empty($product['category']) ? trim($product['category']) : 'Catégorie non définie';
+            if (!isset($fallbackImageMap[$group]) && !empty($product['product_data']['image'])) {
+                $fallbackImageMap[$group] = $product['product_data']['image'];
+            }
+        }
+
         $tree = [];
         foreach ($productsData as $product) {
             $group = !empty($product['category']) ? trim($product['category']) : 'Catégorie non définie';
@@ -250,6 +266,11 @@ class Ps_VictronProducts extends Module
                 $id_group = $category->id;
             }
             
+            $imageUrl = $categoryImageMap[$groupName] ?? ($fallbackImageMap[$groupName] ?? null);
+            if ($id_group && $imageUrl) {
+                $this->importCategoryImage($id_group, $imageUrl);
+            }
+            
             $idMap[$groupName] = ['id' => $id_group, 'subgroups' => []];
 
             foreach ($subGroups as $subGroupName) {
@@ -276,6 +297,41 @@ class Ps_VictronProducts extends Module
         return $idMap;
     }
     
+    private function translateFeatureName($name)
+    {
+        $translations = [
+            'aCInputVoltageRange' => $this->l('Plage de tension d\'entrée CA'),
+            'ratedChargeCurrent' => $this->l('Courant de charge nominal'),
+            'nominalPower' => $this->l('Puissance nominale'),
+            'currentOutputRange' => $this->l('Plage de courant de sortie'),
+            'wifiStandards' => $this->l('Normes Wi-Fi'),
+            'selfConsumption230' => $this->l('Autoconsommation (230V)'),
+            'maxCurrent' => $this->l('Courant maximum'),
+            'controlTouchScreen' => $this->l('Contrôle par écran tactile'),
+            'externalCircuitBreakerRequired' => $this->l('Disjoncteur externe requis'),
+            'energyCostCalculator' => $this->l('Calculateur de coût énergétique'),
+            'controlWebPage' => $this->l('Contrôle par page Web'),
+            'controlGXDevice' => $this->l('Contrôle par appareil GX'),
+            'controlModbusTCP' => $this->l('Contrôle Modbus TCP'),
+            'modbusWifiCommunication' => $this->l('Communication Modbus Wi-Fi'),
+            'controlVictronConnectApp' => $this->l('Contrôle via l\'application VictronConnect'),
+            'bluetooth' => $this->l('Bluetooth'),
+            'externalRCDRequired' => $this->l('Disjoncteur différentiel externe requis'),
+            'lightRingConfigurable' => $this->l('Anneau lumineux configurable'),
+            'protections' => $this->l('Protections'),
+            'maxHumidity' => $this->l('Humidité maximale'),
+            'connectorType' => $this->l('Type de connecteur'),
+            'colour' => $this->l('Couleur'),
+            'weight' => $this->l('Poids'),
+            'height' => $this->l('Hauteur'),
+            'length' => $this->l('Longueur'),
+            'width' => $this->l('Largeur'),
+            'safety' => $this->l('Sécurité'),
+        ];
+
+        return $translations[$name] ?? $name;
+    }
+
     private function importProduct($productData, $categoriesMap)
     {
         if (empty($productData['sku'])) return;
@@ -294,6 +350,12 @@ class Ps_VictronProducts extends Module
         $product->reference = $reference;
         $product->price = (float)($productData['price'] ?? 0);
         $product->id_manufacturer = $this->manufacturerId;
+        
+        // Shipping information
+        $product->weight = (float)($productData['gross_weight'] ?? 0);
+        $product->width = isset($productData['carton_width_mm']) ? (float)$productData['carton_width_mm'] / 10 : 0; // mm to cm
+        $product->height = isset($productData['carton_height_mm']) ? (float)$productData['carton_height_mm'] / 10 : 0; // mm to cm
+        $product->depth = isset($productData['carton_length_mm']) ? (float)$productData['carton_length_mm'] / 10 : 0; // mm to cm
         
         $groupName = !empty($productData['category']) ? trim($productData['category']) : $this->l('Catégorie non définie');
         $subGroupName = !empty($productData['subcategory']) ? trim($productData['subcategory']) : $this->l('Sous-catégorie non définie');
@@ -314,9 +376,70 @@ class Ps_VictronProducts extends Module
             if (!Image::hasImages($this->defaultLanguageId, $product->id) && !empty($productData['product_data']['image'])) {
                 $this->importProductImage($product, $productData['product_data']['image']);
             }
+
+            // Clear existing features for this product to avoid duplicates
+            $product->deleteFeatures();
+
+            // Add new features from API data
+            $this->addProductFeature($product->id, $this->l('Pays d\'origine'), $productData['country_of_origin'] ?? '');
+            $this->addProductFeature($product->id, $this->l('Poids net'), ($productData['net_weight'] ?? '') . ' kg');
+            $this->addProductFeature($product->id, $this->l('Quantité par palette'), $productData['quantity_per_pallet'] ?? '');
+            $this->addProductFeature($product->id, $this->l('Quantité minimale de commande'), $productData['minimum_order_quantity'] ?? '');
+            $this->addProductFeature($product->id, $this->l('Tension'), $productData['voltage'] ?? '');
+
+            if (isset($productData['product_data']['pms_technical_data']) && is_array($productData['product_data']['pms_technical_data'])) {
+                foreach ($productData['product_data']['pms_technical_data'] as $techData) {
+                    if (!empty($techData['field_name']) && !empty($techData['field_value'])) {
+                        $translatedName = $this->translateFeatureName($techData['field_name']);
+                        $this->addProductFeature($product->id, $translatedName, $techData['field_value']);
+                    }
+                }
+            }
+
         } catch (Exception $e) {
             $this->lastError = $this->l('Erreur produit') . ' ' . $reference . ': ' . $e->getMessage();
         }
+    }
+    
+    private function addProductFeature($productId, $featureName, $featureValue)
+    {
+        if (empty($featureValue)) {
+            return;
+        }
+
+        // Check if feature exists, create if not
+        $id_feature = (int)Db::getInstance()->getValue('
+            SELECT fl.id_feature
+            FROM `' . _DB_PREFIX_ . 'feature_lang` fl
+            LEFT JOIN `' . _DB_PREFIX_ . 'feature` f ON f.id_feature = fl.id_feature
+            WHERE fl.name = \'' . pSQL($featureName) . '\' AND fl.id_lang = ' . (int)$this->defaultLanguageId
+        );
+
+        if (!$id_feature) {
+            $feature = new Feature();
+            $feature->name = array_fill_keys(Language::getIDs(true), $featureName);
+            $feature->add();
+            $id_feature = $feature->id;
+        }
+
+        // Check if feature value exists, create if not
+        $id_feature_value = (int)Db::getInstance()->getValue('
+            SELECT fv.id_feature_value
+            FROM `' . _DB_PREFIX_ . 'feature_value` fv
+            LEFT JOIN `' . _DB_PREFIX_ . 'feature_value_lang` fvl ON fv.id_feature_value = fvl.id_feature_value
+            WHERE fvl.value = \'' . pSQL($featureValue) . '\' AND fv.id_feature = ' . (int)$id_feature . ' AND fvl.id_lang = ' . (int)$this->defaultLanguageId
+        );
+
+        if (!$id_feature_value) {
+            $featureValueObj = new FeatureValue();
+            $featureValueObj->id_feature = $id_feature;
+            $featureValueObj->value = array_fill_keys(Language::getIDs(true), $featureValue);
+            $featureValueObj->add();
+            $id_feature_value = $featureValueObj->id;
+        }
+
+        // Associate feature value with product
+        Product::addFeatureProductImport($productId, $id_feature, $id_feature_value);
     }
     
     private function importProductImage($product, $imageUrl)
@@ -342,7 +465,9 @@ class Ps_VictronProducts extends Module
     protected function copyImg($id_entity, $id_image = null, $url, $entity = 'products')
     {
         $tmpfile = tempnam(_PS_TMP_IMG_DIR_, 'ps_import');
-        if (!$tmpfile) return;
+        if (!$tmpfile) {
+            return;
+        }
 
         $urlParts = explode('/', $url);
         $fileName = array_pop($urlParts);
@@ -352,7 +477,20 @@ class Ps_VictronProducts extends Module
         if (Tools::copy($encodedUrl, $tmpfile)) {
             if ($entity === 'categories') {
                 $path = _PS_CAT_IMG_DIR_ . (int)$id_entity;
-                ImageManager::resize($tmpfile, $path . '.jpg');
+                $original_image_path = $path . '.jpg';
+                
+                ImageManager::resize($tmpfile, $original_image_path, null, null, 'jpg', false);
+
+                $types = ImageType::getImagesTypes('categories');
+                foreach ($types as $image_type) {
+                    ImageManager::resize(
+                        $original_image_path,
+                        $path . '-' . stripslashes($image_type['name']) . '.jpg',
+                        $image_type['width'],
+                        $image_type['height'],
+                        'jpg'
+                    );
+                }
             } else { // products
                 $path = (new Image($id_image))->getPathForCreation();
                 ImageManager::resize($tmpfile, $path . '.jpg');
@@ -383,5 +521,55 @@ class Ps_VictronProducts extends Module
             }
         }
         return $count;
+    }
+    
+    public function hookDisplayHome($params)
+    {
+        $products = $this->getVictronProductsForDisplay();
+        $this->context->smarty->assign([
+            'products' => $products,
+            'last_update' => Configuration::get('VICTRON_LAST_SYNC')
+        ]);
+
+        return $this->display(__FILE__, 'views/templates/front/products.tpl');
+    }
+
+    private function getVictronProductsForDisplay()
+    {
+        $productIds = Db::getInstance()->executeS(
+            'SELECT id_product FROM `'._DB_PREFIX_.'product` WHERE reference LIKE "'.pSQL($this->productPrefix).'%" AND active = 1'
+        );
+
+        if (empty($productIds)) {
+            return [];
+        }
+
+        $products_for_template = [];
+        $link = new Link();
+
+        foreach ($productIds as $row) {
+            $product = new Product((int)$row['id_product'], false, $this->defaultLanguageId);
+            if (Validate::isLoadedObject($product)) {
+                $image = Image::getCover($product->id);
+                $image_url = '';
+                if ($image && isset($image['id_image'])) {
+                    $image_url = $this->context->link->getImageLink($product->link_rewrite, $image['id_image'], ImageType::getFormattedName('home'));
+                }
+
+                $features = $product->getFeatures();
+
+                $products_for_template[] = [
+                    'id_product' => $product->id,
+                    'name' => $product->name,
+                    'reference' => $product->reference,
+                    'price' => Product::getPriceStatic($product->id, true, null, 2),
+                    'link' => $link->getProductLink($product),
+                    'image_url' => $image_url,
+                    'description_short' => $product->description_short,
+                    'features' => $features
+                ];
+            }
+        }
+        return $products_for_template;
     }
 }
