@@ -1,7 +1,7 @@
 <?php
 /**
  * Module d'importation des produits et catégories Victron Energy pour PrestaShop
- * Version 3.6.8 : Correction des erreurs PHP lors de l'affichage des produits sans image ou avec des caractéristiques incomplètes.
+ * Version 3.6.9 : Ajout d'un coefficient pour le calcul du prix de vente.
  */
 
 if (!defined('_PS_VERSION_')) {
@@ -20,7 +20,7 @@ class Ps_VictronProducts extends Module
     {
         $this->name = 'ps_victronproducts';
         $this->tab = 'migration_tools';
-        $this->version = '3.6.8';
+        $this->version = '3.6.9';
         $this->author = "Vitasolar's IT development department";
         $this->need_instance = 0;
         $this->bootstrap = true;
@@ -37,6 +37,7 @@ class Ps_VictronProducts extends Module
     {
         return parent::install() &&
             Configuration::updateValue('VICTRON_API_KEY', '') &&
+            Configuration::updateValue('VICTRON_PRICE_COEFFICIENT', '1.0') &&
             Configuration::updateValue('VICTRON_LAST_SYNC', 0) &&
             $this->registerHook('displayHome');
     }
@@ -44,6 +45,7 @@ class Ps_VictronProducts extends Module
     public function uninstall()
     {
         Configuration::deleteByName('VICTRON_API_KEY');
+        Configuration::deleteByName('VICTRON_PRICE_COEFFICIENT');
         Configuration::deleteByName('VICTRON_LAST_SYNC');
         Configuration::deleteByName('VICTRON_PARENT_CATEGORY');
         return parent::uninstall();
@@ -59,6 +61,7 @@ class Ps_VictronProducts extends Module
 
         if (Tools::isSubmit('submitConfig')) {
             Configuration::updateValue('VICTRON_API_KEY', Tools::getValue('VICTRON_API_KEY'));
+            Configuration::updateValue('VICTRON_PRICE_COEFFICIENT', (float)Tools::getValue('VICTRON_PRICE_COEFFICIENT'));
             $output .= $this->displayConfirmation($this->l('Paramètres mis à jour avec succès.'));
         } elseif (Tools::isSubmit('runSync')) {
             @set_time_limit(3000);
@@ -93,7 +96,21 @@ class Ps_VictronProducts extends Module
         $fields_form = [
             'form' => [
                 'legend' => ['title' => $this->l('Configuration de l\'API Victron'), 'icon' => 'icon-cogs'],
-                'input' => [['type' => 'text', 'label' => $this->l('Clé API Victron E-Order'), 'name' => 'VICTRON_API_KEY', 'required' => true]],
+                'input' => [
+                    [
+                        'type' => 'text',
+                        'label' => $this->l('Clé API Victron E-Order'),
+                        'name' => 'VICTRON_API_KEY',
+                        'required' => true
+                    ],
+                    [
+                        'type' => 'text',
+                        'label' => $this->l('Coefficient de prix'),
+                        'name' => 'VICTRON_PRICE_COEFFICIENT',
+                        'desc' => $this->l('Le prix d\'achat sera multiplié par ce coefficient pour obtenir le prix de vente.'),
+                        'required' => true
+                    ]
+                ],
                 'submit' => ['title' => $this->l('Enregistrer'), 'name' => 'submitConfig'],
                 'buttons' => [
                     ['title' => $this->l('Lancer la Synchronisation Complète'), 'name' => 'runSync', 'type' => 'submit', 'class' => 'btn btn-primary pull-right', 'icon' => 'process-icon-refresh'],
@@ -106,9 +123,10 @@ class Ps_VictronProducts extends Module
         $helper->currentIndex = $this->context->link->getAdminLink('AdminModules', false).'&configure='.$this->name;
         $helper->token = Tools::getAdminTokenLite('AdminModules');
         $helper->fields_value['VICTRON_API_KEY'] = Configuration::get('VICTRON_API_KEY');
+        $helper->fields_value['VICTRON_PRICE_COEFFICIENT'] = Configuration::get('VICTRON_PRICE_COEFFICIENT');
         return $helper->generateForm([$fields_form]);
     }
-
+    
     private function fetchApiData($endpoint, $apiKey)
     {
         $baseUrl = 'https://eorder.victronenergy.com';
@@ -129,16 +147,16 @@ class Ps_VictronProducts extends Module
             ];
             curl_setopt_array($ch, $options);
             $response = curl_exec($ch);
-
+            
             if ($response === false) {
                 $this->lastError = "Erreur cURL : " . curl_error($ch);
                 curl_close($ch);
                 return false;
             }
-
+            
             $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
             curl_close($ch);
-
+            
             if ($httpCode !== 200) {
                 $this->lastError = "Erreur HTTP : $httpCode.";
                 return false;
@@ -194,14 +212,14 @@ class Ps_VictronProducts extends Module
             $this->lastError = $this->l('La clé API n\'est pas configurée.');
             return false;
         }
-
+        
         $productsData = $this->fetchApiData('/api/v1/products-extended/', $apiKey);
         $apiCategories = $this->fetchApiData('/api/v1/categories/', $apiKey);
-
+        
         if ($productsData === false || $apiCategories === false) {
             return false;
         }
-
+        
         $categoriesMap = $this->processCategoryTree($productsData, $apiCategories);
         if ($categoriesMap === false) {
             $this->lastError = $this->l('Échec de la création de la structure des catégories.');
@@ -211,7 +229,7 @@ class Ps_VictronProducts extends Module
         foreach ($productsData as $productData) {
             $this->importProduct($productData, $categoriesMap);
         }
-
+        
         Configuration::updateValue('VICTRON_LAST_SYNC', time());
         return true;
     }
@@ -348,7 +366,13 @@ class Ps_VictronProducts extends Module
         }
         
         $product->reference = $reference;
-        $product->price = (float)($productData['price'] ?? 0);
+        
+        $coefficient = (float)Configuration::get('VICTRON_PRICE_COEFFICIENT');
+        if ($coefficient <= 0) {
+            $coefficient = 1.0;
+        }
+        $product->price = (float)($productData['price'] ?? 0) * $coefficient;
+        
         $product->id_manufacturer = $this->manufacturerId;
         
         // Shipping information
