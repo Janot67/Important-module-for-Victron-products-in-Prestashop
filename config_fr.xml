@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_victronproducts</name>
+    <displayName><![CDATA[Importateur de produits Victron]]></displayName>
+    <version><![CDATA[3.6.9]]></version>
+    <description><![CDATA[Importe, met &agrave; jour et affiche les produits Victron Energy avec une arborescence de cat&eacute;gories et des images. Les noms de produits sont bas&eacute;s sur la description de l&#039;API Victron.]]></description>
+    <author><![CDATA[Vitasolar&#039;s IT development department]]></author>
+    <tab><![CDATA[migration_tools]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
