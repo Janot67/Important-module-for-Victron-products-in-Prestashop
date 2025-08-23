@@ -1,7 +1,7 @@
 <?php
 /**
  * Module d'importation des produits et catégories Victron Energy pour PrestaShop
- * Version 3.8.0 : Externalisation du dictionnaire de traduction.
+ * Version 3.9.6 : Ajoute l'image du premier produit comme miniature pour les sous-catégories.
  */
 
 if (!defined('_PS_VERSION_')) {
@@ -21,7 +21,7 @@ class Ps_VictronProducts extends Module
     {
         $this->name = 'ps_victronproducts';
         $this->tab = 'migration_tools';
-        $this->version = '3.8.0';
+        $this->version = '3.9.6';
         $this->author = "Vitasolar's IT development department";
         $this->need_instance = 0;
         $this->bootstrap = true;
@@ -242,7 +242,9 @@ class Ps_VictronProducts extends Module
 
     public function runSync()
     {
-        if (!$this->setupEnvironment()) return false;
+        if (!$this->setupEnvironment()) {
+            return false;
+        }
 
         $apiKey = Configuration::get('VICTRON_API_KEY');
         if (empty($apiKey)) {
@@ -263,8 +265,27 @@ class Ps_VictronProducts extends Module
             return false;
         }
 
+        $subcategoryImageMap = [];
+
         foreach ($productsData as $productData) {
+            $groupName = !empty($productData['category']) ? trim($productData['category']) : 'Catégorie non définie';
+            $subGroupName = !empty($productData['subcategory']) ? trim($productData['subcategory']) : 'Sous-catégorie non définie';
+            
+            if (isset($categoriesMap[$groupName]['subgroups'][$subGroupName])) {
+                $id_subgroup = $categoriesMap[$groupName]['subgroups'][$subGroupName];
+
+                if ($id_subgroup && !isset($subcategoryImageMap[$id_subgroup])) {
+                    if (!empty($productData['product_data']['image'])) {
+                        $subcategoryImageMap[$id_subgroup] = $productData['product_data']['image'];
+                    }
+                }
+            }
+
             $this->importProduct($productData, $categoriesMap);
+        }
+        
+        foreach ($subcategoryImageMap as $id_category => $imageUrl) {
+            $this->importCategoryImage($id_category, $imageUrl);
         }
         
         Configuration::updateValue('VICTRON_LAST_SYNC', time());
@@ -405,9 +426,13 @@ class Ps_VictronProducts extends Module
             $product->updateCategories(array_unique([$this->victronParentCategoryId, $id_group, $id_subgroup]));
             StockAvailable::setQuantity($product->id, 0, (int)($productData['stock_quantity'] ?? 100));
 
-            if (!Image::hasImages($this->defaultLanguageId, $product->id) && !empty($productData['product_data']['image'])) {
-                $this->importProductImage($product, $productData['product_data']['image']);
+            if (!empty($productData['product_data']['image'])) {
+                $images = Image::getImages($this->defaultLanguageId, $product->id);
+                if (empty($images)) {
+                    $this->importProductImage($product, $productData['product_data']['image']);
+                }
             }
+
 
             // Clear existing features for this product to avoid duplicates
             $product->deleteFeatures();
@@ -490,7 +515,7 @@ class Ps_VictronProducts extends Module
     private function importCategoryImage($categoryId, $imageUrl)
     {
         $category = new Category($categoryId);
-        if (Validate::isLoadedObject($category) && !$category->id_image) {
+        if (Validate::isLoadedObject($category)) {
             $this->copyImg($categoryId, null, $imageUrl, 'categories');
         }
     }
@@ -499,7 +524,7 @@ class Ps_VictronProducts extends Module
     {
         $tmpfile = tempnam(_PS_TMP_IMG_DIR_, 'ps_import');
         if (!$tmpfile) {
-            return;
+            return false;
         }
 
         $urlParts = explode('/', $url);
@@ -509,32 +534,61 @@ class Ps_VictronProducts extends Module
 
         if (Tools::copy($encodedUrl, $tmpfile)) {
             if ($entity === 'categories') {
-                $path = _PS_CAT_IMG_DIR_ . (int)$id_entity;
-                $original_image_path = $path . '.jpg';
-                
-                ImageManager::resize($tmpfile, $original_image_path, null, null, 'jpg', false);
-
-                $types = ImageType::getImagesTypes('categories');
-                foreach ($types as $image_type) {
-                    ImageManager::resize(
-                        $original_image_path,
-                        $path . '-' . stripslashes($image_type['name']) . '.jpg',
-                        $image_type['width'],
-                        $image_type['height'],
-                        'jpg'
-                    );
+                $category = new Category((int)$id_entity);
+                if (Validate::isLoadedObject($category)) {
+                    $category->deleteImage(true); // Supprime l'ancienne image et les miniatures
+                    $path = _PS_CAT_IMG_DIR_ . (int)$id_entity;
+                    $original_image_path = $path . '.jpg';
+                    
+                    if (ImageManager::resize($tmpfile, $original_image_path)) {
+                        // Créer la version _thumb pour l'image principale
+                        @copy($original_image_path, $path . '_thumb.jpg');
+                        
+                        $images_types = ImageType::getImagesTypes('categories');
+                        foreach ($images_types as $image_type) {
+                            $destination = $path . '-' . stripslashes($image_type['name']) . '.jpg';
+                            ImageManager::resize(
+                                $original_image_path,
+                                $destination,
+                                (int)$image_type['width'],
+                                (int)$image_type['height']
+                            );
+                            // Créer la version _thumb pour le thème
+                            $thumb_destination = $path . '_thumb-' . stripslashes($image_type['name']) . '.jpg';
+                            @copy($destination, $thumb_destination);
+                        }
+                        $category->update(); // Met à jour la date pour le cache
+                    }
                 }
             } else { // products
-                $path = (new Image($id_image))->getPathForCreation();
-                ImageManager::resize($tmpfile, $path . '.jpg');
-                $types = ImageType::getImagesTypes('products');
-                foreach ($types as $image_type) {
-                    ImageManager::resize($path . '.jpg', $path . '-' . stripslashes($image_type['name']) . '.jpg', $image_type['width'], $image_type['height']);
+                $image = new Image($id_image);
+                $path = $image->getPathForCreation();
+                $original_image_path = $path . '.jpg';
+                
+                if (ImageManager::resize($tmpfile, $original_image_path)) {
+                    // Créer la version _thumb pour l'image principale
+                    @copy($original_image_path, $path . '_thumb.jpg');
+
+                    $types = ImageType::getImagesTypes('products');
+                    foreach ($types as $image_type) {
+                        $destination = $path . '-' . stripslashes($image_type['name']) . '.jpg';
+                        ImageManager::resize(
+                            $original_image_path,
+                            $destination,
+                            $image_type['width'],
+                            $image_type['height']
+                        );
+                        // Créer la version _thumb pour le thème
+                        $thumb_destination = $path . '_thumb-' . stripslashes($image_type['name']) . '.jpg';
+                        @copy($destination, $thumb_destination);
+                    }
                 }
             }
         }
         @unlink($tmpfile);
+        return true;
     }
+
 
     private function clearVictronProducts()
     {
